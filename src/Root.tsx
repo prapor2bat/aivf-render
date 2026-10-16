@@ -1,6 +1,7 @@
 import React from "react";
 import { Composition } from "remotion";
 import { BrandDemo, BRAND_F } from "./brand/Demo";
+import { Avatar10, AVATAR10_F } from "./avatar10/Video";
 import { CoverDemoV, CoverDemoW } from "./brand/CoverDemo";
 import { MarkerDemo } from "./brand/MarkerDemo";
 import { CharacterDemo, CHARACTER_DEMO_F } from "./story/CharacterDemo";
@@ -27,6 +28,7 @@ export const MATH5_COVER: CoverSpec = { top: "СКЛАДЕНА", bottom: "ФУН
 export const RemotionRoot: React.FC = () => (
   <>
     <Composition id="Brand" component={BrandDemo} durationInFrames={BRAND_F} fps={30} width={720} height={1280} />
+    <Composition id="Avatar10" component={Avatar10} durationInFrames={AVATAR10_F} fps={30} width={720} height={1280} />
     <Composition id="CoverV" component={CoverDemoV} durationInFrames={8} fps={30} width={720} height={1280} defaultProps={{ guide: false }} />
     <Composition id="CoverW" component={CoverDemoW} durationInFrames={8} fps={30} width={1280} height={720} />
     <Composition id="Marker" component={MarkerDemo} durationInFrames={90} fps={30} width={1280} height={720} />

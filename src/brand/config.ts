@@ -23,4 +23,4 @@ export const CTA_TITLE: [string, string] = BRAND.uk.cta;
 
 /** Пози аватара з ПРОЗОРИМ фоном (PNG з альфою). Решта поз вважаються з білим фоном
     і на світлих сценах змішуються через multiply. Див. docs/AVATAR.md. */
-export const AVATAR_ALPHA_POSES = ["welcome", "shock", "idea", "point-right", "point-left", "thumbs", "stop"];
+export const AVATAR_ALPHA_POSES = ["welcome", "shock", "idea", "point-right", "point-left", "thumbs", "stop", "think", "skeptical", "neutral"];
