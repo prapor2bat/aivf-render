@@ -1,4 +1,4 @@
-name: Render video
+﻿name: Render video
 
 on:
   workflow_dispatch:
@@ -8,18 +8,22 @@ on:
         required: true
         default: "Screencast"
       scale:
-        description: "Render scale (1.5 = 1.5x resolution)"
+        description: "Render scale (1 = 1920x1080, 1.5 = 2880x1620, much slower)"
         required: true
-        default: "1.5"
+        default: "1"
       crf:
         description: "Quality: CRF (18 = high, 23 = medium)"
         required: true
-        default: "18"
+        default: "20"
+      concurrency:
+        description: "Parallel browser tabs (4 vCPU / 16 GB runner; try 2, then 3)"
+        required: true
+        default: "2"
 
 jobs:
   render:
     runs-on: ubuntu-latest
-    timeout-minutes: 360
+    timeout-minutes: 120
 
     steps:
       - name: Checkout
@@ -30,27 +34,37 @@ jobs:
         with:
           node-version: "20"
           cache: "npm"
+          cache-dependency-path: studio/package-lock.json
 
       - name: Install dependencies
+        working-directory: studio
         run: npm ci
 
       - name: Install Remotion browser (Chrome Headless Shell)
+        working-directory: studio
         run: npx remotion browser ensure
 
-      - name: List compositions
-        run: npx remotion compositions
+      # - name: Download assets
+      #   run: ...
 
       - name: Render
+        working-directory: studio
+        env:
+          COMPOSITION: ${{ inputs.composition }}
+          SCALE: ${{ inputs.scale }}
+          CRF: ${{ inputs.crf }}
+          CONCURRENCY: ${{ inputs.concurrency }}
         run: |
-          npx remotion render "${{ inputs.composition }}" \
-            "out/${{ inputs.composition }}.mp4" \
-            --scale=${{ inputs.scale }} \
-            --crf=${{ inputs.crf }} \
-            --concurrency=2
+          mkdir -p out
+          time npx remotion render "$COMPOSITION" \
+            "out/$COMPOSITION.mp4" \
+            --scale="$SCALE" \
+            --crf="$CRF" \
+            --concurrency="$CONCURRENCY"
 
       - name: Upload rendered video
         uses: actions/upload-artifact@v4
         with:
           name: rendered-${{ inputs.composition }}
-          path: out/*.mp4
+          path: studio/out/*.mp4
           retention-days: 7
