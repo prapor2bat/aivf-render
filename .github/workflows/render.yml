@@ -1,0 +1,62 @@
+﻿name: Render video
+
+on:
+  workflow_dispatch:
+    inputs:
+      composition:
+        description: "Composition ID to render (see remotion list)"
+        required: true
+        default: "Screencast"
+      scale:
+        description: "Render scale (1 = 1920x1080, 1.5 = 2880x1620, much slower)"
+        required: true
+        default: "1"
+      crf:
+        description: "Quality: CRF (18 = high, 23 = medium)"
+        required: true
+        default: "20"
+      concurrency:
+        description: "Parallel browser tabs (4 vCPU / 16 GB runner; try 2, then 3)"
+        required: true
+        default: "2"
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Install Remotion browser (Chrome Headless Shell)
+        run: npx remotion browser ensure
+
+      - name: Render
+        env:
+          COMPOSITION: ${{ inputs.composition }}
+          SCALE: ${{ inputs.scale }}
+          CRF: ${{ inputs.crf }}
+          CONCURRENCY: ${{ inputs.concurrency }}
+        run: |
+          mkdir -p out
+          time npx remotion render "$COMPOSITION" \
+            "out/$COMPOSITION.mp4" \
+            --scale="$SCALE" \
+            --crf="$CRF" \
+            --concurrency="$CONCURRENCY"
+
+      - name: Upload rendered video
+        uses: actions/upload-artifact@v4
+        with:
+          name: rendered-${{ inputs.composition }}
+          path: out/*.mp4
+          retention-days: 7
