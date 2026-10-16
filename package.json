@@ -1,0 +1,55 @@
+{
+  "name": "ai-video-factory-studio",
+  "version": "3.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "remotion studio",
+    "render": "remotion render",
+    "still": "remotion still",
+    "demo": "remotion render Brand out/brand-demo.mp4 --scale=1.5 --crf=18",
+    "typecheck": "tsc --noEmit -p .",
+    "stills": "node scripts/stills.mjs",
+    "carousel": "node scripts/carousel.mjs",
+    "demo-character": "remotion render CharacterDemo out/character-demo.mp4 --scale=1.5 --crf=18"
+  },
+  "dependencies": {
+    "@react-three/drei": "^10.7.8",
+    "@react-three/fiber": "^9.7.0",
+    "@react-three/postprocessing": "^3.1.1",
+    "@remotion/animated-emoji": "^4.0.518",
+    "@remotion/bundler": "^4.0.518",
+    "@remotion/captions": "^4.0.518",
+    "@remotion/cli": "^4.0.518",
+    "@remotion/google-fonts": "^4.0.518",
+    "@remotion/lambda": "^4.0.518",
+    "@remotion/layout-utils": "^4.0.518",
+    "@remotion/light-leaks": "^4.0.518",
+    "@remotion/lottie": "^4.0.518",
+    "@remotion/media": "^4.0.518",
+    "@remotion/media-utils": "^4.0.518",
+    "@remotion/motion-blur": "^4.0.518",
+    "@remotion/noise": "^4.0.518",
+    "@remotion/paths": "^4.0.518",
+    "@remotion/renderer": "^4.0.518",
+    "@remotion/sfx": "^4.0.518",
+    "@remotion/shapes": "^4.0.518",
+    "@remotion/three": "^4.0.518",
+    "@remotion/transitions": "^4.0.518",
+    "@remotion/zod-types": "^4.0.518",
+    "@types/three": "^0.185.4",
+    "opentype.js": "^2.0.0",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "remotion": "^4.0.518",
+    "remotion-animated": "^2.2.0",
+    "three": "^0.185.1"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.5",
+    "typescript": "^7.0.2"
+  },
+  "allowScripts": {
+    "esbuild@0.28.1": true
+  }
+}

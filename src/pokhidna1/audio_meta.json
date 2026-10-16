@@ -1,0 +1,3069 @@
+{
+  "tts_provider": "elevenlabs-direct",
+  "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+  "language_code": "uk",
+  "pron_mode": "accent",
+  "stability": 0,
+  "bgm": null,
+  "voices": [
+    {
+      "id": "hook",
+      "path": "audio/hook.mp3",
+      "duration_s": 12.04,
+      "words": [
+        {
+          "id": "hook-w0",
+          "text": "Бачиш",
+          "start": 0.224,
+          "end": 0.56
+        },
+        {
+          "id": "hook-w1",
+          "text": "біля",
+          "start": 0.587,
+          "end": 0.8
+        },
+        {
+          "id": "hook-w2",
+          "text": "функції",
+          "start": 0.88,
+          "end": 1.36
+        },
+        {
+          "id": "hook-w3",
+          "text": "якийсь",
+          "start": 1.44,
+          "end": 1.76
+        },
+        {
+          "id": "hook-w4",
+          "text": "штрих...",
+          "start": 1.84,
+          "end": 2.72
+        },
+        {
+          "id": "hook-w5",
+          "text": "і",
+          "start": 2.76,
+          "end": 2.8
+        },
+        {
+          "id": "hook-w6",
+          "text": "зовсім",
+          "start": 2.96,
+          "end": 3.32
+        },
+        {
+          "id": "hook-w7",
+          "text": "не",
+          "start": 3.36,
+          "end": 3.44
+        },
+        {
+          "id": "hook-w8",
+          "text": "розумієш...",
+          "start": 3.52,
+          "end": 4.32
+        },
+        {
+          "id": "hook-w9",
+          "text": "що",
+          "start": 4.36,
+          "end": 4.48
+        },
+        {
+          "id": "hook-w10",
+          "text": "це",
+          "start": 4.56,
+          "end": 4.64
+        },
+        {
+          "id": "hook-w11",
+          "text": "таке?",
+          "start": 4.747,
+          "end": 5.28
+        },
+        {
+          "id": "hook-w12",
+          "text": "Насправді",
+          "start": 5.6,
+          "end": 6.08
+        },
+        {
+          "id": "hook-w13",
+          "text": "похідна...",
+          "start": 6.16,
+          "end": 6.96
+        },
+        {
+          "id": "hook-w14",
+          "text": "це",
+          "start": 7.08,
+          "end": 7.2
+        },
+        {
+          "id": "hook-w15",
+          "text": "просто",
+          "start": 7.28,
+          "end": 7.6
+        },
+        {
+          "id": "hook-w16",
+          "text": "швидкість",
+          "start": 7.68,
+          "end": 8.16
+        },
+        {
+          "id": "hook-w17",
+          "text": "зміни.",
+          "start": 8.24,
+          "end": 8.96
+        },
+        {
+          "id": "hook-w18",
+          "text": "І",
+          "start": 9.04,
+          "end": 9.12
+        },
+        {
+          "id": "hook-w19",
+          "text": "зараз",
+          "start": 9.2,
+          "end": 9.6
+        },
+        {
+          "id": "hook-w20",
+          "text": "ти",
+          "start": 9.68,
+          "end": 9.76
+        },
+        {
+          "id": "hook-w21",
+          "text": "побачиш",
+          "start": 9.84,
+          "end": 10.24
+        },
+        {
+          "id": "hook-w22",
+          "text": "це",
+          "start": 10.32,
+          "end": 10.48
+        },
+        {
+          "id": "hook-w23",
+          "text": "на",
+          "start": 10.56,
+          "end": 10.64
+        },
+        {
+          "id": "hook-w24",
+          "text": "простих",
+          "start": 10.68,
+          "end": 11.04
+        },
+        {
+          "id": "hook-w25",
+          "text": "прикладах.",
+          "start": 11.12,
+          "end": 12
+        }
+      ]
+    },
+    {
+      "id": "idea",
+      "path": "audio/idea.mp3",
+      "duration_s": 19.469,
+      "words": [
+        {
+          "id": "idea-w0",
+          "text": "Уяви,",
+          "start": 0,
+          "end": 0.629
+        },
+        {
+          "id": "idea-w1",
+          "text": "що",
+          "start": 0.709,
+          "end": 0.829
+        },
+        {
+          "id": "idea-w2",
+          "text": "ти",
+          "start": 0.869,
+          "end": 1.029
+        },
+        {
+          "id": "idea-w3",
+          "text": "їдеш",
+          "start": 1.109,
+          "end": 1.349
+        },
+        {
+          "id": "idea-w4",
+          "text": "у",
+          "start": 1.429,
+          "end": 1.469
+        },
+        {
+          "id": "idea-w5",
+          "text": "машині.",
+          "start": 1.509,
+          "end": 2.229
+        },
+        {
+          "id": "idea-w6",
+          "text": "Спідометр",
+          "start": 2.549,
+          "end": 3.109
+        },
+        {
+          "id": "idea-w7",
+          "text": "показує",
+          "start": 3.149,
+          "end": 3.749
+        },
+        {
+          "id": "idea-w8",
+          "text": "не",
+          "start": 3.829,
+          "end": 3.989
+        },
+        {
+          "id": "idea-w9",
+          "text": "середню",
+          "start": 4.069,
+          "end": 4.469
+        },
+        {
+          "id": "idea-w10",
+          "text": "швидкість",
+          "start": 4.509,
+          "end": 5.029
+        },
+        {
+          "id": "idea-w11",
+          "text": "за",
+          "start": 5.109,
+          "end": 5.189
+        },
+        {
+          "id": "idea-w12",
+          "text": "всю",
+          "start": 5.229,
+          "end": 5.389
+        },
+        {
+          "id": "idea-w13",
+          "text": "дорогу...",
+          "start": 5.429,
+          "end": 6.309
+        },
+        {
+          "id": "idea-w14",
+          "text": "а",
+          "start": 6.349,
+          "end": 6.389
+        },
+        {
+          "id": "idea-w15",
+          "text": "швидкість",
+          "start": 6.469,
+          "end": 6.949
+        },
+        {
+          "id": "idea-w16",
+          "text": "прямо",
+          "start": 7.109,
+          "end": 7.509
+        },
+        {
+          "id": "idea-w17",
+          "text": "зараз.",
+          "start": 7.589,
+          "end": 8.069
+        },
+        {
+          "id": "idea-w18",
+          "text": "Ось",
+          "start": 8.549,
+          "end": 8.709
+        },
+        {
+          "id": "idea-w19",
+          "text": "це",
+          "start": 8.869,
+          "end": 9.029
+        },
+        {
+          "id": "idea-w20",
+          "text": "миттєве",
+          "start": 9.109,
+          "end": 9.589
+        },
+        {
+          "id": "idea-w21",
+          "text": "значення...",
+          "start": 9.669,
+          "end": 10.549
+        },
+        {
+          "id": "idea-w22",
+          "text": "і",
+          "start": 10.629,
+          "end": 10.709
+        },
+        {
+          "id": "idea-w23",
+          "text": "є",
+          "start": 10.869,
+          "end": 10.949
+        },
+        {
+          "id": "idea-w24",
+          "text": "похідна.",
+          "start": 11.029,
+          "end": 11.829
+        },
+        {
+          "id": "idea-w25",
+          "text": "Похідна",
+          "start": 12.197,
+          "end": 12.549
+        },
+        {
+          "id": "idea-w26",
+          "text": "відповідає",
+          "start": 12.709,
+          "end": 13.269
+        },
+        {
+          "id": "idea-w27",
+          "text": "на",
+          "start": 13.349,
+          "end": 13.429
+        },
+        {
+          "id": "idea-w28",
+          "text": "одне",
+          "start": 13.509,
+          "end": 13.669
+        },
+        {
+          "id": "idea-w29",
+          "text": "питання...",
+          "start": 13.749,
+          "end": 14.629
+        },
+        {
+          "id": "idea-w30",
+          "text": "наскільки",
+          "start": 14.709,
+          "end": 15.109
+        },
+        {
+          "id": "idea-w31",
+          "text": "швидко",
+          "start": 15.189,
+          "end": 15.589
+        },
+        {
+          "id": "idea-w32",
+          "text": "одна",
+          "start": 15.749,
+          "end": 15.989
+        },
+        {
+          "id": "idea-w33",
+          "text": "величина",
+          "start": 16.069,
+          "end": 16.549
+        },
+        {
+          "id": "idea-w34",
+          "text": "змінюється...",
+          "start": 16.629,
+          "end": 17.589
+        },
+        {
+          "id": "idea-w35",
+          "text": "коли",
+          "start": 17.709,
+          "end": 17.909
+        },
+        {
+          "id": "idea-w36",
+          "text": "змінюється",
+          "start": 17.989,
+          "end": 18.549
+        },
+        {
+          "id": "idea-w37",
+          "text": "інша.",
+          "start": 18.629,
+          "end": 19.429
+        }
+      ]
+    },
+    {
+      "id": "geometry",
+      "path": "audio/geometry.mp3",
+      "duration_s": 15.021,
+      "words": [
+        {
+          "id": "geometry-w0",
+          "text": "Погляньмо",
+          "start": 0,
+          "end": 0.501
+        },
+        {
+          "id": "geometry-w1",
+          "text": "з",
+          "start": 0.541,
+          "end": 0.581
+        },
+        {
+          "id": "geometry-w2",
+          "text": "боку",
+          "start": 0.661,
+          "end": 0.901
+        },
+        {
+          "id": "geometry-w3",
+          "text": "геометрії.",
+          "start": 0.981,
+          "end": 1.77
+        },
+        {
+          "id": "geometry-w4",
+          "text": "Візьми",
+          "start": 2.181,
+          "end": 2.421
+        },
+        {
+          "id": "geometry-w5",
+          "text": "пряму",
+          "start": 2.501,
+          "end": 2.821
+        },
+        {
+          "id": "geometry-w6",
+          "text": "лінію.",
+          "start": 2.861,
+          "end": 3.541
+        },
+        {
+          "id": "geometry-w7",
+          "text": "Її",
+          "start": 3.781,
+          "end": 4.021
+        },
+        {
+          "id": "geometry-w8",
+          "text": "нахил",
+          "start": 4.141,
+          "end": 4.421
+        },
+        {
+          "id": "geometry-w9",
+          "text": "усюди",
+          "start": 4.501,
+          "end": 4.901
+        },
+        {
+          "id": "geometry-w10",
+          "text": "однаковий.",
+          "start": 4.981,
+          "end": 5.781
+        },
+        {
+          "id": "geometry-w11",
+          "text": "Це",
+          "start": 6.021,
+          "end": 6.181
+        },
+        {
+          "id": "geometry-w12",
+          "text": "і",
+          "start": 6.261,
+          "end": 6.341
+        },
+        {
+          "id": "geometry-w13",
+          "text": "є",
+          "start": 6.501,
+          "end": 6.661
+        },
+        {
+          "id": "geometry-w14",
+          "text": "кутовий",
+          "start": 6.741,
+          "end": 7.141
+        },
+        {
+          "id": "geometry-w15",
+          "text": "коефіцієнт...",
+          "start": 7.221,
+          "end": 8.341
+        },
+        {
+          "id": "geometry-w16",
+          "text": "відношення",
+          "start": 8.421,
+          "end": 8.981
+        },
+        {
+          "id": "geometry-w17",
+          "text": "приросту",
+          "start": 9.061,
+          "end": 9.541
+        },
+        {
+          "id": "geometry-w18",
+          "text": "вгору...",
+          "start": 9.621,
+          "end": 10.261
+        },
+        {
+          "id": "geometry-w19",
+          "text": "до",
+          "start": 10.341,
+          "end": 10.421
+        },
+        {
+          "id": "geometry-w20",
+          "text": "приросту",
+          "start": 10.501,
+          "end": 10.901
+        },
+        {
+          "id": "geometry-w21",
+          "text": "вправо.",
+          "start": 10.941,
+          "end": 11.461
+        },
+        {
+          "id": "geometry-w22",
+          "text": "Але",
+          "start": 11.925,
+          "end": 12.021
+        },
+        {
+          "id": "geometry-w23",
+          "text": "в",
+          "start": 12.101,
+          "end": 12.141
+        },
+        {
+          "id": "geometry-w24",
+          "text": "кривої...",
+          "start": 12.181,
+          "end": 13.061
+        },
+        {
+          "id": "geometry-w25",
+          "text": "нахил",
+          "start": 13.181,
+          "end": 13.461
+        },
+        {
+          "id": "geometry-w26",
+          "text": "постійно",
+          "start": 13.541,
+          "end": 14.101
+        },
+        {
+          "id": "geometry-w27",
+          "text": "міняється.",
+          "start": 14.128,
+          "end": 15.061
+        }
+      ]
+    },
+    {
+      "id": "slope",
+      "path": "audio/slope.mp3",
+      "duration_s": 14.12,
+      "words": [
+        {
+          "id": "slope-w0",
+          "text": "Щоб",
+          "start": 0.16,
+          "end": 0.4
+        },
+        {
+          "id": "slope-w1",
+          "text": "виміряти",
+          "start": 0.44,
+          "end": 0.96
+        },
+        {
+          "id": "slope-w2",
+          "text": "нахил",
+          "start": 1.04,
+          "end": 1.28
+        },
+        {
+          "id": "slope-w3",
+          "text": "кривої",
+          "start": 1.36,
+          "end": 1.76
+        },
+        {
+          "id": "slope-w4",
+          "text": "в",
+          "start": 1.8,
+          "end": 1.84
+        },
+        {
+          "id": "slope-w5",
+          "text": "одній",
+          "start": 1.92,
+          "end": 2.16
+        },
+        {
+          "id": "slope-w6",
+          "text": "точці...",
+          "start": 2.24,
+          "end": 3.12
+        },
+        {
+          "id": "slope-w7",
+          "text": "проводимо",
+          "start": 3.28,
+          "end": 3.68
+        },
+        {
+          "id": "slope-w8",
+          "text": "дотичну.",
+          "start": 3.76,
+          "end": 4.4
+        },
+        {
+          "id": "slope-w9",
+          "text": "Дотична",
+          "start": 4.88,
+          "end": 5.36
+        },
+        {
+          "id": "slope-w10",
+          "text": "торкається",
+          "start": 5.44,
+          "end": 6
+        },
+        {
+          "id": "slope-w11",
+          "text": "графіка...",
+          "start": 6.16,
+          "end": 6.88
+        },
+        {
+          "id": "slope-w12",
+          "text": "і",
+          "start": 6.92,
+          "end": 6.96
+        },
+        {
+          "id": "slope-w13",
+          "text": "має",
+          "start": 7.04,
+          "end": 7.2
+        },
+        {
+          "id": "slope-w14",
+          "text": "точно",
+          "start": 7.36,
+          "end": 7.72
+        },
+        {
+          "id": "slope-w15",
+          "text": "такий",
+          "start": 7.76,
+          "end": 8.08
+        },
+        {
+          "id": "slope-w16",
+          "text": "самий",
+          "start": 8.16,
+          "end": 8.4
+        },
+        {
+          "id": "slope-w17",
+          "text": "нахил...",
+          "start": 8.48,
+          "end": 9.04
+        },
+        {
+          "id": "slope-w18",
+          "text": "як",
+          "start": 9.12,
+          "end": 9.24
+        },
+        {
+          "id": "slope-w19",
+          "text": "сама",
+          "start": 9.28,
+          "end": 9.52
+        },
+        {
+          "id": "slope-w20",
+          "text": "крива",
+          "start": 9.6,
+          "end": 9.84
+        },
+        {
+          "id": "slope-w21",
+          "text": "в",
+          "start": 9.92,
+          "end": 9.96
+        },
+        {
+          "id": "slope-w22",
+          "text": "цій",
+          "start": 10,
+          "end": 10.16
+        },
+        {
+          "id": "slope-w23",
+          "text": "точці.",
+          "start": 10.24,
+          "end": 10.72
+        },
+        {
+          "id": "slope-w24",
+          "text": "Нахил",
+          "start": 11.32,
+          "end": 11.52
+        },
+        {
+          "id": "slope-w25",
+          "text": "цієї",
+          "start": 11.6,
+          "end": 11.92
+        },
+        {
+          "id": "slope-w26",
+          "text": "дотичної...",
+          "start": 12,
+          "end": 12.88
+        },
+        {
+          "id": "slope-w27",
+          "text": "і",
+          "start": 12.92,
+          "end": 12.96
+        },
+        {
+          "id": "slope-w28",
+          "text": "є",
+          "start": 13.04,
+          "end": 13.2
+        },
+        {
+          "id": "slope-w29",
+          "text": "похідна.",
+          "start": 13.28,
+          "end": 14.08
+        }
+      ]
+    },
+    {
+      "id": "limit",
+      "path": "audio/limit.mp3",
+      "duration_s": 21.4,
+      "words": [
+        {
+          "id": "limit-w0",
+          "text": "Але",
+          "start": 0.08,
+          "end": 0.4
+        },
+        {
+          "id": "limit-w1",
+          "text": "як",
+          "start": 0.64,
+          "end": 0.8
+        },
+        {
+          "id": "limit-w2",
+          "text": "знайти",
+          "start": 0.84,
+          "end": 1.2
+        },
+        {
+          "id": "limit-w3",
+          "text": "цей",
+          "start": 1.24,
+          "end": 1.36
+        },
+        {
+          "id": "limit-w4",
+          "text": "нахил",
+          "start": 1.44,
+          "end": 1.76
+        },
+        {
+          "id": "limit-w5",
+          "text": "точно?",
+          "start": 1.84,
+          "end": 2.48
+        },
+        {
+          "id": "limit-w6",
+          "text": "Беремо",
+          "start": 2.864,
+          "end": 3.2
+        },
+        {
+          "id": "limit-w7",
+          "text": "дві",
+          "start": 3.28,
+          "end": 3.44
+        },
+        {
+          "id": "limit-w8",
+          "text": "точки...",
+          "start": 3.52,
+          "end": 4.2
+        },
+        {
+          "id": "limit-w9",
+          "text": "і",
+          "start": 4.4,
+          "end": 4.56
+        },
+        {
+          "id": "limit-w10",
+          "text": "ділимо",
+          "start": 4.64,
+          "end": 5.04
+        },
+        {
+          "id": "limit-w11",
+          "text": "приріст",
+          "start": 5.12,
+          "end": 5.52
+        },
+        {
+          "id": "limit-w12",
+          "text": "вгору...",
+          "start": 5.6,
+          "end": 6.32
+        },
+        {
+          "id": "limit-w13",
+          "text": "на",
+          "start": 6.4,
+          "end": 6.56
+        },
+        {
+          "id": "limit-w14",
+          "text": "приріст",
+          "start": 6.64,
+          "end": 7.04
+        },
+        {
+          "id": "limit-w15",
+          "text": "по",
+          "start": 7.12,
+          "end": 7.2
+        },
+        {
+          "id": "limit-w16",
+          "text": "горизонталі.",
+          "start": 7.28,
+          "end": 8
+        },
+        {
+          "id": "limit-w17",
+          "text": "Потім",
+          "start": 8.48,
+          "end": 8.8
+        },
+        {
+          "id": "limit-w18",
+          "text": "зсуваємо",
+          "start": 8.88,
+          "end": 9.44
+        },
+        {
+          "id": "limit-w19",
+          "text": "другу",
+          "start": 9.52,
+          "end": 9.84
+        },
+        {
+          "id": "limit-w20",
+          "text": "точку...",
+          "start": 9.92,
+          "end": 10.44
+        },
+        {
+          "id": "limit-w21",
+          "text": "все",
+          "start": 10.56,
+          "end": 10.8
+        },
+        {
+          "id": "limit-w22",
+          "text": "ближче...",
+          "start": 10.96,
+          "end": 11.68
+        },
+        {
+          "id": "limit-w23",
+          "text": "і",
+          "start": 11.72,
+          "end": 11.76
+        },
+        {
+          "id": "limit-w24",
+          "text": "ближче...",
+          "start": 11.92,
+          "end": 12.8
+        },
+        {
+          "id": "limit-w25",
+          "text": "до",
+          "start": 12.84,
+          "end": 12.88
+        },
+        {
+          "id": "limit-w26",
+          "text": "першої.",
+          "start": 12.96,
+          "end": 13.76
+        },
+        {
+          "id": "limit-w27",
+          "text": "Відстань",
+          "start": 14.08,
+          "end": 14.48
+        },
+        {
+          "id": "limit-w28",
+          "text": "між",
+          "start": 14.52,
+          "end": 14.68
+        },
+        {
+          "id": "limit-w29",
+          "text": "ними",
+          "start": 14.72,
+          "end": 14.96
+        },
+        {
+          "id": "limit-w30",
+          "text": "прямує",
+          "start": 15.04,
+          "end": 15.44
+        },
+        {
+          "id": "limit-w31",
+          "text": "до",
+          "start": 15.48,
+          "end": 15.52
+        },
+        {
+          "id": "limit-w32",
+          "text": "нуля...",
+          "start": 15.6,
+          "end": 16.32
+        },
+        {
+          "id": "limit-w33",
+          "text": "а",
+          "start": 16.4,
+          "end": 16.44
+        },
+        {
+          "id": "limit-w34",
+          "text": "відношення...",
+          "start": 16.48,
+          "end": 17.36
+        },
+        {
+          "id": "limit-w35",
+          "text": "до",
+          "start": 17.4,
+          "end": 17.44
+        },
+        {
+          "id": "limit-w36",
+          "text": "конкретного",
+          "start": 17.52,
+          "end": 18.16
+        },
+        {
+          "id": "limit-w37",
+          "text": "числа.",
+          "start": 18.28,
+          "end": 18.84
+        },
+        {
+          "id": "limit-w38",
+          "text": "Ця",
+          "start": 19.12,
+          "end": 19.24
+        },
+        {
+          "id": "limit-w39",
+          "text": "границя...",
+          "start": 19.28,
+          "end": 20.16
+        },
+        {
+          "id": "limit-w40",
+          "text": "і",
+          "start": 20.24,
+          "end": 20.32
+        },
+        {
+          "id": "limit-w41",
+          "text": "є",
+          "start": 20.4,
+          "end": 20.48
+        },
+        {
+          "id": "limit-w42",
+          "text": "похідна.",
+          "start": 20.56,
+          "end": 21.44
+        }
+      ]
+    },
+    {
+      "id": "mechanics",
+      "path": "audio/mechanics.mp3",
+      "duration_s": 17.79,
+      "words": [
+        {
+          "id": "mechanics-w0",
+          "text": "Тепер",
+          "start": 0,
+          "end": 0.39
+        },
+        {
+          "id": "mechanics-w1",
+          "text": "з",
+          "start": 0.63,
+          "end": 0.71
+        },
+        {
+          "id": "mechanics-w2",
+          "text": "боку",
+          "start": 0.75,
+          "end": 1.03
+        },
+        {
+          "id": "mechanics-w3",
+          "text": "фізики.",
+          "start": 1.11,
+          "end": 1.91
+        },
+        {
+          "id": "mechanics-w4",
+          "text": "Шлях",
+          "start": 2.31,
+          "end": 2.59
+        },
+        {
+          "id": "mechanics-w5",
+          "text": "поділити",
+          "start": 2.63,
+          "end": 3.11
+        },
+        {
+          "id": "mechanics-w6",
+          "text": "на",
+          "start": 3.19,
+          "end": 3.27
+        },
+        {
+          "id": "mechanics-w7",
+          "text": "час...",
+          "start": 3.35,
+          "end": 4.07
+        },
+        {
+          "id": "mechanics-w8",
+          "text": "це",
+          "start": 4.19,
+          "end": 4.31
+        },
+        {
+          "id": "mechanics-w9",
+          "text": "середня",
+          "start": 4.55,
+          "end": 4.95
+        },
+        {
+          "id": "mechanics-w10",
+          "text": "швидкість.",
+          "start": 5.03,
+          "end": 5.67
+        },
+        {
+          "id": "mechanics-w11",
+          "text": "А",
+          "start": 6.15,
+          "end": 6.19
+        },
+        {
+          "id": "mechanics-w12",
+          "text": "якщо",
+          "start": 6.23,
+          "end": 6.55
+        },
+        {
+          "id": "mechanics-w13",
+          "text": "взяти",
+          "start": 6.59,
+          "end": 6.95
+        },
+        {
+          "id": "mechanics-w14",
+          "text": "нескінченно",
+          "start": 7.07,
+          "end": 7.83
+        },
+        {
+          "id": "mechanics-w15",
+          "text": "малий",
+          "start": 7.87,
+          "end": 8.15
+        },
+        {
+          "id": "mechanics-w16",
+          "text": "проміжок",
+          "start": 8.27,
+          "end": 8.63
+        },
+        {
+          "id": "mechanics-w17",
+          "text": "часу...",
+          "start": 8.79,
+          "end": 9.43
+        },
+        {
+          "id": "mechanics-w18",
+          "text": "отримаємо",
+          "start": 9.51,
+          "end": 10.07
+        },
+        {
+          "id": "mechanics-w19",
+          "text": "миттєву",
+          "start": 10.23,
+          "end": 10.71
+        },
+        {
+          "id": "mechanics-w20",
+          "text": "швидкість.",
+          "start": 10.79,
+          "end": 11.43
+        },
+        {
+          "id": "mechanics-w21",
+          "text": "Похідна",
+          "start": 11.958,
+          "end": 12.31
+        },
+        {
+          "id": "mechanics-w22",
+          "text": "шляху",
+          "start": 12.39,
+          "end": 12.75
+        },
+        {
+          "id": "mechanics-w23",
+          "text": "за",
+          "start": 12.79,
+          "end": 12.87
+        },
+        {
+          "id": "mechanics-w24",
+          "text": "часом...",
+          "start": 12.95,
+          "end": 13.67
+        },
+        {
+          "id": "mechanics-w25",
+          "text": "це",
+          "start": 13.75,
+          "end": 13.83
+        },
+        {
+          "id": "mechanics-w26",
+          "text": "швидкість.",
+          "start": 13.91,
+          "end": 14.55
+        },
+        {
+          "id": "mechanics-w27",
+          "text": "А",
+          "start": 14.87,
+          "end": 14.95
+        },
+        {
+          "id": "mechanics-w28",
+          "text": "похідна",
+          "start": 15.11,
+          "end": 15.51
+        },
+        {
+          "id": "mechanics-w29",
+          "text": "швидкості...",
+          "start": 15.59,
+          "end": 16.55
+        },
+        {
+          "id": "mechanics-w30",
+          "text": "це",
+          "start": 16.63,
+          "end": 16.71
+        },
+        {
+          "id": "mechanics-w31",
+          "text": "прискорення.",
+          "start": 16.75,
+          "end": 17.83
+        }
+      ]
+    },
+    {
+      "id": "notation",
+      "path": "audio/notation.mp3",
+      "duration_s": 12.943,
+      "words": [
+        {
+          "id": "notation-w0",
+          "text": "Позначень",
+          "start": 0.023,
+          "end": 0.583
+        },
+        {
+          "id": "notation-w1",
+          "text": "кілька...",
+          "start": 0.663,
+          "end": 1.543
+        },
+        {
+          "id": "notation-w2",
+          "text": "але",
+          "start": 1.623,
+          "end": 1.783
+        },
+        {
+          "id": "notation-w3",
+          "text": "всі",
+          "start": 1.863,
+          "end": 2.103
+        },
+        {
+          "id": "notation-w4",
+          "text": "про",
+          "start": 2.263,
+          "end": 2.423
+        },
+        {
+          "id": "notation-w5",
+          "text": "одне.",
+          "start": 2.503,
+          "end": 2.903
+        },
+        {
+          "id": "notation-w6",
+          "text": "Еф",
+          "start": 3.516,
+          "end": 3.623
+        },
+        {
+          "id": "notation-w7",
+          "text": "штрих",
+          "start": 3.663,
+          "end": 3.943
+        },
+        {
+          "id": "notation-w8",
+          "text": "від",
+          "start": 4.023,
+          "end": 4.183
+        },
+        {
+          "id": "notation-w9",
+          "text": "ікс...",
+          "start": 4.263,
+          "end": 4.903
+        },
+        {
+          "id": "notation-w10",
+          "text": "де",
+          "start": 5.023,
+          "end": 5.143
+        },
+        {
+          "id": "notation-w11",
+          "text": "ігрек",
+          "start": 5.223,
+          "end": 5.543
+        },
+        {
+          "id": "notation-w12",
+          "text": "по",
+          "start": 5.703,
+          "end": 5.783
+        },
+        {
+          "id": "notation-w13",
+          "text": "де",
+          "start": 5.863,
+          "end": 5.943
+        },
+        {
+          "id": "notation-w14",
+          "text": "ікс...",
+          "start": 6.103,
+          "end": 6.663
+        },
+        {
+          "id": "notation-w15",
+          "text": "або",
+          "start": 6.743,
+          "end": 6.863
+        },
+        {
+          "id": "notation-w16",
+          "text": "просто",
+          "start": 6.903,
+          "end": 7.263
+        },
+        {
+          "id": "notation-w17",
+          "text": "штрих.",
+          "start": 7.303,
+          "end": 7.703
+        },
+        {
+          "id": "notation-w18",
+          "text": "Усі",
+          "start": 8.231,
+          "end": 8.423
+        },
+        {
+          "id": "notation-w19",
+          "text": "вони",
+          "start": 8.463,
+          "end": 8.623
+        },
+        {
+          "id": "notation-w20",
+          "text": "означають...",
+          "start": 8.663,
+          "end": 9.623
+        },
+        {
+          "id": "notation-w21",
+          "text": "швидкість",
+          "start": 9.663,
+          "end": 10.183
+        },
+        {
+          "id": "notation-w22",
+          "text": "зміни",
+          "start": 10.263,
+          "end": 10.583
+        },
+        {
+          "id": "notation-w23",
+          "text": "функції...",
+          "start": 10.663,
+          "end": 11.383
+        },
+        {
+          "id": "notation-w24",
+          "text": "у",
+          "start": 11.41,
+          "end": 11.436
+        },
+        {
+          "id": "notation-w25",
+          "text": "конкретній",
+          "start": 11.463,
+          "end": 12.023
+        },
+        {
+          "id": "notation-w26",
+          "text": "точці.",
+          "start": 12.103,
+          "end": 12.743
+        }
+      ]
+    },
+    {
+      "id": "rule",
+      "path": "audio/rule.mp3",
+      "duration_s": 14.015,
+      "words": [
+        {
+          "id": "rule-w0",
+          "text": "Запамятай...",
+          "start": 0.055,
+          "end": 1.175
+        },
+        {
+          "id": "rule-w1",
+          "text": "похідна",
+          "start": 1.255,
+          "end": 1.655
+        },
+        {
+          "id": "rule-w2",
+          "text": "має",
+          "start": 1.735,
+          "end": 1.975
+        },
+        {
+          "id": "rule-w3",
+          "text": "свої",
+          "start": 2.015,
+          "end": 2.295
+        },
+        {
+          "id": "rule-w4",
+          "text": "правила...",
+          "start": 2.455,
+          "end": 3.255
+        },
+        {
+          "id": "rule-w5",
+          "text": "і",
+          "start": 3.295,
+          "end": 3.335
+        },
+        {
+          "id": "rule-w6",
+          "text": "таблицю.",
+          "start": 3.415,
+          "end": 4.055
+        },
+        {
+          "id": "rule-w7",
+          "text": "Наприклад...",
+          "start": 4.649,
+          "end": 5.415
+        },
+        {
+          "id": "rule-w8",
+          "text": "сталий",
+          "start": 5.495,
+          "end": 5.855
+        },
+        {
+          "id": "rule-w9",
+          "text": "множник",
+          "start": 5.895,
+          "end": 6.375
+        },
+        {
+          "id": "rule-w10",
+          "text": "можна",
+          "start": 6.455,
+          "end": 6.695
+        },
+        {
+          "id": "rule-w11",
+          "text": "винести...",
+          "start": 6.775,
+          "end": 7.655
+        },
+        {
+          "id": "rule-w12",
+          "text": "а",
+          "start": 7.735,
+          "end": 7.815
+        },
+        {
+          "id": "rule-w13",
+          "text": "доданки...",
+          "start": 7.975,
+          "end": 8.775
+        },
+        {
+          "id": "rule-w14",
+          "text": "брати",
+          "start": 8.855,
+          "end": 9.055
+        },
+        {
+          "id": "rule-w15",
+          "text": "окремо.",
+          "start": 9.095,
+          "end": 9.575
+        },
+        {
+          "id": "rule-w16",
+          "text": "Замість",
+          "start": 10.199,
+          "end": 10.535
+        },
+        {
+          "id": "rule-w17",
+          "text": "границі...",
+          "start": 10.575,
+          "end": 11.415
+        },
+        {
+          "id": "rule-w18",
+          "text": "можна",
+          "start": 11.495,
+          "end": 11.735
+        },
+        {
+          "id": "rule-w19",
+          "text": "користуватися",
+          "start": 11.815,
+          "end": 12.535
+        },
+        {
+          "id": "rule-w20",
+          "text": "готовими",
+          "start": 12.615,
+          "end": 13.095
+        },
+        {
+          "id": "rule-w21",
+          "text": "формулами.",
+          "start": 13.175,
+          "end": 14.055
+        }
+      ]
+    },
+    {
+      "id": "example",
+      "path": "audio/example.mp3",
+      "duration_s": 22.638,
+      "words": [
+        {
+          "id": "example-w0",
+          "text": "Найпростіший",
+          "start": 0.038,
+          "end": 0.758
+        },
+        {
+          "id": "example-w1",
+          "text": "приклад...",
+          "start": 0.838,
+          "end": 1.718
+        },
+        {
+          "id": "example-w2",
+          "text": "функція",
+          "start": 1.798,
+          "end": 2.278
+        },
+        {
+          "id": "example-w3",
+          "text": "ікс",
+          "start": 2.518,
+          "end": 2.758
+        },
+        {
+          "id": "example-w4",
+          "text": "у",
+          "start": 2.838,
+          "end": 2.918
+        },
+        {
+          "id": "example-w5",
+          "text": "квадраті.",
+          "start": 2.958,
+          "end": 3.798
+        },
+        {
+          "id": "example-w6",
+          "text": "Беремо",
+          "start": 4.198,
+          "end": 4.518
+        },
+        {
+          "id": "example-w7",
+          "text": "точку",
+          "start": 4.598,
+          "end": 4.998
+        },
+        {
+          "id": "example-w8",
+          "text": "ікс...",
+          "start": 5.078,
+          "end": 5.798
+        },
+        {
+          "id": "example-w9",
+          "text": "і",
+          "start": 5.918,
+          "end": 6.038
+        },
+        {
+          "id": "example-w10",
+          "text": "трохи",
+          "start": 6.198,
+          "end": 6.598
+        },
+        {
+          "id": "example-w11",
+          "text": "збільшуємо",
+          "start": 6.678,
+          "end": 7.398
+        },
+        {
+          "id": "example-w12",
+          "text": "її",
+          "start": 7.518,
+          "end": 7.718
+        },
+        {
+          "id": "example-w13",
+          "text": "на",
+          "start": 7.798,
+          "end": 7.878
+        },
+        {
+          "id": "example-w14",
+          "text": "маленький",
+          "start": 7.918,
+          "end": 8.358
+        },
+        {
+          "id": "example-w15",
+          "text": "приріст.",
+          "start": 8.438,
+          "end": 8.998
+        },
+        {
+          "id": "example-w16",
+          "text": "Обчислюємо",
+          "start": 9.598,
+          "end": 10.118
+        },
+        {
+          "id": "example-w17",
+          "text": "різницю",
+          "start": 10.158,
+          "end": 10.638
+        },
+        {
+          "id": "example-w18",
+          "text": "квадратів...",
+          "start": 10.678,
+          "end": 11.718
+        },
+        {
+          "id": "example-w19",
+          "text": "ділимо",
+          "start": 11.758,
+          "end": 12.118
+        },
+        {
+          "id": "example-w20",
+          "text": "на",
+          "start": 12.158,
+          "end": 12.198
+        },
+        {
+          "id": "example-w21",
+          "text": "цей",
+          "start": 12.278,
+          "end": 12.438
+        },
+        {
+          "id": "example-w22",
+          "text": "приріст...",
+          "start": 12.518,
+          "end": 13.318
+        },
+        {
+          "id": "example-w23",
+          "text": "і",
+          "start": 13.358,
+          "end": 13.398
+        },
+        {
+          "id": "example-w24",
+          "text": "скорочуємо.",
+          "start": 13.518,
+          "end": 14.278
+        },
+        {
+          "id": "example-w25",
+          "text": "Приріст",
+          "start": 14.745,
+          "end": 15.158
+        },
+        {
+          "id": "example-w26",
+          "text": "прямує",
+          "start": 15.238,
+          "end": 15.558
+        },
+        {
+          "id": "example-w27",
+          "text": "до",
+          "start": 15.638,
+          "end": 15.718
+        },
+        {
+          "id": "example-w28",
+          "text": "нуля...",
+          "start": 15.798,
+          "end": 16.438
+        },
+        {
+          "id": "example-w29",
+          "text": "залишається",
+          "start": 16.518,
+          "end": 17.238
+        },
+        {
+          "id": "example-w30",
+          "text": "два",
+          "start": 17.398,
+          "end": 17.558
+        },
+        {
+          "id": "example-w31",
+          "text": "ікс.",
+          "start": 17.798,
+          "end": 18.118
+        },
+        {
+          "id": "example-w32",
+          "text": "Отже",
+          "start": 18.718,
+          "end": 18.918
+        },
+        {
+          "id": "example-w33",
+          "text": "похідна",
+          "start": 18.998,
+          "end": 19.478
+        },
+        {
+          "id": "example-w34",
+          "text": "від",
+          "start": 19.518,
+          "end": 19.638
+        },
+        {
+          "id": "example-w35",
+          "text": "ікс",
+          "start": 19.798,
+          "end": 19.958
+        },
+        {
+          "id": "example-w36",
+          "text": "у",
+          "start": 20.038,
+          "end": 20.078
+        },
+        {
+          "id": "example-w37",
+          "text": "квадраті...",
+          "start": 20.118,
+          "end": 20.918
+        },
+        {
+          "id": "example-w38",
+          "text": "дорівнює",
+          "start": 20.998,
+          "end": 21.598
+        },
+        {
+          "id": "example-w39",
+          "text": "два",
+          "start": 21.718,
+          "end": 21.878
+        },
+        {
+          "id": "example-w40",
+          "text": "ікс.",
+          "start": 22.118,
+          "end": 22.678
+        }
+      ]
+    },
+    {
+      "id": "graph",
+      "path": "audio/graph.mp3",
+      "duration_s": 15.88,
+      "words": [
+        {
+          "id": "graph-w0",
+          "text": "Поглянь",
+          "start": 0.08,
+          "end": 0.48
+        },
+        {
+          "id": "graph-w1",
+          "text": "на",
+          "start": 0.56,
+          "end": 0.64
+        },
+        {
+          "id": "graph-w2",
+          "text": "графік",
+          "start": 0.76,
+          "end": 1.04
+        },
+        {
+          "id": "graph-w3",
+          "text": "похідної.",
+          "start": 1.12,
+          "end": 1.787
+        },
+        {
+          "id": "graph-w4",
+          "text": "Там,",
+          "start": 2.16,
+          "end": 2.44
+        },
+        {
+          "id": "graph-w5",
+          "text": "де",
+          "start": 2.48,
+          "end": 2.56
+        },
+        {
+          "id": "graph-w6",
+          "text": "функція",
+          "start": 2.64,
+          "end": 3.04
+        },
+        {
+          "id": "graph-w7",
+          "text": "впевнено",
+          "start": 3.12,
+          "end": 3.6
+        },
+        {
+          "id": "graph-w8",
+          "text": "росте...",
+          "start": 3.76,
+          "end": 4.24
+        },
+        {
+          "id": "graph-w9",
+          "text": "похідна",
+          "start": 4.4,
+          "end": 4.88
+        },
+        {
+          "id": "graph-w10",
+          "text": "додатна.",
+          "start": 4.96,
+          "end": 5.707
+        },
+        {
+          "id": "graph-w11",
+          "text": "Там,",
+          "start": 6.08,
+          "end": 6.373
+        },
+        {
+          "id": "graph-w12",
+          "text": "де",
+          "start": 6.427,
+          "end": 6.48
+        },
+        {
+          "id": "graph-w13",
+          "text": "спадає...",
+          "start": 6.56,
+          "end": 7.28
+        },
+        {
+          "id": "graph-w14",
+          "text": "похідна",
+          "start": 7.44,
+          "end": 7.92
+        },
+        {
+          "id": "graph-w15",
+          "text": "відємна.",
+          "start": 8,
+          "end": 8.76
+        },
+        {
+          "id": "graph-w16",
+          "text": "А",
+          "start": 9.027,
+          "end": 9.04
+        },
+        {
+          "id": "graph-w17",
+          "text": "в",
+          "start": 9.12,
+          "end": 9.16
+        },
+        {
+          "id": "graph-w18",
+          "text": "найвищій",
+          "start": 9.2,
+          "end": 9.84
+        },
+        {
+          "id": "graph-w19",
+          "text": "точці...",
+          "start": 9.92,
+          "end": 10.56
+        },
+        {
+          "id": "graph-w20",
+          "text": "вона",
+          "start": 10.72,
+          "end": 10.96
+        },
+        {
+          "id": "graph-w21",
+          "text": "перетинає",
+          "start": 11.04,
+          "end": 11.6
+        },
+        {
+          "id": "graph-w22",
+          "text": "нуль.",
+          "start": 11.68,
+          "end": 12.2
+        },
+        {
+          "id": "graph-w23",
+          "text": "Один",
+          "start": 12.48,
+          "end": 12.8
+        },
+        {
+          "id": "graph-w24",
+          "text": "графік...",
+          "start": 12.96,
+          "end": 13.48
+        },
+        {
+          "id": "graph-w25",
+          "text": "розповідає",
+          "start": 13.6,
+          "end": 14.24
+        },
+        {
+          "id": "graph-w26",
+          "text": "всю",
+          "start": 14.32,
+          "end": 14.64
+        },
+        {
+          "id": "graph-w27",
+          "text": "історію",
+          "start": 14.72,
+          "end": 15.2
+        },
+        {
+          "id": "graph-w28",
+          "text": "зміни.",
+          "start": 15.28,
+          "end": 15.92
+        }
+      ]
+    },
+    {
+      "id": "meaning",
+      "path": "audio/meaning.mp3",
+      "duration_s": 15.88,
+      "words": [
+        {
+          "id": "meaning-w0",
+          "text": "І",
+          "start": 0.133,
+          "end": 0.16
+        },
+        {
+          "id": "meaning-w1",
+          "text": "навіщо",
+          "start": 0.2,
+          "end": 0.72
+        },
+        {
+          "id": "meaning-w2",
+          "text": "це",
+          "start": 0.8,
+          "end": 0.88
+        },
+        {
+          "id": "meaning-w3",
+          "text": "все?",
+          "start": 0.92,
+          "end": 1.44
+        },
+        {
+          "id": "meaning-w4",
+          "text": "Похідна",
+          "start": 1.813,
+          "end": 2.16
+        },
+        {
+          "id": "meaning-w5",
+          "text": "показує...",
+          "start": 2.24,
+          "end": 3.04
+        },
+        {
+          "id": "meaning-w6",
+          "text": "де",
+          "start": 3.2,
+          "end": 3.28
+        },
+        {
+          "id": "meaning-w7",
+          "text": "функція",
+          "start": 3.36,
+          "end": 3.84
+        },
+        {
+          "id": "meaning-w8",
+          "text": "росте...",
+          "start": 4,
+          "end": 4.64
+        },
+        {
+          "id": "meaning-w9",
+          "text": "а",
+          "start": 4.68,
+          "end": 4.72
+        },
+        {
+          "id": "meaning-w10",
+          "text": "де",
+          "start": 4.8,
+          "end": 4.88
+        },
+        {
+          "id": "meaning-w11",
+          "text": "спадає.",
+          "start": 4.96,
+          "end": 5.52
+        },
+        {
+          "id": "meaning-w12",
+          "text": "А",
+          "start": 5.984,
+          "end": 6
+        },
+        {
+          "id": "meaning-w13",
+          "text": "там,",
+          "start": 6.16,
+          "end": 6.44
+        },
+        {
+          "id": "meaning-w14",
+          "text": "де",
+          "start": 6.48,
+          "end": 6.56
+        },
+        {
+          "id": "meaning-w15",
+          "text": "вона",
+          "start": 6.6,
+          "end": 6.8
+        },
+        {
+          "id": "meaning-w16",
+          "text": "дорівнює",
+          "start": 6.88,
+          "end": 7.28
+        },
+        {
+          "id": "meaning-w17",
+          "text": "нулю...",
+          "start": 7.36,
+          "end": 7.92
+        },
+        {
+          "id": "meaning-w18",
+          "text": "ховається",
+          "start": 8,
+          "end": 8.56
+        },
+        {
+          "id": "meaning-w19",
+          "text": "максимум",
+          "start": 8.64,
+          "end": 9.12
+        },
+        {
+          "id": "meaning-w20",
+          "text": "або",
+          "start": 9.28,
+          "end": 9.48
+        },
+        {
+          "id": "meaning-w21",
+          "text": "мінімум.",
+          "start": 9.52,
+          "end": 10.2
+        },
+        {
+          "id": "meaning-w22",
+          "text": "Саме",
+          "start": 10.48,
+          "end": 10.72
+        },
+        {
+          "id": "meaning-w23",
+          "text": "так",
+          "start": 10.8,
+          "end": 11.04
+        },
+        {
+          "id": "meaning-w24",
+          "text": "знаходять",
+          "start": 11.16,
+          "end": 11.6
+        },
+        {
+          "id": "meaning-w25",
+          "text": "найвигідніший",
+          "start": 11.653,
+          "end": 12.32
+        },
+        {
+          "id": "meaning-w26",
+          "text": "розмір...",
+          "start": 12.4,
+          "end": 13.04
+        },
+        {
+          "id": "meaning-w27",
+          "text": "найкоротший",
+          "start": 13.08,
+          "end": 13.6
+        },
+        {
+          "id": "meaning-w28",
+          "text": "шлях...",
+          "start": 13.68,
+          "end": 14.24
+        },
+        {
+          "id": "meaning-w29",
+          "text": "і",
+          "start": 14.28,
+          "end": 14.32
+        },
+        {
+          "id": "meaning-w30",
+          "text": "найшвидший",
+          "start": 14.4,
+          "end": 14.96
+        },
+        {
+          "id": "meaning-w31",
+          "text": "спосіб.",
+          "start": 15.04,
+          "end": 15.84
+        }
+      ]
+    },
+    {
+      "id": "misconception",
+      "path": "audio/misconception.mp3",
+      "duration_s": 17.32,
+      "words": [
+        {
+          "id": "misconception-w0",
+          "text": "Часта",
+          "start": 0.08,
+          "end": 0.48
+        },
+        {
+          "id": "misconception-w1",
+          "text": "помилка",
+          "start": 0.56,
+          "end": 0.96
+        },
+        {
+          "id": "misconception-w2",
+          "text": "початківців.",
+          "start": 1.04,
+          "end": 2.04
+        },
+        {
+          "id": "misconception-w3",
+          "text": "Похідна",
+          "start": 2.373,
+          "end": 2.72
+        },
+        {
+          "id": "misconception-w4",
+          "text": "не",
+          "start": 2.8,
+          "end": 2.88
+        },
+        {
+          "id": "misconception-w5",
+          "text": "показує",
+          "start": 3.013,
+          "end": 3.44
+        },
+        {
+          "id": "misconception-w6",
+          "text": "саму",
+          "start": 3.48,
+          "end": 3.72
+        },
+        {
+          "id": "misconception-w7",
+          "text": "величину...",
+          "start": 3.76,
+          "end": 4.72
+        },
+        {
+          "id": "misconception-w8",
+          "text": "вона",
+          "start": 4.76,
+          "end": 4.96
+        },
+        {
+          "id": "misconception-w9",
+          "text": "показує...",
+          "start": 5,
+          "end": 5.84
+        },
+        {
+          "id": "misconception-w10",
+          "text": "як",
+          "start": 5.92,
+          "end": 6.08
+        },
+        {
+          "id": "misconception-w11",
+          "text": "швидко",
+          "start": 6.16,
+          "end": 6.64
+        },
+        {
+          "id": "misconception-w12",
+          "text": "ця",
+          "start": 6.68,
+          "end": 6.8
+        },
+        {
+          "id": "misconception-w13",
+          "text": "величина",
+          "start": 6.92,
+          "end": 7.28
+        },
+        {
+          "id": "misconception-w14",
+          "text": "змінюється.",
+          "start": 7.36,
+          "end": 8.16
+        },
+        {
+          "id": "misconception-w15",
+          "text": "Функція",
+          "start": 8.64,
+          "end": 9.12
+        },
+        {
+          "id": "misconception-w16",
+          "text": "може",
+          "start": 9.2,
+          "end": 9.4
+        },
+        {
+          "id": "misconception-w17",
+          "text": "бути",
+          "start": 9.44,
+          "end": 9.68
+        },
+        {
+          "id": "misconception-w18",
+          "text": "великою...",
+          "start": 9.84,
+          "end": 10.64
+        },
+        {
+          "id": "misconception-w19",
+          "text": "а",
+          "start": 10.72,
+          "end": 10.8
+        },
+        {
+          "id": "misconception-w20",
+          "text": "похідна",
+          "start": 10.88,
+          "end": 11.28
+        },
+        {
+          "id": "misconception-w21",
+          "text": "при",
+          "start": 11.36,
+          "end": 11.44
+        },
+        {
+          "id": "misconception-w22",
+          "text": "цьому...",
+          "start": 11.52,
+          "end": 12.08
+        },
+        {
+          "id": "misconception-w23",
+          "text": "маленькою.",
+          "start": 12.12,
+          "end": 12.8
+        },
+        {
+          "id": "misconception-w24",
+          "text": "Тому",
+          "start": 13.36,
+          "end": 13.44
+        },
+        {
+          "id": "misconception-w25",
+          "text": "завжди",
+          "start": 13.6,
+          "end": 14
+        },
+        {
+          "id": "misconception-w26",
+          "text": "питай",
+          "start": 14.08,
+          "end": 14.4
+        },
+        {
+          "id": "misconception-w27",
+          "text": "себе...",
+          "start": 14.48,
+          "end": 15.12
+        },
+        {
+          "id": "misconception-w28",
+          "text": "міняється",
+          "start": 15.147,
+          "end": 15.76
+        },
+        {
+          "id": "misconception-w29",
+          "text": "чи",
+          "start": 15.92,
+          "end": 16
+        },
+        {
+          "id": "misconception-w30",
+          "text": "сама",
+          "start": 16.08,
+          "end": 16.28
+        },
+        {
+          "id": "misconception-w31",
+          "text": "величина?",
+          "start": 16.32,
+          "end": 17.28
+        }
+      ]
+    },
+    {
+      "id": "why",
+      "path": "audio/why.mp3",
+      "duration_s": 14.6,
+      "words": [
+        {
+          "id": "why-w0",
+          "text": "Де",
+          "start": 0.3,
+          "end": 0.4
+        },
+        {
+          "id": "why-w1",
+          "text": "це",
+          "start": 0.48,
+          "end": 0.56
+        },
+        {
+          "id": "why-w2",
+          "text": "в",
+          "start": 0.6,
+          "end": 0.64
+        },
+        {
+          "id": "why-w3",
+          "text": "житті?",
+          "start": 0.68,
+          "end": 1.32
+        },
+        {
+          "id": "why-w4",
+          "text": "Інженер",
+          "start": 1.6,
+          "end": 2
+        },
+        {
+          "id": "why-w5",
+          "text": "рахує...",
+          "start": 2.08,
+          "end": 2.92
+        },
+        {
+          "id": "why-w6",
+          "text": "як",
+          "start": 3.12,
+          "end": 3.28
+        },
+        {
+          "id": "why-w7",
+          "text": "змінюється",
+          "start": 3.36,
+          "end": 3.92
+        },
+        {
+          "id": "why-w8",
+          "text": "напруга.",
+          "start": 3.96,
+          "end": 4.72
+        },
+        {
+          "id": "why-w9",
+          "text": "Економіст...",
+          "start": 5.027,
+          "end": 6
+        },
+        {
+          "id": "why-w10",
+          "text": "як",
+          "start": 6.08,
+          "end": 6.24
+        },
+        {
+          "id": "why-w11",
+          "text": "зростає",
+          "start": 6.32,
+          "end": 6.8
+        },
+        {
+          "id": "why-w12",
+          "text": "прибуток.",
+          "start": 6.88,
+          "end": 7.64
+        },
+        {
+          "id": "why-w13",
+          "text": "Програміст...",
+          "start": 7.968,
+          "end": 8.88
+        },
+        {
+          "id": "why-w14",
+          "text": "як",
+          "start": 8.96,
+          "end": 9.12
+        },
+        {
+          "id": "why-w15",
+          "text": "швидко",
+          "start": 9.2,
+          "end": 9.68
+        },
+        {
+          "id": "why-w16",
+          "text": "виконується",
+          "start": 9.72,
+          "end": 10.32
+        },
+        {
+          "id": "why-w17",
+          "text": "код.",
+          "start": 10.4,
+          "end": 10.92
+        },
+        {
+          "id": "why-w18",
+          "text": "Скрізь,",
+          "start": 11.2,
+          "end": 11.733
+        },
+        {
+          "id": "why-w19",
+          "text": "де",
+          "start": 11.787,
+          "end": 11.84
+        },
+        {
+          "id": "why-w20",
+          "text": "щось",
+          "start": 11.92,
+          "end": 12.16
+        },
+        {
+          "id": "why-w21",
+          "text": "змінюється...",
+          "start": 12.2,
+          "end": 13.12
+        },
+        {
+          "id": "why-w22",
+          "text": "працює",
+          "start": 13.16,
+          "end": 13.6
+        },
+        {
+          "id": "why-w23",
+          "text": "похідна.",
+          "start": 13.68,
+          "end": 14.56
+        }
+      ]
+    },
+    {
+      "id": "nmt",
+      "path": "audio/nmt.mp3",
+      "duration_s": 13.08,
+      "words": [
+        {
+          "id": "nmt-w0",
+          "text": "До",
+          "start": 0.12,
+          "end": 0.2
+        },
+        {
+          "id": "nmt-w1",
+          "text": "речі...",
+          "start": 0.24,
+          "end": 1.04
+        },
+        {
+          "id": "nmt-w2",
+          "text": "у",
+          "start": 1.08,
+          "end": 1.12
+        },
+        {
+          "id": "nmt-w3",
+          "text": "вступних",
+          "start": 1.16,
+          "end": 1.6
+        },
+        {
+          "id": "nmt-w4",
+          "text": "тестах...",
+          "start": 1.68,
+          "end": 2.32
+        },
+        {
+          "id": "nmt-w5",
+          "text": "похідна",
+          "start": 2.4,
+          "end": 2.8
+        },
+        {
+          "id": "nmt-w6",
+          "text": "зустрічається",
+          "start": 2.88,
+          "end": 3.52
+        },
+        {
+          "id": "nmt-w7",
+          "text": "постійно.",
+          "start": 3.6,
+          "end": 4.44
+        },
+        {
+          "id": "nmt-w8",
+          "text": "Завдання",
+          "start": 4.72,
+          "end": 5.2
+        },
+        {
+          "id": "nmt-w9",
+          "text": "на",
+          "start": 5.28,
+          "end": 5.36
+        },
+        {
+          "id": "nmt-w10",
+          "text": "дотичну...",
+          "start": 5.4,
+          "end": 6.24
+        },
+        {
+          "id": "nmt-w11",
+          "text": "на",
+          "start": 6.28,
+          "end": 6.32
+        },
+        {
+          "id": "nmt-w12",
+          "text": "екстремуми...",
+          "start": 6.44,
+          "end": 7.28
+        },
+        {
+          "id": "nmt-w13",
+          "text": "і",
+          "start": 7.36,
+          "end": 7.44
+        },
+        {
+          "id": "nmt-w14",
+          "text": "на",
+          "start": 7.52,
+          "end": 7.6
+        },
+        {
+          "id": "nmt-w15",
+          "text": "швидкість",
+          "start": 7.68,
+          "end": 8.16
+        },
+        {
+          "id": "nmt-w16",
+          "text": "зміни.",
+          "start": 8.24,
+          "end": 8.72
+        },
+        {
+          "id": "nmt-w17",
+          "text": "Тож",
+          "start": 9.024,
+          "end": 9.2
+        },
+        {
+          "id": "nmt-w18",
+          "text": "ця",
+          "start": 9.28,
+          "end": 9.44
+        },
+        {
+          "id": "nmt-w19",
+          "text": "тема...",
+          "start": 9.52,
+          "end": 10.08
+        },
+        {
+          "id": "nmt-w20",
+          "text": "це",
+          "start": 10.16,
+          "end": 10.24
+        },
+        {
+          "id": "nmt-w21",
+          "text": "не",
+          "start": 10.32,
+          "end": 10.4
+        },
+        {
+          "id": "nmt-w22",
+          "text": "просто",
+          "start": 10.44,
+          "end": 10.76
+        },
+        {
+          "id": "nmt-w23",
+          "text": "теорія...",
+          "start": 10.8,
+          "end": 11.6
+        },
+        {
+          "id": "nmt-w24",
+          "text": "а",
+          "start": 11.64,
+          "end": 11.68
+        },
+        {
+          "id": "nmt-w25",
+          "text": "реальні",
+          "start": 11.76,
+          "end": 12.24
+        },
+        {
+          "id": "nmt-w26",
+          "text": "бали.",
+          "start": 12.32,
+          "end": 12.88
+        }
+      ]
+    },
+    {
+      "id": "history",
+      "path": "audio/history.mp3",
+      "duration_s": 17.414,
+      "words": [
+        {
+          "id": "history-w0",
+          "text": "Цю",
+          "start": 0.014,
+          "end": 0.174
+        },
+        {
+          "id": "history-w1",
+          "text": "ідею",
+          "start": 0.254,
+          "end": 0.654
+        },
+        {
+          "id": "history-w2",
+          "text": "придумали",
+          "start": 0.734,
+          "end": 1.214
+        },
+        {
+          "id": "history-w3",
+          "text": "майже",
+          "start": 1.254,
+          "end": 1.534
+        },
+        {
+          "id": "history-w4",
+          "text": "одночасно...",
+          "start": 1.614,
+          "end": 2.734
+        },
+        {
+          "id": "history-w5",
+          "text": "два",
+          "start": 2.774,
+          "end": 2.974
+        },
+        {
+          "id": "history-w6",
+          "text": "великі",
+          "start": 3.054,
+          "end": 3.414
+        },
+        {
+          "id": "history-w7",
+          "text": "математики.",
+          "start": 3.454,
+          "end": 4.374
+        },
+        {
+          "id": "history-w8",
+          "text": "Ньютон...",
+          "start": 4.734,
+          "end": 5.454
+        },
+        {
+          "id": "history-w9",
+          "text": "і",
+          "start": 5.534,
+          "end": 5.614
+        },
+        {
+          "id": "history-w10",
+          "text": "Лейбніц.",
+          "start": 5.654,
+          "end": 6.374
+        },
+        {
+          "id": "history-w11",
+          "text": "Один",
+          "start": 6.718,
+          "end": 6.894
+        },
+        {
+          "id": "history-w12",
+          "text": "дивився",
+          "start": 6.934,
+          "end": 7.294
+        },
+        {
+          "id": "history-w13",
+          "text": "на",
+          "start": 7.374,
+          "end": 7.454
+        },
+        {
+          "id": "history-w14",
+          "text": "рух...",
+          "start": 7.534,
+          "end": 8.094
+        },
+        {
+          "id": "history-w15",
+          "text": "інший",
+          "start": 8.174,
+          "end": 8.494
+        },
+        {
+          "id": "history-w16",
+          "text": "на",
+          "start": 8.534,
+          "end": 8.574
+        },
+        {
+          "id": "history-w17",
+          "text": "графік.",
+          "start": 8.654,
+          "end": 9.214
+        },
+        {
+          "id": "history-w18",
+          "text": "І",
+          "start": 9.674,
+          "end": 9.694
+        },
+        {
+          "id": "history-w19",
+          "text": "обидва",
+          "start": 9.774,
+          "end": 10.174
+        },
+        {
+          "id": "history-w20",
+          "text": "прийшли...",
+          "start": 10.254,
+          "end": 10.974
+        },
+        {
+          "id": "history-w21",
+          "text": "до",
+          "start": 11.014,
+          "end": 11.054
+        },
+        {
+          "id": "history-w22",
+          "text": "одного",
+          "start": 11.134,
+          "end": 11.614
+        },
+        {
+          "id": "history-w23",
+          "text": "й",
+          "start": 11.641,
+          "end": 11.667
+        },
+        {
+          "id": "history-w24",
+          "text": "того",
+          "start": 11.694,
+          "end": 11.854
+        },
+        {
+          "id": "history-w25",
+          "text": "самого.",
+          "start": 12.014,
+          "end": 12.494
+        },
+        {
+          "id": "history-w26",
+          "text": "Так",
+          "start": 12.961,
+          "end": 13.134
+        },
+        {
+          "id": "history-w27",
+          "text": "зявилася...",
+          "start": 13.174,
+          "end": 13.934
+        },
+        {
+          "id": "history-w28",
+          "text": "математична",
+          "start": 14.014,
+          "end": 14.574
+        },
+        {
+          "id": "history-w29",
+          "text": "величина...",
+          "start": 14.654,
+          "end": 15.454
+        },
+        {
+          "id": "history-w30",
+          "text": "що",
+          "start": 15.494,
+          "end": 15.614
+        },
+        {
+          "id": "history-w31",
+          "text": "описує",
+          "start": 15.694,
+          "end": 16.094
+        },
+        {
+          "id": "history-w32",
+          "text": "будь",
+          "start": 16.254,
+          "end": 16.454
+        },
+        {
+          "id": "history-w33",
+          "text": "яку",
+          "start": 16.494,
+          "end": 16.734
+        },
+        {
+          "id": "history-w34",
+          "text": "зміну.",
+          "start": 16.814,
+          "end": 17.454
+        }
+      ]
+    },
+    {
+      "id": "cta",
+      "path": "audio/cta.mp3",
+      "duration_s": 12.669,
+      "words": [
+        {
+          "id": "cta-w0",
+          "text": "Ось",
+          "start": 0,
+          "end": 0.229
+        },
+        {
+          "id": "cta-w1",
+          "text": "і",
+          "start": 0.309,
+          "end": 0.389
+        },
+        {
+          "id": "cta-w2",
+          "text": "вся",
+          "start": 0.469,
+          "end": 0.789
+        },
+        {
+          "id": "cta-w3",
+          "text": "суть",
+          "start": 0.869,
+          "end": 1.109
+        },
+        {
+          "id": "cta-w4",
+          "text": "похідної...",
+          "start": 1.189,
+          "end": 2.229
+        },
+        {
+          "id": "cta-w5",
+          "text": "швидкість",
+          "start": 2.389,
+          "end": 2.949
+        },
+        {
+          "id": "cta-w6",
+          "text": "зміни...",
+          "start": 2.989,
+          "end": 3.829
+        },
+        {
+          "id": "cta-w7",
+          "text": "нахил",
+          "start": 3.909,
+          "end": 4.229
+        },
+        {
+          "id": "cta-w8",
+          "text": "дотичної...",
+          "start": 4.309,
+          "end": 5.269
+        },
+        {
+          "id": "cta-w9",
+          "text": "і",
+          "start": 5.349,
+          "end": 5.429
+        },
+        {
+          "id": "cta-w10",
+          "text": "границя.",
+          "start": 5.469,
+          "end": 6.069
+        },
+        {
+          "id": "cta-w11",
+          "text": "Збережи",
+          "start": 6.629,
+          "end": 7.109
+        },
+        {
+          "id": "cta-w12",
+          "text": "це",
+          "start": 7.189,
+          "end": 7.269
+        },
+        {
+          "id": "cta-w13",
+          "text": "відео...",
+          "start": 7.309,
+          "end": 7.909
+        },
+        {
+          "id": "cta-w14",
+          "text": "підпишись",
+          "start": 7.949,
+          "end": 8.469
+        },
+        {
+          "id": "cta-w15",
+          "text": "на",
+          "start": 8.509,
+          "end": 8.549
+        },
+        {
+          "id": "cta-w16",
+          "text": "канал...",
+          "start": 8.629,
+          "end": 9.189
+        },
+        {
+          "id": "cta-w17",
+          "text": "і",
+          "start": 9.216,
+          "end": 9.242
+        },
+        {
+          "id": "cta-w18",
+          "text": "напиши",
+          "start": 9.269,
+          "end": 9.589
+        },
+        {
+          "id": "cta-w19",
+          "text": "в",
+          "start": 9.629,
+          "end": 9.669
+        },
+        {
+          "id": "cta-w20",
+          "text": "коментарях...",
+          "start": 9.749,
+          "end": 10.549
+        },
+        {
+          "id": "cta-w21",
+          "text": "яку",
+          "start": 10.629,
+          "end": 10.869
+        },
+        {
+          "id": "cta-w22",
+          "text": "тему",
+          "start": 10.949,
+          "end": 11.229
+        },
+        {
+          "id": "cta-w23",
+          "text": "розібрати",
+          "start": 11.269,
+          "end": 11.749
+        },
+        {
+          "id": "cta-w24",
+          "text": "наступною.",
+          "start": 11.829,
+          "end": 12.709
+        }
+      ]
+    }
+  ],
+  "total_duration_s": 256.279
+}

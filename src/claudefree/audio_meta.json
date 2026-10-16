@@ -1,0 +1,1557 @@
+{
+  "tts_provider": "elevenlabs-direct",
+  "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+  "language_code": "uk",
+  "pron_mode": "accent",
+  "stability": 0,
+  "bgm": null,
+  "voices": [
+    {
+      "id": "hook",
+      "path": "audio/hook.mp3",
+      "duration_s": 8.04,
+      "words": [
+        {
+          "id": "hook-w0",
+          "text": "Мрієш",
+          "start": 0.16,
+          "end": 0.56
+        },
+        {
+          "id": "hook-w1",
+          "text": "користуватися",
+          "start": 0.64,
+          "end": 1.36
+        },
+        {
+          "id": "hook-w2",
+          "text": "Клод",
+          "start": 1.4,
+          "end": 1.6
+        },
+        {
+          "id": "hook-w3",
+          "text": "Код...",
+          "start": 1.68,
+          "end": 2.2
+        },
+        {
+          "id": "hook-w4",
+          "text": "але",
+          "start": 2.4,
+          "end": 2.64
+        },
+        {
+          "id": "hook-w5",
+          "text": "ціна",
+          "start": 2.72,
+          "end": 2.96
+        },
+        {
+          "id": "hook-w6",
+          "text": "за",
+          "start": 3.04,
+          "end": 3.12
+        },
+        {
+          "id": "hook-w7",
+          "text": "токени",
+          "start": 3.24,
+          "end": 3.6
+        },
+        {
+          "id": "hook-w8",
+          "text": "просто",
+          "start": 3.64,
+          "end": 3.96
+        },
+        {
+          "id": "hook-w9",
+          "text": "лякає?",
+          "start": 4,
+          "end": 4.72
+        },
+        {
+          "id": "hook-w10",
+          "text": "Є",
+          "start": 5.12,
+          "end": 5.2
+        },
+        {
+          "id": "hook-w11",
+          "text": "офіційний",
+          "start": 5.28,
+          "end": 5.84
+        },
+        {
+          "id": "hook-w12",
+          "text": "спосіб...",
+          "start": 5.92,
+          "end": 6.64
+        },
+        {
+          "id": "hook-w13",
+          "text": "і",
+          "start": 6.68,
+          "end": 6.72
+        },
+        {
+          "id": "hook-w14",
+          "text": "він",
+          "start": 6.8,
+          "end": 6.96
+        },
+        {
+          "id": "hook-w15",
+          "text": "безкоштовний.",
+          "start": 7.04,
+          "end": 8.08
+        }
+      ]
+    },
+    {
+      "id": "problem",
+      "path": "audio/problem.mp3",
+      "duration_s": 16.12,
+      "words": [
+        {
+          "id": "problem-w0",
+          "text": "Спершу",
+          "start": 0.16,
+          "end": 0.64
+        },
+        {
+          "id": "problem-w1",
+          "text": "зрозумій",
+          "start": 0.72,
+          "end": 1.2
+        },
+        {
+          "id": "problem-w2",
+          "text": "головне...",
+          "start": 1.24,
+          "end": 2.08
+        },
+        {
+          "id": "problem-w3",
+          "text": "Клод",
+          "start": 2.4,
+          "end": 2.72
+        },
+        {
+          "id": "problem-w4",
+          "text": "Код",
+          "start": 2.76,
+          "end": 3.04
+        },
+        {
+          "id": "problem-w5",
+          "text": "це",
+          "start": 3.28,
+          "end": 3.36
+        },
+        {
+          "id": "problem-w6",
+          "text": "лише",
+          "start": 3.44,
+          "end": 3.68
+        },
+        {
+          "id": "problem-w7",
+          "text": "оболонка...",
+          "start": 3.76,
+          "end": 4.6
+        },
+        {
+          "id": "problem-w8",
+          "text": "що",
+          "start": 4.8,
+          "end": 4.96
+        },
+        {
+          "id": "problem-w9",
+          "text": "стоїть",
+          "start": 5.04,
+          "end": 5.28
+        },
+        {
+          "id": "problem-w10",
+          "text": "на",
+          "start": 5.32,
+          "end": 5.36
+        },
+        {
+          "id": "problem-w11",
+          "text": "твоєму",
+          "start": 5.44,
+          "end": 5.76
+        },
+        {
+          "id": "problem-w12",
+          "text": "компютері.",
+          "start": 5.84,
+          "end": 6.64
+        },
+        {
+          "id": "problem-w13",
+          "text": "Гроші",
+          "start": 7.04,
+          "end": 7.44
+        },
+        {
+          "id": "problem-w14",
+          "text": "бере",
+          "start": 7.48,
+          "end": 7.68
+        },
+        {
+          "id": "problem-w15",
+          "text": "не",
+          "start": 7.76,
+          "end": 7.84
+        },
+        {
+          "id": "problem-w16",
+          "text": "вона...",
+          "start": 7.92,
+          "end": 8.72
+        },
+        {
+          "id": "problem-w17",
+          "text": "а",
+          "start": 8.76,
+          "end": 8.8
+        },
+        {
+          "id": "problem-w18",
+          "text": "двигун...",
+          "start": 8.96,
+          "end": 9.68
+        },
+        {
+          "id": "problem-w19",
+          "text": "штучний",
+          "start": 9.72,
+          "end": 10.16
+        },
+        {
+          "id": "problem-w20",
+          "text": "мозок...",
+          "start": 10.24,
+          "end": 10.88
+        },
+        {
+          "id": "problem-w21",
+          "text": "що",
+          "start": 10.92,
+          "end": 11.04
+        },
+        {
+          "id": "problem-w22",
+          "text": "працює",
+          "start": 11.08,
+          "end": 11.52
+        },
+        {
+          "id": "problem-w23",
+          "text": "на",
+          "start": 11.56,
+          "end": 11.6
+        },
+        {
+          "id": "problem-w24",
+          "text": "чужих",
+          "start": 11.68,
+          "end": 11.92
+        },
+        {
+          "id": "problem-w25",
+          "text": "серверах.",
+          "start": 12,
+          "end": 12.56
+        },
+        {
+          "id": "problem-w26",
+          "text": "Саме",
+          "start": 13.12,
+          "end": 13.4
+        },
+        {
+          "id": "problem-w27",
+          "text": "за",
+          "start": 13.44,
+          "end": 13.52
+        },
+        {
+          "id": "problem-w28",
+          "text": "нього...",
+          "start": 13.6,
+          "end": 14.24
+        },
+        {
+          "id": "problem-w29",
+          "text": "ти",
+          "start": 14.32,
+          "end": 14.4
+        },
+        {
+          "id": "problem-w30",
+          "text": "і",
+          "start": 14.48,
+          "end": 14.56
+        },
+        {
+          "id": "problem-w31",
+          "text": "платиш",
+          "start": 14.72,
+          "end": 14.96
+        },
+        {
+          "id": "problem-w32",
+          "text": "щомісяця.",
+          "start": 15.04,
+          "end": 16.08
+        }
+      ]
+    },
+    {
+      "id": "secret",
+      "path": "audio/secret.mp3",
+      "duration_s": 11.785,
+      "words": [
+        {
+          "id": "secret-w0",
+          "text": "Ось",
+          "start": 0.065,
+          "end": 0.305
+        },
+        {
+          "id": "secret-w1",
+          "text": "і",
+          "start": 0.345,
+          "end": 0.385
+        },
+        {
+          "id": "secret-w2",
+          "text": "весь",
+          "start": 0.465,
+          "end": 0.625
+        },
+        {
+          "id": "secret-w3",
+          "text": "секрет...",
+          "start": 0.705,
+          "end": 1.585
+        },
+        {
+          "id": "secret-w4",
+          "text": "оболонка",
+          "start": 1.665,
+          "end": 2.145
+        },
+        {
+          "id": "secret-w5",
+          "text": "безкоштовна...",
+          "start": 2.225,
+          "end": 3.345
+        },
+        {
+          "id": "secret-w6",
+          "text": "а",
+          "start": 3.385,
+          "end": 3.425
+        },
+        {
+          "id": "secret-w7",
+          "text": "двигун",
+          "start": 3.585,
+          "end": 3.905
+        },
+        {
+          "id": "secret-w8",
+          "text": "можна",
+          "start": 4.065,
+          "end": 4.385
+        },
+        {
+          "id": "secret-w9",
+          "text": "замінити.",
+          "start": 4.465,
+          "end": 5.025
+        },
+        {
+          "id": "secret-w10",
+          "text": "Підключимо",
+          "start": 5.492,
+          "end": 6.065
+        },
+        {
+          "id": "secret-w11",
+          "text": "безкоштовний",
+          "start": 6.145,
+          "end": 6.785
+        },
+        {
+          "id": "secret-w12",
+          "text": "мозок...",
+          "start": 6.865,
+          "end": 7.425
+        },
+        {
+          "id": "secret-w13",
+          "text": "і",
+          "start": 7.465,
+          "end": 7.505
+        },
+        {
+          "id": "secret-w14",
+          "text": "рахунок",
+          "start": 7.585,
+          "end": 8.065
+        },
+        {
+          "id": "secret-w15",
+          "text": "стане",
+          "start": 8.225,
+          "end": 8.465
+        },
+        {
+          "id": "secret-w16",
+          "text": "нульовим.",
+          "start": 8.625,
+          "end": 9.185
+        },
+        {
+          "id": "secret-w17",
+          "text": "Легально...",
+          "start": 9.725,
+          "end": 10.545
+        },
+        {
+          "id": "secret-w18",
+          "text": "і",
+          "start": 10.585,
+          "end": 10.625
+        },
+        {
+          "id": "secret-w19",
+          "text": "офіційно.",
+          "start": 10.705,
+          "end": 11.745
+        }
+      ]
+    },
+    {
+      "id": "install",
+      "path": "audio/install.mp3",
+      "duration_s": 13.06,
+      "words": [
+        {
+          "id": "install-w0",
+          "text": "Крок",
+          "start": 0,
+          "end": 0.22
+        },
+        {
+          "id": "install-w1",
+          "text": "перший...",
+          "start": 0.3,
+          "end": 1.1
+        },
+        {
+          "id": "install-w2",
+          "text": "встановлюємо",
+          "start": 1.14,
+          "end": 1.82
+        },
+        {
+          "id": "install-w3",
+          "text": "сам",
+          "start": 1.9,
+          "end": 2.14
+        },
+        {
+          "id": "install-w4",
+          "text": "Клод",
+          "start": 2.22,
+          "end": 2.46
+        },
+        {
+          "id": "install-w5",
+          "text": "Код.",
+          "start": 2.54,
+          "end": 2.86
+        },
+        {
+          "id": "install-w6",
+          "text": "Відкриваєш",
+          "start": 3.42,
+          "end": 3.94
+        },
+        {
+          "id": "install-w7",
+          "text": "термінал...",
+          "start": 3.98,
+          "end": 4.94
+        },
+        {
+          "id": "install-w8",
+          "text": "і",
+          "start": 5.06,
+          "end": 5.18
+        },
+        {
+          "id": "install-w9",
+          "text": "однією",
+          "start": 5.26,
+          "end": 5.74
+        },
+        {
+          "id": "install-w10",
+          "text": "командою...",
+          "start": 5.82,
+          "end": 6.62
+        },
+        {
+          "id": "install-w11",
+          "text": "через",
+          "start": 6.7,
+          "end": 6.94
+        },
+        {
+          "id": "install-w12",
+          "text": "ен",
+          "start": 7.1,
+          "end": 7.18
+        },
+        {
+          "id": "install-w13",
+          "text": "пі",
+          "start": 7.34,
+          "end": 7.5
+        },
+        {
+          "id": "install-w14",
+          "text": "ем...",
+          "start": 7.62,
+          "end": 8.06
+        },
+        {
+          "id": "install-w15",
+          "text": "ставиш",
+          "start": 8.18,
+          "end": 8.46
+        },
+        {
+          "id": "install-w16",
+          "text": "його",
+          "start": 8.5,
+          "end": 8.7
+        },
+        {
+          "id": "install-w17",
+          "text": "глобально.",
+          "start": 8.74,
+          "end": 9.42
+        },
+        {
+          "id": "install-w18",
+          "text": "За",
+          "start": 9.98,
+          "end": 10.06
+        },
+        {
+          "id": "install-w19",
+          "text": "хвилину...",
+          "start": 10.1,
+          "end": 10.86
+        },
+        {
+          "id": "install-w20",
+          "text": "він",
+          "start": 10.94,
+          "end": 11.1
+        },
+        {
+          "id": "install-w21",
+          "text": "уже",
+          "start": 11.18,
+          "end": 11.5
+        },
+        {
+          "id": "install-w22",
+          "text": "на",
+          "start": 11.58,
+          "end": 11.66
+        },
+        {
+          "id": "install-w23",
+          "text": "твоєму",
+          "start": 11.713,
+          "end": 11.98
+        },
+        {
+          "id": "install-w24",
+          "text": "компютері.",
+          "start": 12.06,
+          "end": 12.86
+        }
+      ]
+    },
+    {
+      "id": "openrouter",
+      "path": "audio/openrouter.mp3",
+      "duration_s": 15.8,
+      "words": [
+        {
+          "id": "openrouter-w0",
+          "text": "Крок",
+          "start": 0.08,
+          "end": 0.32
+        },
+        {
+          "id": "openrouter-w1",
+          "text": "другий...",
+          "start": 0.4,
+          "end": 1.2
+        },
+        {
+          "id": "openrouter-w2",
+          "text": "шукаємо",
+          "start": 1.28,
+          "end": 1.76
+        },
+        {
+          "id": "openrouter-w3",
+          "text": "новий",
+          "start": 1.84,
+          "end": 2
+        },
+        {
+          "id": "openrouter-w4",
+          "text": "двигун.",
+          "start": 2.08,
+          "end": 2.56
+        },
+        {
+          "id": "openrouter-w5",
+          "text": "Сервіс",
+          "start": 3.12,
+          "end": 3.52
+        },
+        {
+          "id": "openrouter-w6",
+          "text": "ОупенРоутер...",
+          "start": 3.6,
+          "end": 4.64
+        },
+        {
+          "id": "openrouter-w7",
+          "text": "збирає",
+          "start": 4.72,
+          "end": 5.2
+        },
+        {
+          "id": "openrouter-w8",
+          "text": "сотні",
+          "start": 5.28,
+          "end": 5.68
+        },
+        {
+          "id": "openrouter-w9",
+          "text": "моделей...",
+          "start": 5.733,
+          "end": 6.32
+        },
+        {
+          "id": "openrouter-w10",
+          "text": "в",
+          "start": 6.4,
+          "end": 6.453
+        },
+        {
+          "id": "openrouter-w11",
+          "text": "одному",
+          "start": 6.507,
+          "end": 6.8
+        },
+        {
+          "id": "openrouter-w12",
+          "text": "місці.",
+          "start": 6.88,
+          "end": 7.36
+        },
+        {
+          "id": "openrouter-w13",
+          "text": "Багато",
+          "start": 7.84,
+          "end": 8.24
+        },
+        {
+          "id": "openrouter-w14",
+          "text": "з",
+          "start": 8.28,
+          "end": 8.32
+        },
+        {
+          "id": "openrouter-w15",
+          "text": "них...",
+          "start": 8.4,
+          "end": 8.88
+        },
+        {
+          "id": "openrouter-w16",
+          "text": "абсолютно",
+          "start": 9,
+          "end": 9.6
+        },
+        {
+          "id": "openrouter-w17",
+          "text": "безкоштовні.",
+          "start": 9.68,
+          "end": 10.48
+        },
+        {
+          "id": "openrouter-w18",
+          "text": "Реєструєшся...",
+          "start": 10.96,
+          "end": 12.08
+        },
+        {
+          "id": "openrouter-w19",
+          "text": "заходиш",
+          "start": 12.16,
+          "end": 12.56
+        },
+        {
+          "id": "openrouter-w20",
+          "text": "у",
+          "start": 12.64,
+          "end": 12.68
+        },
+        {
+          "id": "openrouter-w21",
+          "text": "розділ",
+          "start": 12.72,
+          "end": 13
+        },
+        {
+          "id": "openrouter-w22",
+          "text": "ключів...",
+          "start": 13.04,
+          "end": 13.84
+        },
+        {
+          "id": "openrouter-w23",
+          "text": "і",
+          "start": 13.88,
+          "end": 13.92
+        },
+        {
+          "id": "openrouter-w24",
+          "text": "створюєш",
+          "start": 14,
+          "end": 14.6
+        },
+        {
+          "id": "openrouter-w25",
+          "text": "свій",
+          "start": 14.72,
+          "end": 14.96
+        },
+        {
+          "id": "openrouter-w26",
+          "text": "ключ.",
+          "start": 15.04,
+          "end": 15.76
+        }
+      ]
+    },
+    {
+      "id": "router",
+      "path": "audio/router.mp3",
+      "duration_s": 17.8,
+      "words": [
+        {
+          "id": "router-w0",
+          "text": "Але",
+          "start": 0.08,
+          "end": 0.4
+        },
+        {
+          "id": "router-w1",
+          "text": "є",
+          "start": 0.48,
+          "end": 0.64
+        },
+        {
+          "id": "router-w2",
+          "text": "секретна",
+          "start": 0.68,
+          "end": 1.2
+        },
+        {
+          "id": "router-w3",
+          "text": "фішка...",
+          "start": 1.24,
+          "end": 2.08
+        },
+        {
+          "id": "router-w4",
+          "text": "безкоштовні",
+          "start": 2.133,
+          "end": 2.72
+        },
+        {
+          "id": "router-w5",
+          "text": "моделі...",
+          "start": 2.8,
+          "end": 3.52
+        },
+        {
+          "id": "router-w6",
+          "text": "іноді",
+          "start": 3.6,
+          "end": 3.92
+        },
+        {
+          "id": "router-w7",
+          "text": "зависають...",
+          "start": 4.12,
+          "end": 4.88
+        },
+        {
+          "id": "router-w8",
+          "text": "і",
+          "start": 4.92,
+          "end": 4.96
+        },
+        {
+          "id": "router-w9",
+          "text": "видають",
+          "start": 5.04,
+          "end": 5.36
+        },
+        {
+          "id": "router-w10",
+          "text": "помилку",
+          "start": 5.44,
+          "end": 5.84
+        },
+        {
+          "id": "router-w11",
+          "text": "таймауту.",
+          "start": 5.92,
+          "end": 6.56
+        },
+        {
+          "id": "router-w12",
+          "text": "Для",
+          "start": 7.04,
+          "end": 7.12
+        },
+        {
+          "id": "router-w13",
+          "text": "цього",
+          "start": 7.2,
+          "end": 7.52
+        },
+        {
+          "id": "router-w14",
+          "text": "є",
+          "start": 7.6,
+          "end": 7.68
+        },
+        {
+          "id": "router-w15",
+          "text": "спеціальний",
+          "start": 7.76,
+          "end": 8.32
+        },
+        {
+          "id": "router-w16",
+          "text": "маршрутизатор...",
+          "start": 8.4,
+          "end": 9.52
+        },
+        {
+          "id": "router-w17",
+          "text": "безкоштовних",
+          "start": 9.6,
+          "end": 10.24
+        },
+        {
+          "id": "router-w18",
+          "text": "моделей.",
+          "start": 10.32,
+          "end": 11.12
+        },
+        {
+          "id": "router-w19",
+          "text": "Він",
+          "start": 11.2,
+          "end": 11.36
+        },
+        {
+          "id": "router-w20",
+          "text": "сам...",
+          "start": 11.52,
+          "end": 12
+        },
+        {
+          "id": "router-w21",
+          "text": "на",
+          "start": 12.04,
+          "end": 12.08
+        },
+        {
+          "id": "router-w22",
+          "text": "льоту...",
+          "start": 12.16,
+          "end": 12.72
+        },
+        {
+          "id": "router-w23",
+          "text": "перемикається",
+          "start": 12.76,
+          "end": 13.44
+        },
+        {
+          "id": "router-w24",
+          "text": "між",
+          "start": 13.48,
+          "end": 13.64
+        },
+        {
+          "id": "router-w25",
+          "text": "вільними",
+          "start": 13.68,
+          "end": 14.08
+        },
+        {
+          "id": "router-w26",
+          "text": "серверами.",
+          "start": 14.16,
+          "end": 14.8
+        },
+        {
+          "id": "router-w27",
+          "text": "Тому",
+          "start": 15.107,
+          "end": 15.36
+        },
+        {
+          "id": "router-w28",
+          "text": "збої...",
+          "start": 15.44,
+          "end": 16.08
+        },
+        {
+          "id": "router-w29",
+          "text": "практично",
+          "start": 16.28,
+          "end": 16.72
+        },
+        {
+          "id": "router-w30",
+          "text": "зникають.",
+          "start": 16.76,
+          "end": 17.76
+        }
+      ]
+    },
+    {
+      "id": "key",
+      "path": "audio/key.mp3",
+      "duration_s": 15.56,
+      "words": [
+        {
+          "id": "key-w0",
+          "text": "Крок",
+          "start": 0.067,
+          "end": 0.28
+        },
+        {
+          "id": "key-w1",
+          "text": "третій...",
+          "start": 0.32,
+          "end": 1.28
+        },
+        {
+          "id": "key-w2",
+          "text": "прописуємо",
+          "start": 1.36,
+          "end": 2.08
+        },
+        {
+          "id": "key-w3",
+          "text": "три",
+          "start": 2.2,
+          "end": 2.32
+        },
+        {
+          "id": "key-w4",
+          "text": "змінні",
+          "start": 2.4,
+          "end": 2.76
+        },
+        {
+          "id": "key-w5",
+          "text": "середовища.",
+          "start": 2.8,
+          "end": 3.68
+        },
+        {
+          "id": "key-w6",
+          "text": "Адреса",
+          "start": 4.16,
+          "end": 4.56
+        },
+        {
+          "id": "key-w7",
+          "text": "сервісу...",
+          "start": 4.64,
+          "end": 5.6
+        },
+        {
+          "id": "key-w8",
+          "text": "твій",
+          "start": 5.64,
+          "end": 5.88
+        },
+        {
+          "id": "key-w9",
+          "text": "ключ...",
+          "start": 5.92,
+          "end": 6.64
+        },
+        {
+          "id": "key-w10",
+          "text": "і",
+          "start": 6.76,
+          "end": 6.88
+        },
+        {
+          "id": "key-w11",
+          "text": "порожній",
+          "start": 7.04,
+          "end": 7.6
+        },
+        {
+          "id": "key-w12",
+          "text": "старий",
+          "start": 7.68,
+          "end": 7.92
+        },
+        {
+          "id": "key-w13",
+          "text": "ключ.",
+          "start": 8,
+          "end": 8.6
+        },
+        {
+          "id": "key-w14",
+          "text": "Зручно",
+          "start": 8.96,
+          "end": 9.36
+        },
+        {
+          "id": "key-w15",
+          "text": "зробити",
+          "start": 9.4,
+          "end": 9.8
+        },
+        {
+          "id": "key-w16",
+          "text": "це",
+          "start": 9.84,
+          "end": 9.92
+        },
+        {
+          "id": "key-w17",
+          "text": "прямо",
+          "start": 10.08,
+          "end": 10.32
+        },
+        {
+          "id": "key-w18",
+          "text": "в",
+          "start": 10.4,
+          "end": 10.44
+        },
+        {
+          "id": "key-w19",
+          "text": "редакторі...",
+          "start": 10.48,
+          "end": 11.28
+        },
+        {
+          "id": "key-w20",
+          "text": "АнтіГрейвіті.",
+          "start": 11.32,
+          "end": 12.24
+        },
+        {
+          "id": "key-w21",
+          "text": "Зберіг...",
+          "start": 12.72,
+          "end": 13.52
+        },
+        {
+          "id": "key-w22",
+          "text": "перезапустив...",
+          "start": 13.56,
+          "end": 14.64
+        },
+        {
+          "id": "key-w23",
+          "text": "готово.",
+          "start": 14.72,
+          "end": 15.52
+        }
+      ]
+    },
+    {
+      "id": "logout",
+      "path": "audio/logout.mp3",
+      "duration_s": 12.2,
+      "words": [
+        {
+          "id": "logout-w0",
+          "text": "Крок",
+          "start": 0.08,
+          "end": 0.32
+        },
+        {
+          "id": "logout-w1",
+          "text": "четвертий...",
+          "start": 0.4,
+          "end": 1.44
+        },
+        {
+          "id": "logout-w2",
+          "text": "і",
+          "start": 1.52,
+          "end": 1.68
+        },
+        {
+          "id": "logout-w3",
+          "text": "дуже",
+          "start": 1.84,
+          "end": 2.12
+        },
+        {
+          "id": "logout-w4",
+          "text": "важливий.",
+          "start": 2.16,
+          "end": 2.76
+        },
+        {
+          "id": "logout-w5",
+          "text": "Треба",
+          "start": 3.4,
+          "end": 3.68
+        },
+        {
+          "id": "logout-w6",
+          "text": "вийти",
+          "start": 3.76,
+          "end": 4.08
+        },
+        {
+          "id": "logout-w7",
+          "text": "зі",
+          "start": 4.12,
+          "end": 4.24
+        },
+        {
+          "id": "logout-w8",
+          "text": "старого",
+          "start": 4.28,
+          "end": 4.64
+        },
+        {
+          "id": "logout-w9",
+          "text": "платного",
+          "start": 4.72,
+          "end": 5.2
+        },
+        {
+          "id": "logout-w10",
+          "text": "акаунта.",
+          "start": 5.28,
+          "end": 5.867
+        },
+        {
+          "id": "logout-w11",
+          "text": "Команда",
+          "start": 6.38,
+          "end": 6.72
+        },
+        {
+          "id": "logout-w12",
+          "text": "проста...",
+          "start": 6.76,
+          "end": 7.52
+        },
+        {
+          "id": "logout-w13",
+          "text": "клод",
+          "start": 7.6,
+          "end": 7.84
+        },
+        {
+          "id": "logout-w14",
+          "text": "логаут.",
+          "start": 7.96,
+          "end": 8.4
+        },
+        {
+          "id": "logout-w15",
+          "text": "Тепер",
+          "start": 8.784,
+          "end": 9.04
+        },
+        {
+          "id": "logout-w16",
+          "text": "програма...",
+          "start": 9.12,
+          "end": 9.92
+        },
+        {
+          "id": "logout-w17",
+          "text": "не",
+          "start": 10,
+          "end": 10.08
+        },
+        {
+          "id": "logout-w18",
+          "text": "згадає",
+          "start": 10.12,
+          "end": 10.56
+        },
+        {
+          "id": "logout-w19",
+          "text": "твою",
+          "start": 10.6,
+          "end": 10.88
+        },
+        {
+          "id": "logout-w20",
+          "text": "платну",
+          "start": 11,
+          "end": 11.2
+        },
+        {
+          "id": "logout-w21",
+          "text": "підписку.",
+          "start": 11.28,
+          "end": 12.16
+        }
+      ]
+    },
+    {
+      "id": "test",
+      "path": "audio/test.mp3",
+      "duration_s": 11.88,
+      "words": [
+        {
+          "id": "test-w0",
+          "text": "Фінальний",
+          "start": 0.16,
+          "end": 0.64
+        },
+        {
+          "id": "test-w1",
+          "text": "тест...",
+          "start": 0.72,
+          "end": 1.28
+        },
+        {
+          "id": "test-w2",
+          "text": "запускаємо...",
+          "start": 1.44,
+          "end": 2.44
+        },
+        {
+          "id": "test-w3",
+          "text": "і",
+          "start": 2.64,
+          "end": 2.8
+        },
+        {
+          "id": "test-w4",
+          "text": "даємо",
+          "start": 2.88,
+          "end": 3.28
+        },
+        {
+          "id": "test-w5",
+          "text": "перше",
+          "start": 3.36,
+          "end": 3.68
+        },
+        {
+          "id": "test-w6",
+          "text": "завдання.",
+          "start": 3.76,
+          "end": 4.44
+        },
+        {
+          "id": "test-w7",
+          "text": "Штучний",
+          "start": 4.8,
+          "end": 5.2
+        },
+        {
+          "id": "test-w8",
+          "text": "інтелект",
+          "start": 5.28,
+          "end": 5.76
+        },
+        {
+          "id": "test-w9",
+          "text": "думає...",
+          "start": 5.88,
+          "end": 6.4
+        },
+        {
+          "id": "test-w10",
+          "text": "пише",
+          "start": 6.56,
+          "end": 6.88
+        },
+        {
+          "id": "test-w11",
+          "text": "код...",
+          "start": 6.96,
+          "end": 7.4
+        },
+        {
+          "id": "test-w12",
+          "text": "і",
+          "start": 7.52,
+          "end": 7.6
+        },
+        {
+          "id": "test-w13",
+          "text": "не",
+          "start": 7.68,
+          "end": 7.76
+        },
+        {
+          "id": "test-w14",
+          "text": "просить",
+          "start": 7.88,
+          "end": 8.16
+        },
+        {
+          "id": "test-w15",
+          "text": "ані",
+          "start": 8.24,
+          "end": 8.48
+        },
+        {
+          "id": "test-w16",
+          "text": "копійки.",
+          "start": 8.6,
+          "end": 9.32
+        },
+        {
+          "id": "test-w17",
+          "text": "Безкоштовно...",
+          "start": 9.744,
+          "end": 10.64
+        },
+        {
+          "id": "test-w18",
+          "text": "і",
+          "start": 10.8,
+          "end": 10.88
+        },
+        {
+          "id": "test-w19",
+          "text": "без",
+          "start": 10.96,
+          "end": 11.12
+        },
+        {
+          "id": "test-w20",
+          "text": "збоїв.",
+          "start": 11.2,
+          "end": 11.92
+        }
+      ]
+    },
+    {
+      "id": "cta",
+      "path": "audio/cta.mp3",
+      "duration_s": 13,
+      "words": [
+        {
+          "id": "cta-w0",
+          "text": "Усі",
+          "start": 0.2,
+          "end": 0.4
+        },
+        {
+          "id": "cta-w1",
+          "text": "команди...",
+          "start": 0.48,
+          "end": 1.28
+        },
+        {
+          "id": "cta-w2",
+          "text": "і",
+          "start": 1.32,
+          "end": 1.36
+        },
+        {
+          "id": "cta-w3",
+          "text": "готові",
+          "start": 1.44,
+          "end": 1.84
+        },
+        {
+          "id": "cta-w4",
+          "text": "налаштування...",
+          "start": 1.88,
+          "end": 2.96
+        },
+        {
+          "id": "cta-w5",
+          "text": "я",
+          "start": 3.04,
+          "end": 3.12
+        },
+        {
+          "id": "cta-w6",
+          "text": "залишив",
+          "start": 3.2,
+          "end": 3.68
+        },
+        {
+          "id": "cta-w7",
+          "text": "у",
+          "start": 3.76,
+          "end": 3.84
+        },
+        {
+          "id": "cta-w8",
+          "text": "описі",
+          "start": 3.92,
+          "end": 4.24
+        },
+        {
+          "id": "cta-w9",
+          "text": "під",
+          "start": 4.32,
+          "end": 4.44
+        },
+        {
+          "id": "cta-w10",
+          "text": "роликом.",
+          "start": 4.48,
+          "end": 5.16
+        },
+        {
+          "id": "cta-w11",
+          "text": "Став",
+          "start": 5.493,
+          "end": 5.68
+        },
+        {
+          "id": "cta-w12",
+          "text": "лайк...",
+          "start": 5.76,
+          "end": 6.32
+        },
+        {
+          "id": "cta-w13",
+          "text": "підпишись",
+          "start": 6.347,
+          "end": 6.88
+        },
+        {
+          "id": "cta-w14",
+          "text": "на",
+          "start": 6.92,
+          "end": 6.96
+        },
+        {
+          "id": "cta-w15",
+          "text": "канал...",
+          "start": 7.04,
+          "end": 7.6
+        },
+        {
+          "id": "cta-w16",
+          "text": "і",
+          "start": 7.64,
+          "end": 7.68
+        },
+        {
+          "id": "cta-w17",
+          "text": "напиши",
+          "start": 7.72,
+          "end": 8.08
+        },
+        {
+          "id": "cta-w18",
+          "text": "в",
+          "start": 8.12,
+          "end": 8.16
+        },
+        {
+          "id": "cta-w19",
+          "text": "коментарях...",
+          "start": 8.2,
+          "end": 8.96
+        },
+        {
+          "id": "cta-w20",
+          "text": "яку",
+          "start": 9.04,
+          "end": 9.36
+        },
+        {
+          "id": "cta-w21",
+          "text": "програму",
+          "start": 9.4,
+          "end": 9.92
+        },
+        {
+          "id": "cta-w22",
+          "text": "змусиш",
+          "start": 10,
+          "end": 10.4
+        },
+        {
+          "id": "cta-w23",
+          "text": "написати",
+          "start": 10.453,
+          "end": 10.96
+        },
+        {
+          "id": "cta-w24",
+          "text": "цього",
+          "start": 11,
+          "end": 11.2
+        },
+        {
+          "id": "cta-w25",
+          "text": "безкоштовного",
+          "start": 11.28,
+          "end": 12.16
+        },
+        {
+          "id": "cta-w26",
+          "text": "Клода.",
+          "start": 12.24,
+          "end": 12.96
+        }
+      ]
+    }
+  ],
+  "total_duration_s": 135.245
+}

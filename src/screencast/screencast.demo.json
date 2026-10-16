@@ -1,0 +1,45 @@
+{
+  "recording": {
+    "file": "screencast/demo.mp4",
+    "width": 1920,
+    "height": 1080,
+    "duration": 12,
+    "startFrom": 0
+  },
+  "language": "uk",
+  "cover": {
+    "top": "ЗАПИС",
+    "bottom": "ЕКРАНА",
+    "pose": "point-right",
+    "obj": "assets/fl-laptop.png",
+    "badge": "ЯК ЦЕ ЗРОБЛЕНО",
+    "tone": "night"
+  },
+  "shots": [
+    { "at": 0 },
+    { "at": 60, "zoom": 1.7, "focus": [1500, 150, 200, 64], "hl": [1500, 150, 200, 64], "label": "Кнопка «Пуск»" },
+    { "at": 150, "zoom": 1.3, "focus": [340, 250, 1220, 600], "hl": [360, 270, 360, 250], "label": "Перша картка" },
+    { "at": 240, "zoom": 1.15, "focus": [1240, 110, 620, 700] },
+    { "at": 300, "zoom": 1 }
+  ],
+  "blurs": [
+    { "from": 150, "to": 210, "r": [770, 270, 360, 250], "px": 14 }
+  ],
+  "captions": [
+    { "text": "Це", "at": 8 },
+    { "text": "запис", "at": 20 },
+    { "text": "екрана.", "at": 34, "brk": true },
+    { "text": "Натискаємо", "at": 60 },
+    { "text": "червону", "at": 78 },
+    { "text": "кнопку.", "at": 92, "key": true, "brk": true },
+    { "text": "Відкривається", "at": 150 },
+    { "text": "перша", "at": 168 },
+    { "text": "картка.", "at": 182, "key": true, "brk": true },
+    { "text": "Праворуч", "at": 240 },
+    { "text": "панель.", "at": 256, "brk": true },
+    { "text": "Готово!", "at": 300 },
+    { "text": "Підпишись.", "at": 316, "key": true, "brk": true }
+  ],
+  "end": true,
+  "endLine": "частіше такі розбори"
+}
