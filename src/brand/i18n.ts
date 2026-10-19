@@ -27,17 +27,17 @@ export type Strings = {
 };
 
 export const BRAND: Record<Lang, Strings> = {
-  uk: { channel: "Факти та Новини", series: "ФАКТИ ТА НОВИНИ",
+  uk: { channel: "Ron BaBa TV", series: "Факти та Новини",
         cta: ["Підпи", "шись"], end: "щоб не пропустити наступну новину", newsEnd: "більше новин кожного дня" },
-  ru: { channel: "Факты и Новости", series: "ФАКТЫ И НОВОСТИ",
+  ru: { channel: "Ron BaBa TV", series: "Факты и Новости",
         cta: ["Подпи", "шись"], end: "чтобы не пропустить следующую новость", newsEnd: "больше новостей каждый день" },
-  de: { channel: "Fakten und Nachrichten", series: "FAKTEN UND NACHRICHTEN",
+  de: { channel: "Ron BaBa TV", series: "Fakten und Nachrichten",
         cta: ["Abon", "nieren"], end: "um die nächste Nachricht nicht zu verpassen", newsEnd: "mehr Nachrichten jeden Tag" },
-  en: { channel: "Facts and News", series: "FACTS AND NEWS",
+  en: { channel: "Ron BaBa TV", series: "Facts & News",
         cta: ["Sub", "scribe"], end: "so you don't miss the next news", newsEnd: "more news every day" },
-  es: { channel: "Datos y Noticias", series: "DATOS Y NOTICIAS",
+  es: { channel: "Ron BaBa TV", series: "Hechos y Noticias",
         cta: ["Sus", "críbete"], end: "para no perderte la próxima noticia", newsEnd: "más noticias cada día" },
-  fr: { channel: "Faits et Actualités", series: "FAITS ET ACTUALITÉS",
+  fr: { channel: "Ron BaBa TV", series: "Faits et Actualités",
         cta: ["S'abon", "ner"], end: "pour ne pas rater la prochaine actualité", newsEnd: "plus d'actualités chaque jour" },
 };
 
