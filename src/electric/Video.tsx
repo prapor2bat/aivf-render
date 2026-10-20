@@ -3,14 +3,13 @@ import { AbsoluteFill, Audio, Img, Sequence, interpolate, staticFile, useCurrent
 import { measureText } from "@remotion/layout-utils";
 import { B, FONT } from "../brand/tokens";
 import { Captions, EndCard, RedWipe, Tag } from "../brand/kit";
-import { strings } from "../brand/i18n";
 import { makeTimeline } from "../brand/timeline";
 import { Badge } from "../news/overlays";
 import META from "./audio_meta.json";
 import PLAN from "./images-plan.json";
 
 /* ─────────────────────────────────────────────────────────────────────────────
-   Режим «Генерація» (проєкт 016 «Як людство винайшло електроенергію»):
+   Режим «Генерація» (проєкт 017 «Як людство винайшло електроенергію»):
    слайдшоу AI-ілюстрацій (2752×1536) з повільним zoom/pan (Ken Burns),
    кросфейд між кадрами, спалені субтитри, бейджі років, обкладинка 8 кадрів,
    фінальна картка. Озвучка: mp3-лінії studio/public/electric/<id>.mp3 (Gemini,
@@ -26,7 +25,14 @@ const TAIL = 120;               // хвіст під фінальну картк
 const CAPS_TOP = 872;           // субтитри у нижній третині (для 9:16)
 const capsTopFor = (w: number, h: number) => (w > h ? Math.round(h * 0.74) : CAPS_TOP);
 
-const S = strings(((META as any).language_code as string) || "uk");
+/* Бренд каналу «Ron BaBa TV — Цікаві факти» (окремий канал для пізнавальних
+   роликів-історій; новини — «Факти та Новини», див. brand/i18n.ts). */
+const S = {
+  channel: "Ron BaBa TV",
+  series: "Цікаві факти",
+  cta: ["Підпи", "шись"] as [string, string],
+  end: "історії, які вражають",
+};
 const ORDER = (META as any).voices.map((v: any) => v.id) as string[];
 
 /* Червоні ключові слова субтитрів. */
@@ -193,7 +199,7 @@ const ElectricBody: React.FC = () => {
 
       <Sequence from={END_AT} durationInFrames={TAIL} name="end">
         <AbsoluteFill style={{ background: B.paper }} />
-        <EndCard at={-10} line="історії, які вражають" cta={S.cta} />
+        <EndCard at={-10} line={S.end} cta={S.cta} />
       </Sequence>
 
       {f < END_AT - 4 && <Tag tone="night" channel={S.channel} series={S.series} />}

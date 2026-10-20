@@ -1,0 +1,71 @@
+{
+  "style": "Warm 2D storybook editorial illustration for a history-of-flight documentary video: flat vector shapes with subtle paper grain, warm amber gold and deep teal palette, dramatic cinematic lighting, consistent character design, wide cinematic framing, clear separation between sky and ground planes so layers can move independently, NO text, no letters, no numbers, no watermark, no logos, no UI elements.",
+  "shots": [
+    { "id": "hook-1", "line": "hook", "prompt": "A lone human silhouette standing on a windy cliff edge at golden hour, arms raised toward a flock of birds wheeling across an open amber sky, deep teal sea far below, longing and wonder." },
+    { "id": "hook-2", "line": "hook", "prompt": "Vertical timeline of flight as a rising arc across one wide sky: at the bottom a fragile paper glider with wax wings, mid a striped hot air balloon, near the top an early biplane, and at the very top a sleek jet leaving a white contrail, warm amber to deep teal gradient sky." },
+    { "id": "hook-3", "line": "hook", "prompt": "A dreamer's tangled workshop of failed attempts at dusk: broken wooden wings, a tattered silk parachute, a crashed glider frame half buried in sand, all faintly glowing in warm amber light against a deep teal twilight." },
+
+    { "id": "s1-1", "line": "s1", "prompt": "Icarus with wide feather wings glued with wax soaring joyfully toward a huge glowing sun, warm golden light flooding the frame, sea far below, mythic and cinematic." },
+    { "id": "s1-2", "line": "s1", "prompt": "A pair of wax-bound feather wings dissolving, feathers scattering and falling into dark teal waves below while the sun burns hot in the upper corner, tragic mythic mood." },
+    { "id": "s1-3", "line": "s1", "prompt": "Ancient Greek elders in robes on a stone terrace raising a warning hand toward the empty sky, stern faces lit by warm sunset, the sea and distant cliff behind them." },
+
+    { "id": "s1b-1", "line": "s1b", "prompt": "Leonardo da Vinci at a wooden desk covered with sketches of wings, a helical aerial screw and a parachute, quill in hand, birds visible through the window, warm candlelit renaissance study." },
+    { "id": "s1b-2", "line": "s1b", "prompt": "Close view of an old parchment technical sketch of an ornithopter wing with joints and hinges, a quill and ink pot beside it, warm sepia light, no readable writing." },
+    { "id": "s1b-3", "line": "s1b", "prompt": "Leonardo standing at a window watching a swallow circle in the sky, his notebook open on the sill, warm light on his thoughtful face, renaissance room in shadow." },
+
+    { "id": "s2-1", "line": "s2", "prompt": "An ornate eighteenth century hot air balloon with blue and gold panels lifting off a Paris courtyard, thick smoke swirling beneath its open mouth, elegant crowd below, warm morning light." },
+    { "id": "s2-2", "line": "s2", "prompt": "Two gentlemen in eighteenth century coats riding in the wicker basket of a hot air balloon high above Paris rooftops, holding the rim, wind in their hair, amazed expressions." },
+    { "id": "s2-3", "line": "s2", "prompt": "View from a balloon basket: elegant eighteenth century Paris spread out below with tiled roofs, gardens and the river, seen from a bird's height, warm golden haze, rail of the basket in foreground." },
+
+    { "id": "s2b-1", "line": "s2b", "prompt": "A striped silk hot air balloon drifting calmly with no effort across a wide open sky, drifting clouds and wheeling birds around it, serene teal and amber palette." },
+    { "id": "s2b-2", "line": "s2b", "prompt": "A small wooden toy hot air balloon rising from a child's hands on a hilltop, a whole village and open sky ahead, warm hopeful light, everyone can rise mood." },
+
+    { "id": "s3-1", "line": "s3", "prompt": "Otto Lilienthal in a simple linen flying suit hanging beneath a large bat-like wooden glider, gliding low over a grassy hill with a village below, dynamic forward motion, warm air." },
+    { "id": "s3-2", "line": "s3", "prompt": "Close-up of a hand gripping the wooden control bar of a hang glider, wind rushing past the fabric wing, hair and cloth streaming, sense of total control in flight." },
+    { "id": "s3-3", "line": "s3", "prompt": "A memorial mood: a wooden glider resting on a quiet green hill at dusk with its wing folded, distant hills and a single star, warm amber fading to deep teal, respectful and solemn." },
+
+    { "id": "s3b-1", "line": "s3b", "prompt": "Two brothers in shirtsleeves and flat caps in a bicycle workshop studying an open notebook full of wing diagrams, bicycle wheels and spokes hanging on the wall behind, warm gaslight." },
+    { "id": "s3b-2", "line": "s3b", "prompt": "A small bicycle shop interior in early twentieth century America: wooden counters, spokes, tires and tools, two men bent over plans at a lamp-lit table, warm nostalgic glow." },
+    { "id": "s3b-3", "line": "s3b", "prompt": "A world map on a cork board with the same notebook pinned in many different places, pinned routes crossing the oceans from Europe to America, warm lamplight, sense of ideas travelling." },
+
+    { "id": "s4-1", "line": "s4", "prompt": "Two brothers adjusting a large wooden wind tunnel box with a fan and a glass viewing panel in a rustic workshop, paper wings mounted inside on a balance arm, warm workshop light." },
+    { "id": "s4-2", "line": "s4", "prompt": "Close-up of a glider wing covered in taut pale fabric, ribs and wires visible, resting on a sandy dune at golden hour, sea grass bending in the wind." },
+    { "id": "s4-3", "line": "s4", "prompt": "A glider skimming the crest of a tall sand dune, two figures running after it and cheering, long shadows across rippled sand, energetic moment, warm amber light." },
+
+    { "id": "s5-1", "line": "s5", "prompt": "The Wright Flyer biplane at the instant of lift-off over the sand dunes of Kitty Hawk, a man lying prone on the lower wing, propeller spinning, a helper running alongside, dramatic and triumphant." },
+    { "id": "s5-2", "line": "s5", "prompt": "A very low flight path in the sand: dark skid tracks pressed into wet sand curving away toward a small biplane in the distance, a wooden starting rail beside them, cold morning light." },
+    { "id": "s5-3", "line": "s5", "prompt": "A lone figure in a spacesuit planting a flag-like pole on the grey lunar surface, a small blue Earth hanging in the black starry sky, awe and vastness, cinematic." },
+
+    { "id": "s5b-1", "line": "s5b", "prompt": "Side-by-side scale comparison in one wide frame: a tiny early biplane on a sand strip in the foreground, a long passenger train with carriages in the middle distance, sunny morning, clear air." },
+    { "id": "s5b-2", "line": "s5b", "prompt": "Macro close-up of the wing tip of an early biplane lifting a hand's width off wet sand, water drops and sand grains leaping, warm rising light, the moment of leaving the ground." },
+
+    { "id": "s6-1", "line": "s6", "prompt": "A 1920s propeller airliner banking through golden clouds, engines and propellers blurred with motion, sunlight flaring off the wings, sense of speed and adventure." },
+    { "id": "s6-2", "line": "s6", "prompt": "A sleek silver 1930s racing seaplane speeding low over dark teal ocean water, long white spray and wake behind it, dramatic side view, dynamic." },
+    { "id": "s6-3", "line": "s6", "prompt": "A propeller blade seen from the front at high speed with motion arcs and vibration blurs, dark blue sky behind, the invisible wall of the sound barrier suggested by compressed air lines ahead." },
+
+    { "id": "s7-1", "line": "s7", "prompt": "Cutaway illustration of an early jet engine: air sucked in at the front, compressor blades, a glowing combustion chamber with burning fuel, and a hot exhaust jet streaming out the back, warm ambers against deep teal." },
+    { "id": "s7-2", "line": "s7", "prompt": "Frank Whittle in a workshop holding a small early turbojet prototype on a bench, glowing heat lines from its exhaust tube, tools and drawings around, focused inventor mood, warm light." },
+    { "id": "s7-3", "line": "s7", "prompt": "A jet aircraft climbing steeply through a gap in the clouds, long bright exhaust plume behind it, thin cold high-altitude sky, epic and clean." },
+
+    { "id": "s7b-1", "line": "s7b", "prompt": "A modern airliner cruising far above a floor of clouds at sunset, wings stretched wide, contrails crossing the amber sky, calm and majestic." },
+    { "id": "s7b-2", "line": "s7b", "prompt": "A wide world map with great circle route lines arcing between continents, a small airliner icon mid-ocean, glowing amber routes over deep teal ocean, sense of one-day travel." },
+    { "id": "s7b-3", "line": "s7b", "prompt": "A tall rocket lifting off from a coastal pad at dawn toward a starry sky above, exhaust plume bright, the same sky that jets cross, inspiring scale." },
+
+    { "id": "s8-1", "line": "s8", "prompt": "A vertical chain of linked bronze and amber plaques rising through the sky, each stamped with a simple object: a wax wing, a notebook, a balloon, a glider, a biplane, a jet, warm light along the chain." },
+    { "id": "s8-2", "line": "s8", "prompt": "A line of silhouette figures on a hill passing a glowing spark of light from hand to hand, each of a different historical era in dress, warm amber glow, chain of people mood." },
+    { "id": "s8-3", "line": "s8", "prompt": "A single long golden thread of light weaving up from a cave mouth through clouds, above a balloon, a biplane and finally a jet, symbolic rise of flight, deep teal background." },
+
+    { "id": "s9-1", "line": "s9", "prompt": "Interior of a modern airliner cabin at altitude: rows of seats, oval windows showing a sunlit cloud deck far below, warm ambient light, calm and comfortable." },
+    { "id": "s9-2", "line": "s9", "prompt": "A large jet lifting its nose off a runway at golden hour, long shadow racing beneath, terminal lights blurred behind, hopeful passenger-travel mood." },
+    { "id": "s9-3", "line": "s9", "prompt": "A passenger by the window of an airliner looking down at a sea of clouds tinted amber by the setting sun, quiet reflective mood, soft warm light on their face." },
+
+    { "id": "s10-1", "line": "s10", "prompt": "A human figure standing on a cloud deck high above the Earth's curve, arms spread, the horizon glowing, symbolic of the impossible becoming ordinary, cinematic and grand." },
+    { "id": "s10-2", "line": "s10", "prompt": "An astronaut floating beside a station window looking back at the blue Earth, warm sunlight rimming the planet, awe and quiet pride." },
+
+    { "id": "s11-1", "line": "s11", "prompt": "A young dreamer at a window at dawn with paper wings taped to their back and a tiny glider on the sill, first warm light filling the room, hopeful and intimate." },
+    { "id": "s11-2", "line": "s11", "prompt": "A little paper airplane flying out of an open window into a sunrise sky full of wheeling birds, warm golden light, beginning of a journey, cinematic wide view." },
+
+    { "id": "cta-1", "line": "cta", "prompt": "A cozy desk at night with a glowing laptop and a small paper glider resting on top of it, warm lamp light, inviting to stay and watch more stories." },
+    { "id": "cta-2", "line": "cta", "prompt": "Sunrise over an airport runway with a plane taking off into a golden sky, birds crossing the same sky, warm hopeful forward-looking mood, cinematic wide view." }
+  ]
+}
