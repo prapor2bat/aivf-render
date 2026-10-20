@@ -16,6 +16,7 @@ import { Pk5Video, PK5_F } from "./pokhidna5/Video";
 import { NewsVideo, NEWS_F } from "./news/Video";
 import { ScreencastVideo, SCREENCAST_F } from "./screencast/Video";
 import { MockAI, MOCKAI_F } from "./screencast/MockAI";
+import { ElectricVideo, ELECTRIC_F } from "./electric/Video";
 import { CoverSpec, withCover } from "./brand/cover";
 
 /* Обкладинка серії «Математика простими словами» → епізод 1. */
@@ -51,6 +52,9 @@ export const RemotionRoot: React.FC = () => (
     <Composition id="Screencast" component={ScreencastVideo} durationInFrames={SCREENCAST_F} fps={30} width={1280} height={720} />
     {/* демо-запис екрана (мок ШІ-чату) для формату «Скрінкаст» — рендер у studio/public/screencast/ai-screen.mp4 */}
     <Composition id="MockAI" component={MockAI} durationInFrames={MOCKAI_F} fps={30} width={1920} height={1080} />
+    {/* формат «Генерація» (проєкт 016): слайдшоу AI-ілюстрацій 16:9 під озвучку — див. docs/WORKFLOW.md.
+        Дані: studio/src/electric/{audio_meta,images-plan}.json, асети public/electric/. */}
+    <Composition id="Electric" component={ElectricVideo} durationInFrames={ELECTRIC_F} fps={30} width={1280} height={720} />
     <CarouselCompositions />
   </>
 );

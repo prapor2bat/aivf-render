@@ -1,0 +1,68 @@
+{
+  "style": "Warm 2D storybook editorial illustration for a history-of-science documentary video: flat vector shapes with subtle paper grain, warm amber gold and deep teal palette, dramatic cinematic lighting, consistent character design, wide cinematic framing, NO text, no letters, no numbers, no watermark, no logos, no UI elements.",
+  "shots": [
+    { "id": "hook-1", "line": "hook", "prompt": "Close-up of a hand flipping an old brass light switch on a dark wall, warm golden glow bursting out, dust motes floating in the beam of light." },
+    { "id": "hook-2", "line": "hook", "prompt": "Epic split composition: on the left a glowing amber stone held in a palm, on the right the same glow transforming into modern nuclear cooling towers and wind turbines under a starry night sky." },
+    { "id": "hook-3", "line": "hook", "prompt": "A rising arc of light sources through the ages: ancient clay oil lamp, wax candle, early incandescent bulb, modern LED panel, glowing warmly against a dark teal background." },
+
+    { "id": "s1-1", "line": "s1", "prompt": "Ancient Greek philosopher Thales of Miletus in a warm sunlit workshop rubbing a piece of amber with a wool cloth, bits of straw and fluff leaping toward the amber, curious expression." },
+    { "id": "s1-2", "line": "s1", "prompt": "Macro scene: a translucent amber stone glowing from friction, straw fragments and fluff floating toward it through a warm sunbeam, dark workshop background." },
+
+    { "id": "s1b-1", "line": "s1b", "prompt": "A scholar desk in an ancient Greek study: amber pieces, a wax seal, a bronze magnifier and a scroll in a warm candlelit glow, mysterious atmosphere." },
+    { "id": "s1b-2", "line": "s1b", "prompt": "A dim medieval alchemy table with glass orbs, amber stones and faint magical-looking vapour, transitioning light from mystical blue to warm scientific gold." },
+    { "id": "s1b-3", "line": "s1b", "prompt": "A Renaissance scientist in a wooden study holding a piece of amber up to a window beam, surrounded by books and instruments, thoughtful and rational mood." },
+
+    { "id": "s2-1", "line": "s2", "prompt": "Seventeenth-century physician William Gilbert in his study rubbing many different objects - amber, an iron rod, a glass tube - with tiny sparks jumping, dozens of test objects on the table." },
+    { "id": "s2-2", "line": "s2", "prompt": "Close-up of a brass compass-like electric tester needle on a wooden table reacting to a rubbed amber rod, iron filings scattering, warm study light." },
+    { "id": "s2-3", "line": "s2", "prompt": "A confident scholar gesturing beside a large lodestone globe and a coil of wire in a candlelit seventeenth-century laboratory." },
+
+    { "id": "s3-1", "line": "s3", "prompt": "Stormy sky, a boy flying a kite with a metal key tied to the string, dramatic dark clouds lit by distant lightning, late 18th century clothing." },
+    { "id": "s3-2", "line": "s3", "prompt": "A bright lightning bolt striking near a kite string, electric glow racing down the wet twine toward a metal key, dramatic contrast, silhouette of a man below." },
+    { "id": "s3-3", "line": "s3", "prompt": "Benjamin Franklin in his laboratory touching a Leyden jar, a bright spark jumping to his knuckle, shocked visitors silhouetted in warm candlelight." },
+
+    { "id": "s3b-1", "line": "s3b", "prompt": "A row of antique Leyden jar capacitors on a wooden laboratory bench, a bright electric spark arcing between two metal rods, dark room lit only by the spark." },
+    { "id": "s3b-2", "line": "s3b", "prompt": "An 18th century scientist with a periwig touching a charged Leyden jar, electric spark at his knuckle, dramatic light on his amazed face." },
+    { "id": "s3b-3", "line": "s3b", "prompt": "A glowing glass vacuum discharge vessel with purple and gold plasma inside, surrounded by brass laboratory instruments, wonder and mystery." },
+
+    { "id": "s4-1", "line": "s4", "prompt": "An 18th century Italian anatomy laboratory: frog legs on a copper tray with two different metal strips touching them, the legs twitching, candlelight, surgeon's tools." },
+    { "id": "s4-2", "line": "s4", "prompt": "Close-up of frog legs connected by two different metal plates with a tiny spark, a surprised scientist's face glowing in the background." },
+    { "id": "s4-3", "line": "s4", "prompt": "Luigi Galvani pausing with a dissecting instrument in hand, deep in thought, specimen trays and brass instruments around him, warm candlelit laboratory." },
+
+    { "id": "s5-1", "line": "s5", "prompt": "Alessandro Volta stacking round copper and zinc discs separated by damp cloth into a tall column on a wooden table, focused expression, warm laboratory." },
+    { "id": "s5-2", "line": "s5", "prompt": "The first battery: a tall voltaic pile on a table with wires leading to a pair of metal terminals, a steady bright spark at the wire tip." },
+    { "id": "s5-3", "line": "s5", "prompt": "Macro close-up of alternating copper and zinc discs layered with damp cloth, warm metallic glow, shallow depth of field." },
+
+    { "id": "s5b-1", "line": "s5b", "prompt": "A cozy kitchen table at night, a mug-sized glass jar battery glowing with a faint warm light, a family's surprised faces softly illuminated." },
+    { "id": "s5b-2", "line": "s5b", "prompt": "Two hands gently cupping a small jar that glows with faint steady golden light, intimate dark background, sense of wonder." },
+
+    { "id": "s6-1", "line": "s6", "prompt": "Michael Faraday in a Victorian laboratory dropping a bar magnet into a copper coil connected to a galvanometer, the needle twitching, dramatic moment." },
+    { "id": "s6-2", "line": "s6", "prompt": "Close-up of a bar magnet sliding inside a copper wire coil, a galvanometer needle deflecting, motion lines and a golden glow of energy." },
+    { "id": "s6-3", "line": "s6", "prompt": "Wide shot of Faraday's simple laboratory apparatus - coil, magnet, needle - radiating golden energy lines, Victorian room in shadow." },
+
+    { "id": "s7-1", "line": "s7", "prompt": "A Victorian scientist in a modest coat chatting with a well-dressed finance minister in a top hat in a grand ornate room, both amused, warm gentle humor." },
+    { "id": "s7-2", "line": "s7", "prompt": "Two gentlemen in profile, a humble scientist and a skeptical statesman raising an eyebrow, warm interior light, witty conversation mood." },
+
+    { "id": "s7b-1", "line": "s7b", "prompt": "Cutaway illustration of a hydroelectric power plant: water rushing through a spiral casing spinning a turbine rotor packed with magnets and copper coils, glowing energy flow." },
+    { "id": "s7b-2", "line": "s7b", "prompt": "A grand steam turbine hall interior with massive generators in a row, warm golden light streaming through tall windows, scale and power." },
+    { "id": "s7b-3", "line": "s7b", "prompt": "Wind turbines on a hill at golden hour with a cutaway showing the generator's glowing copper coil inside the nacelle." },
+
+    { "id": "s8-1", "line": "s8", "prompt": "Thomas Edison in his workshop holding up a brightly glowing early incandescent light bulb, awe on his face, tools and glass around." },
+    { "id": "s8-2", "line": "s8", "prompt": "Interior of the Pearl Street power station: rows of large dynamos with belts and gauges, industrial warm glow, engineers working." },
+    { "id": "s8-3", "line": "s8", "prompt": "A late 19th century Manhattan street at night lit by new electric street lamps, amazed pedestrians in period clothes, warm golden pools of light." },
+
+    { "id": "s9-1", "line": "s9", "prompt": "A city street split in two halves: left side dim flickering DC lamps in murky light, right side bright steady AC lamps, dramatic contrast, dusk." },
+    { "id": "s9-2", "line": "s9", "prompt": "Two inventors facing each other in tension: a stern man in a bowler hat versus a tall elegant man with a moustache, a glowing electric coil between them." },
+    { "id": "s9-3", "line": "s9", "prompt": "Rows of humming electrical converter boxes and thick cables in a dark industrial basement, glowing arcs of alternating current, dramatic." },
+
+    { "id": "s10-1", "line": "s10", "prompt": "Nikola Tesla at a grand exhibition, calmly holding a glowing vacuum tube in his hand without wires, a crowd of astonished onlookers in formal wear." },
+    { "id": "s10-2", "line": "s10", "prompt": "The 1893 Chicago World's Fair: grand white neoclassical buildings outlined in thousands of electric lights reflecting on water at night, festive." },
+    { "id": "s10-3", "line": "s10", "prompt": "Majestic Niagara Falls hydroelectric power station with massive penstocks and power lines carrying electricity away, dramatic mist and scale." },
+
+    { "id": "s11-1", "line": "s11", "prompt": "Modern energy landscape at dusk: a hydro dam, a nuclear plant with cooling towers and a wind farm, connected by glowing power lines across rolling hills." },
+    { "id": "s11-2", "line": "s11", "prompt": "Night view of Earth's surface with a glowing web of power lines spreading like a nervous system across continents, deep teal and amber." },
+    { "id": "s11-3", "line": "s11", "prompt": "A modern city skyline at night fully alive with light, glowing cables running into the buildings, safe and vibrant atmosphere." },
+
+    { "id": "cta-1", "line": "cta", "prompt": "A young person by a window at dawn carefully holding a glowing light bulb like a treasured keepsake, warm hopeful light, cozy room." },
+    { "id": "cta-2", "line": "cta", "prompt": "Sunrise over a modern city with power lines and birds, warm golden sky, hopeful forward-looking mood, cinematic wide view." }
+  ]
+}
