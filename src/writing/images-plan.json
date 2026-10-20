@@ -1,0 +1,71 @@
+{
+  "style": "Warm 2D storybook editorial illustration for a history-of-writing documentary video: flat vector shapes with subtle paper grain, warm amber gold and deep teal palette with parchment cream accents, dramatic cinematic lighting, consistent character design, wide cinematic framing, clear separation between foreground and background planes so layers can move independently, NO text, no letters, no numbers, no watermark, no logos, no UI elements.",
+  "shots": [
+    { "id": "hook-1", "line": "hook", "prompt": "A lone storyteller silhouette by a night campfire speaking to a circle of listeners, warm amber firelight, the knowledge held only in glowing embers and memory, deep teal night around, fragile and precious." },
+    { "id": "hook-2", "line": "hook", "prompt": "A rising arc across one wide frame telling the story of writing: at the bottom a hand pressing marks into wet clay, mid an unfurled papyrus scroll, higher a quill on parchment, near the top movable metal type in a press, warm amber to deep teal gradient." },
+    { "id": "hook-3", "line": "hook", "prompt": "A great library burning at dusk, flames licking scrolls and tablets as tiny glowing symbols rise like sparks into the dark sky, knowledge almost lost forever, tragic and cinematic, warm amber against deep teal." },
+
+    { "id": "s1-1", "line": "s1", "prompt": "Prehistoric cave interior lit by a small torch: a human hand painting ochre bison and running hunters on the rock wall, charcoal outlines, warm firelight on rough stone, ancient and mysterious." },
+    { "id": "s1-2", "line": "s1", "prompt": "Close view of ancient cave paintings: a row of ochre handprints, a leaping deer and hunting figures on textured rock, flickering torch light, deep cave shadows around." },
+    { "id": "s1-3", "line": "s1", "prompt": "A tribal elder in furs teaching a child to paint a symbol on a cave wall by firelight, warm amber glow on their faces, the birth of leaving a mark, intimate and cinematic." },
+
+    { "id": "s1b-1", "line": "s1b", "prompt": "Two scribes on a stone bench trying in vain to draw a complex abstract idea, tangled confused picture-symbols around them, frowning faces, warm afternoon light, gentle humor about the limits of pictures." },
+    { "id": "s1b-2", "line": "s1b", "prompt": "A cluttered ancient workshop wall covered with a chaotic maze of picture symbols, arrows and crossed-out drawings, a frustrated hand holding a brush, warm sepia light, no readable writing." },
+    { "id": "s1b-3", "line": "s1b", "prompt": "A quiet moment: an elder holding a single polished bead carved with one simple repeated mark, turning it in the light, pondering how to capture something as slippery as a spoken word, warm candlelight." },
+
+    { "id": "s2-1", "line": "s2", "prompt": "A Sumerian temple storeroom in warm sunlight: robed scribes pressing wedge-shaped marks into soft clay tablets with reed styluses, stacked sacks of grain and jars around, organized and busy." },
+    { "id": "s2-2", "line": "s2", "prompt": "Close-up of a hand pressing a reed stylus into a wet clay tablet, neat rows of wedge-shaped marks forming, soft clay texture, warm amber light, revealing the birth of cuneiform." },
+    { "id": "s2-3", "line": "s2", "prompt": "A large drying rack of clay tablets in a Sumerian courtyard, some blank, some stamped, sunlight raking across, jars and grain measures beside, warm and orderly." },
+
+    { "id": "s2b-1", "line": "s2b", "prompt": "A pile of fired clay tablets glowing warm on a shelf, hard as stone and ages old, a soft light along their edges, symbol of knowledge that outlasts the hand that wrote it, deep teal background." },
+    { "id": "s2b-2", "line": "s2b", "prompt": "A small child in simple ancient dress practicing marks on a clay tablet at a low table, an adult scribe guiding their hand, warm lamplight, the very first writing lesson." },
+
+    { "id": "s3-1", "line": "s3", "prompt": "An ancient Egyptian scribe seated cross-legged with a papyrus roll on his lap and a reed brush in hand, ink palette beside, warm golden light from the side, calm and dignified." },
+    { "id": "s3-2", "line": "s3", "prompt": "Close view of a papyrus scroll partly unrolled with elegant painted hieroglyphic figures of birds, eyes and reeds, reed pen and ink pot nearby, warm sepia and amber light, no readable words." },
+    { "id": "s3-3", "line": "s3", "prompt": "A temple wall covered in carved and painted hieroglyphs lit by torchlight, a robed figure tracing a symbol with a finger, grand columns and warm glow, ancient and sacred." },
+
+    { "id": "s3b-1", "line": "s3b", "prompt": "A school of scribes in ancient Egypt copying hieroglyphs on papyrus under the watchful eye of a master, rows of students, tall columns of a hall behind, warm light, disciplined and solemn." },
+    { "id": "s3b-2", "line": "s3b", "prompt": "A powerful figure on a throne holding a scroll, scribes kneeling before him writing down his words, torchlit hall, power of knowledge and writing concentrated in few hands, warm amber and deep shadow." },
+    { "id": "s3b-3", "line": "s3b", "prompt": "A locked archive room filled with papyrus rolls stacked in niches, a single beam of light through a high window, secrecy and control, deep teal shadows with warm amber shaft." },
+
+    { "id": "s4-1", "line": "s4", "prompt": "Phoenician merchants at a bustling ancient harbour trading and writing quick notes with a simple alphabet of a few dozen letters on wax boards, ships and goods around, warm coastal light, brisk and practical." },
+    { "id": "s4-2", "line": "s4", "prompt": "Close-up of a wax writing board carved with a simple alphabet of small separate letters, a pointed stylus resting on it, warm amber light, elegant simplicity, no readable words." },
+    { "id": "s4-3", "line": "s4", "prompt": "A child on a Mediterranean stone step quickly scratching letters onto a wax tablet with a stylus, surprised and delighted at how easy it is, warm sunny light, discovery mood." },
+
+    { "id": "s5-1", "line": "s5", "prompt": "Greek scholars in a sunlit colonnade debating over scrolls and wax tablets, a clean alphabet of vowels and consonants carved on a stone stele behind them, warm classical light, thoughtful and lively." },
+    { "id": "s5-2", "line": "s5", "prompt": "A Roman stonemason carving crisp letterforms into a marble slab with mallet and chisel, dust and chips flying, warm sunlight raking across the stone, monumental and precise." },
+    { "id": "s5-3", "line": "s5", "prompt": "A wide world of manuscripts fanning out from one alphabet: a Greek scroll, a Latin codex, a Slavonic page, a runic stone and a Cyrillic book spread across a warm parchment-lit table, sense of letters travelling the world." },
+
+    { "id": "s5b-1", "line": "s5b", "prompt": "A bustling ancient market where a merchant, a craftsman and a soldier each quickly write a note with a stylus on a wax tablet, letters now in everyone's hands, warm lively light, everyday and free." },
+    { "id": "s5b-2", "line": "s5b", "prompt": "An open school door in an ancient town with children carrying wax tablets rushing in, letters spilling from their hands into the street, warm morning light, knowledge breaking out of the temple walls." },
+
+    { "id": "s6-1", "line": "s6", "prompt": "A medieval monastery scriptorium: monks bent over slanted desks copying manuscripts by candlelight with quills, stacks of parchment, a single mistake spoiling a page, warm amber glow and deep shadow, laborious and reverent." },
+    { "id": "s6-2", "line": "s6", "prompt": "Close-up of a calligrapher's hand inking a decorated initial letter with a fine quill, gold leaf and pigments nearby, warm candlelight, exquisite and costly craft, no readable words." },
+    { "id": "s6-3", "line": "s6", "prompt": "A chained precious book lying on a lectern in a dim library, a single beam of light on its cover, symbol of how rare and locked-away knowledge was, deep teal shadows with warm amber shaft." },
+
+    { "id": "s7-1", "line": "s7", "prompt": "Johannes Gutenberg in his workshop assembling movable metal type into a wooden press, trays of individual letters around him, an oil-based ink ball in hand, warm workshop light, focused inventor mood." },
+    { "id": "s7-2", "line": "s7", "prompt": "Cutaway view of an early wooden printing press: a platen pressing paper onto inked metal type, a screw handle above, sheets stacked beside, warm amber light against deep teal, mechanical and revelatory." },
+    { "id": "s7-3", "line": "s7", "prompt": "A freshly printed page being lifted from the press revealing neat even rows of letterforms in reverse on the type below, ink glistening, warm light, the moment mass printing was born, no readable words." },
+
+    { "id": "s7b-1", "line": "s7b", "prompt": "A spread of many printed books multiplying across a warm table and floor in a sixteenth century room, more books than a lifetime could copy by hand, sense of knowledge exploding, warm amber and deep teal." },
+    { "id": "s7b-2", "line": "s7b", "prompt": "A wide city square in early modern Europe with a printer's stall and scholars, students and townsfolk crowding to buy cheap printed pages, warm morning light, ideas spreading to everyone, lively and hopeful." },
+    { "id": "s7b-3", "line": "s7b", "prompt": "A soaring symbolic image: printed pages peeling off a press and flying up like birds into a bright sky across the world, warm golden light, spread of knowledge, cinematic and grand." },
+
+    { "id": "s8-1", "line": "s8", "prompt": "A vertical chain of linked amber and bronze plaques rising through the sky, each stamped with a simple object: a painted handprint, a clay tablet, a papyrus scroll, a wax letter, a printed page, warm light along the chain." },
+    { "id": "s8-2", "line": "s8", "prompt": "A line of silhouette figures on a hill passing a glowing spark of light from hand to hand, each of a different era in dress, from cave dweller to printer to modern writer, warm amber glow, chain of people mood." },
+    { "id": "s8-3", "line": "s8", "prompt": "A single long golden thread of writing weaving up from a cave mouth through clouds, past a clay tablet, a scroll, a codex and finally a printed book, symbolic rise of writing, deep teal background." },
+
+    { "id": "s9-1", "line": "s9", "prompt": "A modern cozy desk at golden hour with a glowing laptop, handwritten notes, sticky notes and open books around, warm ambient light, everyday abundance of writing." },
+    { "id": "s9-2", "line": "s9", "prompt": "A busy modern scene: people texting on phones, typing on laptops and signing papers in a warm sunlit cafe, writing everywhere and unnoticed, sense of how far we have come." },
+    { "id": "s9-3", "line": "s9", "prompt": "A hand holding a modern pen above a sheet of paper that dissolves at its edges into an ancient clay tablet and a roll of papyrus, warm golden light, direct lineage from the first marks." },
+
+    { "id": "s10-1", "line": "s10", "prompt": "A reader in a warm library opening an ancient manuscript and hearing a voice from thousands of years ago, faint luminous figures of past writers gathering around the desk, warm amber glow, magical and intimate." },
+    { "id": "s10-2", "line": "s10", "prompt": "A hand writing a fresh page by a window at dawn that fades into distant future silhouettes reading it, warm golden light bridging past and future, sense of writing across time." },
+
+    { "id": "s11-1", "line": "s11", "prompt": "A young writer at a warm desk at dawn with a pen and an open notebook, a soft light of a larger future scene beyond the window, hopeful and intimate, invitation to write." },
+    { "id": "s11-2", "line": "s11", "prompt": "A newly written page lifting off an open window into a sunrise sky full of floating letters and birds, warm golden light, beginning of a new story, cinematic wide view." },
+
+    { "id": "cta-1", "line": "cta", "prompt": "A cozy desk at night with a glowing laptop and an open notebook resting on it beside an ink well, warm lamp light, inviting to stay and watch more stories." },
+    { "id": "cta-2", "line": "cta", "prompt": "Sunrise over an open notebook on a windowsill with a pen, birds crossing the golden sky outside, warm hopeful forward-looking mood, cinematic wide view." }
+  ]
+}
