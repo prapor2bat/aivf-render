@@ -21,6 +21,7 @@ import { FlightVideo, FLIGHT_F } from "./flight/Video";
 import { WritingVideo, WRITING_F } from "./writing/Video";
 import { RakhunokVideo, RAKHUNOK_F } from "./rakhunok/Video";
 import { HroshiVideo, HROSHI_F } from "./hroshi/Video";
+import { ChasVideo, CHAS_F } from "./chas/Video";
 import { CoverSpec, withCover } from "./brand/cover";
 
 /* Обкладинка серії «Математика простими словами» → епізод 1. */
@@ -71,6 +72,9 @@ export const RemotionRoot: React.FC = () => (
     {/* формат «Генерація» (проєкт 021): стокові фото + шар руху в кадрі на кожній сцені 16:9.
         Дані: studio/src/hroshi/{audio_meta,images-plan}.json, асети public/hroshi/. */}
     <Composition id="Hroshi" component={HroshiVideo} durationInFrames={HROSHI_F} fps={30} width={1280} height={720} />
+    {/* формат «Генерація» (проєкт 022): стокові фото + шар руху в кадрі на кожній сцені 16:9.
+        Дані: studio/src/chas/{audio_meta,images-plan}.json, асети public/chas/. */}
+    <Composition id="Chas" component={ChasVideo} durationInFrames={CHAS_F} fps={30} width={1280} height={720} />
     <CarouselCompositions />
   </>
 );
