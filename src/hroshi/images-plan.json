@@ -1,0 +1,68 @@
+{
+  "style": "Warm 2D storybook editorial illustration for a history-of-money documentary video: flat vector shapes with subtle paper grain, warm amber gold and deep teal palette with parchment cream accents, dramatic cinematic lighting, consistent character design, wide cinematic framing, clear separation between foreground and background planes so layers can move independently, NO text, no letters, no numbers, no digits, no watermark, no logos, no UI elements.",
+  "shots": [
+    { "id": "hook-1", "line": "hook", "prompt": "A lone human silhouette on a wide market plain at dusk, one hand holding grain, the other holding a small glowing amber disk, deep teal sky, sense of an ancient bargain being sealed." },
+    { "id": "hook-2", "line": "hook", "prompt": "A rising arc across one wide frame telling the story of money: at the bottom hands trading fish and grain, higher cowrie shells and salt blocks, then stamped gold coins, then paper notes, near the top glowing digital streams of light, warm amber to deep teal gradient." },
+    { "id": "hook-3", "line": "hook", "prompt": "A vast ancient market crowd across a golden plaza, faint luminous golden sparks of trust rising from the traders into the dark sky, wonder and order, warm amber against deep teal." },
+
+    { "id": "s1-1", "line": "s1", "prompt": "Two ancient farmers bartering in warm firelight: one holds a basket of fish, the other a sack of grain, faces negotiating, simple prehistoric market, intimate and cinematic." },
+    { "id": "s1-2", "line": "s1", "prompt": "A frustrated trader holding salt blocks looking at a fisherman with fish, an awkward triangular exchange of goods, warm amber light, the limits of barter shown visually." },
+    { "id": "s1-3", "line": "s1", "prompt": "A crowd of ancient villagers each holding different goods and gesturing, unable to agree on what to trade, warm dust and torchlight, a quiet problem of exchange, deep teal shadows." },
+
+    { "id": "s2-1", "line": "s2", "prompt": "An African coastal trader on warm sunlit sand holding a string of polished cowrie shells above a woven basket of goods, ocean behind, shells gleam like small gold, ancient and dignified." },
+    { "id": "s2-2", "line": "s2", "prompt": "Roman soldiers in warm light receiving small sacks of salt from an officer, salt as payment, tents and standards blurred behind, amber sunlight, historical and cinematic." },
+    { "id": "s2-3", "line": "s2", "prompt": "A display on warm earth of many kinds of early money side by side: cowrie shells, a salt block, a small cow, carved ivory, a lump of amber, arranged like treasures under golden light." },
+
+    { "id": "s3-1", "line": "s3", "prompt": "A pair of hands weighing silver chunks on a delicate brass balance scale in warm lamplight, small metal fragments on the table, ancient trade, precise and careful." },
+    { "id": "s3-2", "line": "s3", "prompt": "A merchant cutting a bar of silver into small pieces with a chisel on a wooden counter, tools and scales around, warm amber glow, metal becoming usable money." },
+    { "id": "s3-3", "line": "s3", "prompt": "A glowing pile of gold and silver nuggets and shaped metal fragments spilling from a chest onto warm parchment cloth, deep teal background, wealth and weight together." },
+
+    { "id": "s4-1", "line": "s4", "prompt": "An ancient Lydian craftsman in a warm workshop striking a small electrum coin with a hammer and die, sparks of gold light, rough stamped emblem forming, deep shadows, invention in progress." },
+    { "id": "s4-2", "line": "s4", "prompt": "Close-up of a newly stamped coin held between fingers, a simple raised animal emblem on its face, warm golden light raking across the metal, the first true coin, no readable words." },
+    { "id": "s4-3", "line": "s4", "prompt": "A busy ancient agora where a merchant hands a small stamped coin to a buyer, both smiling, tables of goods around, warm sunlight, trust made small and portable." },
+
+    { "id": "s5-1", "line": "s5", "prompt": "A weary caravan merchant in hot desert light dragging heavy sacks of coins on a camel, bent under the weight, distant dunes, warm amber and deep teal, the burden of metal money." },
+    { "id": "s5-2", "line": "s5", "prompt": "A merchant on a dusty road guarded by armed men around a chest of gold, tense and dangerous, warm sunset, the peril of moving heavy wealth, cinematic." },
+    { "id": "s5-3", "line": "s5", "prompt": "A symbolic image: a heavy iron chain of coins dragging down a human hand that strains to lift it, while distant light suggests a lighter way forward, warm amber against deep teal." },
+
+    { "id": "s5b-1", "line": "s5b", "prompt": "A Chinese official in a warm lantern-lit hall stamping a large wooden seal onto sheets of paper money, an imperial seal and carved block nearby, browns and reds with amber light, cinematic." },
+    { "id": "s5b-2", "line": "s5b", "prompt": "Close-up of a hand holding a light paper note bearing a red official seal before stacks of gold ingots promised behind it, warm light, paper carrying the weight of gold, no readable words." },
+    { "id": "s5b-3", "line": "s5b", "prompt": "A symbolic image: a single feather-light paper note floating upward while a heavy gold ingot sinks below it, warm golden glow, deep teal night, money losing weight but keeping power." },
+
+    { "id": "s6-1", "line": "s6", "prompt": "A Renaissance goldsmith's strongroom in warm candlelight where citizens hand gold to a banker who writes a receipt, shelves of coin chests, quill and ledger, intimate and trustworthy." },
+    { "id": "s6-2", "line": "s6", "prompt": "A warm 17th century market where a merchant pays another by handing over a folded paper receipt instead of coins, ledgers on a table, amber light, paper replacing metal." },
+    { "id": "s6-3", "line": "s6", "prompt": "A symbolic image: a golden coin dissolving into a glowing paper note that then multiplies into several notes, warm light, deep teal background, value multiplying through trust." },
+
+    { "id": "s6b-1", "line": "s6b", "prompt": "A warm bank interior where a clerk lends a bag of coins to a client across a wooden counter, both satisfied, ledgers and quills, amber lamplight, credit being born." },
+    { "id": "s6b-2", "line": "s6b", "prompt": "Close-up of hands passing coins out from a chest to several different people on warm parchment ledgers, small gold threads of light linking them, deep teal background, money circulating and growing." },
+    { "id": "s6b-3", "line": "s6b", "prompt": "A wide warm scene of a trading street where gold, goods and paper receipts flow between many hands in lively exchange, faint golden glow along the paths, world of commerce transformed." },
+
+    { "id": "s7-1", "line": "s7", "prompt": "A weathered paper banknote held up in warm candlelight, its promise-looking glow fading at the edges, a faint shadow of a broken chain behind, deep teal background, trust under question." },
+    { "id": "s7-2", "line": "s7", "prompt": "A lone scholar by an oil lamp pondering a small banknote on a table beside a metal scale now empty, hand raised as if searching for a new idea, warm intimate light, a question in the air." },
+    { "id": "s7-3", "line": "s7", "prompt": "A symbolic image: a bridge of glowing light spanning a dark gap, built from paper notes on one side toward an unseen future on the other, warm amber against deep teal, searching for a new trust." },
+
+    { "id": "s8-1", "line": "s8", "prompt": "A mid-20th-century bank lobby in warm light where a customer pays with a sleek payment card at a counter, an early card terminal nearby, tellers and marble, amber and deep teal, money becoming invisible." },
+    { "id": "s8-2", "line": "s8", "prompt": "Close-up of a hand inserting a payment card into a machine while faint glowing streams of light flow along wires away from it, warm amber light, deep teal background, transaction without metal." },
+    { "id": "s8-3", "line": "s8", "prompt": "A symbolic image: a heavy gold coin dissolving into thin glowing lines and numbers of light drifting into the air above it, warm golden light, deep teal night, wealth turned to signals." },
+
+    { "id": "s9-1", "line": "s9", "prompt": "A modern person in soft blue screen glow scrolling a phone while faint luminous rails of light connect to distant glowing nodes around them, cool blue with warm amber accents, money living in a network." },
+    { "id": "s9-2", "line": "s9", "prompt": "An abstract cinematic image of a decentralized web of glowing amber nodes joined by thin golden light threads, no central hub, floating over a dark deep teal void, trust without a bank." },
+    { "id": "s9-3", "line": "s9", "prompt": "Close-up of an open hand holding nothing but a faint glowing outline of a coin made of light hovering just above the palm, warm amber against deep teal, money you cannot touch." },
+
+    { "id": "s10-1", "line": "s10", "prompt": "A monumental archive of glowing ledgers and chains of light stretching into deep space, faint amber records flowing like rivers between distant nodes, deep teal background, the world's agreed record of value." },
+    { "id": "s10-2", "line": "s10", "prompt": "A split symbolic frame: on one side a lone ancient farmer handing over a single fish in warm daylight, on the other a vast glowing network of light nodes, a golden thread connecting them across time." },
+
+    { "id": "s11-1", "line": "s11", "prompt": "REUSE s10-1", "reuse": "s10-1" },
+    { "id": "s11-2", "line": "s11", "prompt": "REUSE s4-3", "reuse": "s4-3" },
+    { "id": "s11-3", "line": "s11", "prompt": "REUSE hook-3", "reuse": "hook-3" },
+
+    { "id": "s12-1", "line": "s12", "prompt": "REUSE s6b-3", "reuse": "s6b-3" },
+    { "id": "s12-2", "line": "s12", "prompt": "REUSE s8-1", "reuse": "s8-1" },
+
+    { "id": "s13-1", "line": "s13", "prompt": "REUSE s9-2", "reuse": "s9-2" },
+    { "id": "s13-2", "line": "s13", "prompt": "REUSE hook-1", "reuse": "hook-1" },
+
+    { "id": "cta-1", "line": "cta", "prompt": "REUSE s4-2", "reuse": "s4-2" },
+    { "id": "cta-2", "line": "cta", "prompt": "REUSE hook-2", "reuse": "hook-2" }
+  ]
+}
