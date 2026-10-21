@@ -19,6 +19,7 @@ import { MockAI, MOCKAI_F } from "./screencast/MockAI";
 import { ElectricVideo, ELECTRIC_F } from "./electric/Video";
 import { FlightVideo, FLIGHT_F } from "./flight/Video";
 import { WritingVideo, WRITING_F } from "./writing/Video";
+import { RakhunokVideo, RAKHUNOK_F } from "./rakhunok/Video";
 import { CoverSpec, withCover } from "./brand/cover";
 
 /* Обкладинка серії «Математика простими словами» → епізод 1. */
@@ -63,6 +64,9 @@ export const RemotionRoot: React.FC = () => (
     {/* формат «Генерація» (проєкт 019): AI-ілюстрації + шар руху в кадрі на кожній сцені 16:9.
         Дані: studio/src/writing/{audio_meta,images-plan}.json, асети public/writing/. */}
     <Composition id="Writing" component={WritingVideo} durationInFrames={WRITING_F} fps={30} width={1280} height={720} />
+    {/* формат «Генерація» (проєкт 020): AI-ілюстрації + шар руху в кадрі на кожній сцені 16:9.
+        Дані: studio/src/rakhunok/{audio_meta,images-plan}.json, асети public/rakhunok/. */}
+    <Composition id="Rakhunok" component={RakhunokVideo} durationInFrames={RAKHUNOK_F} fps={30} width={1280} height={720} />
     <CarouselCompositions />
   </>
 );

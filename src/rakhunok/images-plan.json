@@ -1,0 +1,67 @@
+{
+  "style": "Warm 2D storybook editorial illustration for a history-of-numbers documentary video: flat vector shapes with subtle paper grain, warm amber gold and deep teal palette with parchment cream accents, dramatic cinematic lighting, consistent character design, wide cinematic framing, clear separation between foreground and background planes so layers can move independently, NO text, no letters, no numbers, no digits, no watermark, no logos, no UI elements.",
+  "shots": [
+    { "id": "hook-1", "line": "hook", "prompt": "A lone human silhouette on a wide empty plain at dusk, holding up an open hand, as a scatter of glowing amber counting stones floats around them, deep teal sky, sense of an idea being born." },
+    { "id": "hook-2", "line": "hook", "prompt": "A rising arc across one wide frame telling the story of counting: at the bottom a hand showing fingers, higher tally marks scratched on a bone, then a clay tablet of small tokens, then a mechanical gear machine, near the top glowing electronic lights, warm amber to deep teal gradient." },
+    { "id": "hook-3", "line": "hook", "prompt": "A vast flock of sheep crossing a golden field while a shepherd keeps count, and faint luminous numbers rise like sparks from the flock into the dark sky, wonder and order, warm amber against deep teal." },
+
+    { "id": "s1-1", "line": "s1", "prompt": "Close view of a prehistoric human hand showing five fingers lit by warm firelight, ancient and simple, deep cave shadows around, the body itself used as the first counting tool." },
+    { "id": "s1-2", "line": "s1", "prompt": "A group of ancient figures comparing pairs of eyes, ears, hands and feet in warm firelight, gesturing counts to each other, body parts as measures, intimate and cinematic." },
+    { "id": "s1-3", "line": "s1", "prompt": "A prehistoric person marking notches on a wooden stick beside a small pile of stones and shells, warm amber glow, earliest counting by ones, cave interior, ancient and mysterious." },
+
+    { "id": "s2-1", "line": "s2", "prompt": "A Sumerian temple storeroom in warm sunlight: robed figures stacking sacks of grain and jars, clay containers lined up, small clay token figurines beside them, organized and busy." },
+    { "id": "s2-2", "line": "s2", "prompt": "Close-up of hands dropping small clay animal and grain tokens into a round clay container, warm amber light, the birth of keeping count of stored goods." },
+    { "id": "s2-3", "line": "s2", "prompt": "A sealed round clay container with simple pictographic marks pressed into its surface lying among grain sacks, a stylus beside it, warm sunlight raking across, revealing the shift from tokens to signs." },
+
+    { "id": "s3-1", "line": "s3", "prompt": "A Sumerian scribe pressing wedge-like marks into a soft clay tablet with a reed stylus, rows of marks forming, warm amber light, sense of numbers becoming visible signs." },
+    { "id": "s3-2", "line": "s3", "prompt": "A pile of fired clay tablets glowing warm on a shelf, hard as stone and ages old, a soft light along their edges, symbol of numbers outlasting memory, deep teal background." },
+    { "id": "s3-3", "line": "s3", "prompt": "A quiet symbolic image: a floating amber token dissolving into a glowing abstract sign that rises above it, warm light, the moment quantity separated from the object it counted, deep teal night around." },
+
+    { "id": "s4-1", "line": "s4", "prompt": "A Babylonian scribe in a torchlit hall carving a vertical row of wedge signs, each in a different column position, warm amber light, thoughtful and precise, no readable words." },
+    { "id": "s4-2", "line": "s4", "prompt": "A wide carved stone tablet divided into neat positional columns with simple wedge marks, a hand pointing at one column glowing warm, sense of place-value discovered." },
+    { "id": "s4-3", "line": "s4", "prompt": "A circular baked clay tablet of sixty divisions glowing like a dial under warm light, a stylus beside it, evocative of dividing the hour into sixty parts, deep teal and amber." },
+
+    { "id": "s5-1", "line": "s5", "prompt": "A Babylonian scribe frowning at a clay tablet with gaping empty spaces between clustered marks, unable to tell what is missing, warm torchlight, a quiet problem." },
+    { "id": "s5-2", "line": "s5", "prompt": "A cutaway of a clay tablet row with a bare void splitting the marks, faint shadow filling the gap, symbol of the missing sign for nothing, warm amber against deep teal, no readable words." },
+    { "id": "s5-3", "line": "s5", "prompt": "A lone Babylonian scholar by an oil lamp pondering a blank smooth patch on a tablet, hand raised as if searching for an idea, warm intimate light, a question in the air." },
+
+    { "id": "s5b-1", "line": "s5b", "prompt": "An ancient Indian scholar in a warm sunlit courtyard drawing a small dot and a tiny empty circle onto a palm-leaf sheet with a stylus, delight and simplicity, other scrolls around." },
+    { "id": "s5b-2", "line": "s5b", "prompt": "Close-up of a sage's hand inscribing a single glowing dot and an empty circle onto a smooth surface, warm golden light, the invention of zero, sacred and bright." },
+    { "id": "s5b-3", "line": "s5b", "prompt": "A warm symbolic image: a hollow glowing ring of light floating among clay tablets, sand and palm leaves, a soft golden aura, feeling of numbers set free, deep teal background." },
+
+    { "id": "s6-1", "line": "s6", "prompt": "Arab scholars in a warm candlelit library studying manuscripts and an astrolabe, sweeping curved numeral shapes glowing on parchment around them, a caravan visible through an arched window, warm amber and deep teal." },
+    { "id": "s6-2", "line": "s6", "prompt": "A merchant caravan crossing dunes at golden hour, and along the road faint luminous numeral shapes drift in the air like seed, ideas travelling the world by trade route." },
+    { "id": "s6-3", "line": "s6", "prompt": "A warm European study a few centuries later where a scholar copies sweeping curved numerals onto paper from an old manuscript, candlelight and quill, numerals arriving in the west." },
+
+    { "id": "s6b-1", "line": "s6b", "prompt": "A bustling medieval market where a merchant swiftly adds up coins on a merchant's table with a quill, ledger open, warm lively light, arithmetic in daily use." },
+    { "id": "s6b-2", "line": "s6b", "prompt": "Close-up of an abacus with warm polished beads beside a hand holding a quill over figures, sunlight raking across, old and new counting side by side." },
+
+    { "id": "s7-1", "line": "s7", "prompt": "A weary scribe at night rubbing tired eyes over long columns of hand-written sums by candlelight, warm amber glow and deep shadow, the exhaustion of counting by hand." },
+    { "id": "s7-2", "line": "s7", "prompt": "A dreamlike image of a pile of ledgers and slipped counting beads dissolving into faint glowing lines lifting toward a distant spark of mechanism, warm light, longing for a machine." },
+    { "id": "s7-3", "line": "s7", "prompt": "A lone thinker at a desk sketching a wheeled machine on paper by candlelight, gears and rods in the margins, warm intimate light, a seed of an idea, deep teal depth." },
+
+    { "id": "s8-1", "line": "s8", "prompt": "A seventeenth century workshop with a brass mechanical calculating machine on a wooden table, wheels of toothed digits, a scholar's hand turning a handle, warm amber light, inventive mood." },
+    { "id": "s8-2", "line": "s8", "prompt": "Cutaway close view of interlocking brass gears and numbered wheels inside an early adding machine, each tooth meshing precisely, warm lamplight against deep teal, mechanical and revelatory." },
+    { "id": "s8-3", "line": "s8", "prompt": "A gentle symbolic image: a hand letting go and brass gears spinning on their own, faint amber glow along their rims, iron learning to count by itself, deep teal background." },
+
+    { "id": "s9-1", "line": "s9", "prompt": "A Victorian inventor in a cluttered workshop bent over drawings of a large machine of gears, rods and cylinders, blueprints scattered, warm oil-lamp light, ambitious and visionary." },
+    { "id": "s9-2", "line": "s9", "prompt": "A Victorian woman of science in a warm drawing room studying mechanical plans and punch cards by lamplight, thoughtful and far-seeing, elegant and cinematic." },
+    { "id": "s9-3", "line": "s9", "prompt": "A visionary symbolic image: paper punch cards threading through brass rods while abstract luminous patterns and shapes rise from the machine, warm golden light, imagination beyond mere counting." },
+
+    { "id": "s10-1", "line": "s10", "prompt": "A vast room of early electronic computers glowing with rows of tubes and blinking lights, technicians in white coats moving among cabinets, cool blue with warm amber accents, monumental and cinematic." },
+    { "id": "s10-2", "line": "s10", "prompt": "A split symbolic frame: on one side a lone farmer counting clay tokens in warm ancient light, on the other a modern machine of glowing lights, a golden thread connecting them." },
+
+    { "id": "s11-1", "line": "s11", "prompt": "REUSE s10-1", "reuse": "s10-1" },
+    { "id": "s11-2", "line": "s11", "prompt": "REUSE s10-2", "reuse": "s10-2" },
+    { "id": "s11-3", "line": "s11", "prompt": "REUSE hook-3", "reuse": "hook-3" },
+
+    { "id": "s12-1", "line": "s12", "prompt": "REUSE s8-1", "reuse": "s8-1" },
+    { "id": "s12-2", "line": "s12", "prompt": "REUSE s8-2", "reuse": "s8-2" },
+
+    { "id": "s13-1", "line": "s13", "prompt": "REUSE s9-3", "reuse": "s9-3" },
+    { "id": "s13-2", "line": "s13", "prompt": "REUSE hook-3", "reuse": "hook-3" },
+
+    { "id": "cta-1", "line": "cta", "prompt": "REUSE s3-2", "reuse": "s3-2" },
+    { "id": "cta-2", "line": "cta", "prompt": "REUSE hook-1", "reuse": "hook-1" }
+  ]
+}
