@@ -1,0 +1,4530 @@
+{
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "duration": 395.7,
+  "theme": "pastel",
+  "letterbox": true,
+  "subtitles": true,
+  "brand": {
+    "name": "STICKMAN LIFE",
+    "color": "#FF2D3A",
+    "icon": "none"
+  },
+  "audio": {
+    "voice": "audio/voice.mp3",
+    "musicParts": [
+      {
+        "from": 0,
+        "src": "music/calm.wav"
+      },
+      {
+        "from": 138.48,
+        "src": "music/tense.wav"
+      },
+      {
+        "from": 276.97,
+        "src": "music/upbeat.wav"
+      },
+      {
+        "from": 356.1,
+        "src": "music/mystery.wav"
+      }
+    ],
+    "music": null,
+    "musicDb": -22,
+    "sfxDb": -13
+  },
+  "scenes": [
+    {
+      "start": 0,
+      "end": 4.31,
+      "note": "What if you could read minds? Imagine for a moment.",
+      "location": "plaza",
+      "camera": {
+        "shot": "wide",
+        "move": "dolly-in",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "idle",
+          "face": "neutral",
+          "facing": "camera"
+        }
+      ],
+      "transition": "fade",
+      "crowd": {
+        "count": 12,
+        "area": [
+          -6,
+          -3,
+          6,
+          -0.5
+        ],
+        "action": "idle",
+        "face": "neutral",
+        "facing": "away",
+        "seed": 3
+      },
+      "title": {
+        "text": "WHAT IF YOU.",
+        "at": 0.4,
+        "position": "bottom",
+        "size": "medium"
+      },
+      "sfx": [
+        {
+          "name": "pop",
+          "at": 0.5
+        }
+      ],
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "props": [
+        {
+          "type": "clock",
+          "x": 3,
+          "z": 1,
+          "scale": 1.5,
+          "color": "#FFD700"
+        },
+        {
+          "type": "sign",
+          "x": -4,
+          "z": 0.5,
+          "scale": 1.2,
+          "lines": [
+            "WHAT IF YOU"
+          ]
+        }
+      ]
+    },
+    {
+      "start": 4.31,
+      "end": 8.62,
+      "note": "You're sitting in a coffee shop, minding your own business.",
+      "location": "street",
+      "camera": {
+        "shot": "medium",
+        "move": "static",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "think",
+          "face": "happy",
+          "facing": "camera"
+        }
+      ],
+      "transition": "fade",
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "props": [
+        {
+          "type": "clock",
+          "x": 3,
+          "z": 1,
+          "scale": 1.5,
+          "color": "#FFD700"
+        }
+      ]
+    },
+    {
+      "start": 8.62,
+      "end": 12.93,
+      "note": "And suddenly, you hear it. Not the clinking of cups.",
+      "location": "cafe",
+      "camera": {
+        "shot": "close",
+        "move": "pan-right",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "talk",
+          "face": "grin",
+          "facing": "camera"
+        }
+      ],
+      "transition": "whip",
+      "sfx": [
+        {
+          "name": "ding",
+          "at": 0.5
+        }
+      ],
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "title": {
+        "text": "AND SUDDENLY,!",
+        "at": 0.3,
+        "position": "bottom",
+        "size": "medium"
+      }
+    },
+    {
+      "start": 12.93,
+      "end": 15.95,
+      "note": "Not the hiss of the espresso machine.",
+      "location": "lab",
+      "camera": {
+        "shot": "wide",
+        "move": "orbit",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "walk",
+          "face": "sad",
+          "facing": "camera"
+        }
+      ],
+      "transition": "flash",
+      "title": {
+        "text": "NOT THE HISS.",
+        "at": 0.4,
+        "position": "bottom",
+        "size": "medium"
+      },
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "props": [
+        {
+          "type": "sign",
+          "x": -4,
+          "z": 0.5,
+          "scale": 1.2,
+          "lines": [
+            "NOT THE HISS"
+          ]
+        }
+      ]
+    },
+    {
+      "start": 15.95,
+      "end": 18.97,
+      "note": "But the thoughts of everyone around you.",
+      "location": "room",
+      "camera": {
+        "shot": "medium",
+        "move": "push",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "cheer",
+          "face": "scared",
+          "facing": "camera"
+        }
+      ],
+      "sfx": [
+        {
+          "name": "whoosh",
+          "at": 0.5
+        }
+      ],
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "props": [
+        {
+          "type": "clock",
+          "x": 3,
+          "z": 1,
+          "scale": 1.5,
+          "color": "#FFD700"
+        }
+      ],
+      "title": {
+        "text": "BUT THE!",
+        "at": 0.3,
+        "position": "bottom",
+        "size": "medium"
+      }
+    },
+    {
+      "start": 18.97,
+      "end": 21.56,
+      "note": "The barista: \"I hate this job.",
+      "location": "office",
+      "camera": {
+        "shot": "close",
+        "move": "dolly-in",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "scared",
+          "face": "worried",
+          "facing": "camera"
+        }
+      ],
+      "transition": "fade",
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      }
+    },
+    {
+      "start": 21.56,
+      "end": 31.48,
+      "note": "I hope that guy doesn't tip again.\"\nThe businessman: \"My wife doesn't know about the account in Cayman Islands.\"\nThe teenager: \"I'm pregnant.",
+      "location": "park",
+      "camera": {
+        "shot": "wide",
+        "move": "static",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "idle",
+          "face": "surprised",
+          "facing": "camera"
+        }
+      ],
+      "transition": "whip",
+      "title": {
+        "text": "I HOPE THAT.",
+        "at": 0.4,
+        "position": "bottom",
+        "size": "medium"
+      },
+      "sfx": [
+        {
+          "name": "glitch",
+          "at": 0.5
+        }
+      ],
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "props": [
+        {
+          "type": "sign",
+          "x": -4,
+          "z": 0.5,
+          "scale": 1.2,
+          "lines": [
+            "I HOPE THAT"
+          ]
+        }
+      ]
+    },
+    {
+      "start": 31.48,
+      "end": 42.7,
+      "note": "Mom's gonna kill me.\"\nThe elderly couple: \"Forty years and he still doesn't know I never liked his mother.\"\n\nAt first, it feels like a superpower.",
+      "location": "stage",
+      "camera": {
+        "shot": "medium",
+        "move": "pan-right",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "idle",
+          "face": "smirk",
+          "facing": "camera"
+        }
+      ],
+      "transition": "flash",
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "props": [
+        {
+          "type": "screen",
+          "x": -3,
+          "z": 1.5,
+          "scale": 1.3,
+          "lines": [
+            "SUPERPOWER",
+            "ACTIVE",
+            "UNFILTERED"
+          ],
+          "progress": {
+            "label": "POWER",
+            "from": 0,
+            "to": 100
+          }
+        }
+      ]
+    },
+    {
+      "start": 42.7,
+      "end": 47.01,
+      "note": "The ultimate advantage. You'd know every lie before it's spoken.",
+      "location": "hospital",
+      "camera": {
+        "shot": "close",
+        "move": "orbit",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "idle",
+          "face": "neutral",
+          "facing": "camera"
+        }
+      ],
+      "sfx": [
+        {
+          "name": "tick",
+          "at": 0.5
+        }
+      ],
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "props": [
+        {
+          "type": "screen",
+          "x": -3,
+          "z": 1.5,
+          "scale": 1.3,
+          "lines": [
+            "SUPERPOWER",
+            "ACTIVE",
+            "UNFILTERED"
+          ],
+          "progress": {
+            "label": "POWER",
+            "from": 0,
+            "to": 100
+          }
+        }
+      ],
+      "title": {
+        "text": "THE ULTIMATE!",
+        "at": 0.3,
+        "position": "bottom",
+        "size": "medium"
+      }
+    },
+    {
+      "start": 47.01,
+      "end": 51.76,
+      "note": "Every secret before it's hidden. Every intention before it's acted upon.",
+      "location": "studio",
+      "camera": {
+        "shot": "wide",
+        "move": "push",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "think",
+          "face": "happy",
+          "facing": "camera"
+        }
+      ],
+      "transition": "fade",
+      "title": {
+        "text": "EVERY SECRET BEFORE.",
+        "at": 0.4,
+        "position": "bottom",
+        "size": "medium"
+      },
+      "bg": "#1f6f78",
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "props": [
+        {
+          "type": "screen",
+          "x": 0,
+          "z": 2,
+          "scale": 1.5,
+          "lines": [
+            "PRIVACY",
+            "STATUS:",
+            "BREACHED"
+          ],
+          "progress": {
+            "label": "PRIVACY",
+            "from": 100,
+            "to": 0
+          }
+        },
+        {
+          "type": "sign",
+          "x": -4,
+          "z": 0.5,
+          "scale": 1.2,
+          "lines": [
+            "EVERY SECRET BEFORE"
+          ]
+        }
+      ]
+    },
+    {
+      "start": 51.76,
+      "end": 56.51,
+      "note": "Negotiations? You'd win every time. Relationships? You'd never be blindsided. Poker?",
+      "location": "plaza",
+      "camera": {
+        "shot": "medium",
+        "move": "dolly-in",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "talk",
+          "face": "grin",
+          "facing": "camera"
+        }
+      ],
+      "transition": "whip",
+      "sfx": [
+        {
+          "name": "heartbeat",
+          "at": 0.5
+        }
+      ],
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "props": [
+        {
+          "type": "clock",
+          "x": 3,
+          "z": 1,
+          "scale": 1.5,
+          "color": "#FFD700"
+        },
+        {
+          "type": "screen",
+          "x": -3,
+          "z": 1.5,
+          "scale": 1.3,
+          "lines": [
+            "SUPERPOWER",
+            "ACTIVE",
+            "UNFILTERED"
+          ],
+          "progress": {
+            "label": "POWER",
+            "from": 0,
+            "to": 100
+          }
+        }
+      ],
+      "title": {
+        "text": "NEGOTIATIONS? YOU'D!",
+        "at": 0.3,
+        "position": "bottom",
+        "size": "medium"
+      }
+    },
+    {
+      "start": 56.51,
+      "end": 60.39,
+      "note": "You'd clean the table. But then... the noise begins.",
+      "location": "street",
+      "camera": {
+        "shot": "close",
+        "move": "static",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "walk",
+          "face": "sad",
+          "facing": "camera"
+        }
+      ],
+      "transition": "flash",
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "props": [
+        {
+          "type": "screen",
+          "x": 2,
+          "z": 1,
+          "scale": 1.3,
+          "lines": [
+            "MENTAL",
+            "NOISE:",
+            "OVERLOAD"
+          ],
+          "progress": {
+            "label": "STRESS",
+            "from": 50,
+            "to": 100
+          }
+        }
+      ]
+    },
+    {
+      "start": 60.39,
+      "end": 63.84,
+      "note": "[pause]\n\nBecause here's the thing about human minds.",
+      "location": "cafe",
+      "camera": {
+        "shot": "wide",
+        "move": "pan-right",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "cheer",
+          "face": "scared",
+          "facing": "camera"
+        }
+      ],
+      "title": {
+        "text": "[PAUSE] BECAUSE HERE'S.",
+        "at": 0.4,
+        "position": "bottom",
+        "size": "medium"
+      },
+      "sfx": [
+        {
+          "name": "sparkle",
+          "at": 0.5
+        }
+      ],
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "props": [
+        {
+          "type": "clock",
+          "x": 3,
+          "z": 1,
+          "scale": 1.5,
+          "color": "#FFD700"
+        },
+        {
+          "type": "trophy",
+          "x": 0,
+          "z": 1,
+          "scale": 1.5,
+          "color": "#FFD700"
+        },
+        {
+          "type": "sign",
+          "x": -4,
+          "z": 0.5,
+          "scale": 1.2,
+          "lines": [
+            "[PAUSE] BECAUSE HERE'S"
+          ]
+        }
+      ]
+    },
+    {
+      "start": 63.84,
+      "end": 68.15,
+      "note": "They're not clean, organized libraries. They're chaotic, messy, contradictory storms.",
+      "location": "lab",
+      "camera": {
+        "shot": "medium",
+        "move": "orbit",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "scared",
+          "face": "worried",
+          "facing": "camera"
+        }
+      ],
+      "transition": "fade",
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "props": [
+        {
+          "type": "screen",
+          "x": 2,
+          "z": 1,
+          "scale": 1.3,
+          "lines": [
+            "MENTAL",
+            "NOISE:",
+            "OVERLOAD"
+          ],
+          "progress": {
+            "label": "STRESS",
+            "from": 50,
+            "to": 100
+          }
+        }
+      ]
+    },
+    {
+      "start": 68.15,
+      "end": 72.03,
+      "note": "Every person carries: regret about yesterday. Anxiety about tomorrow.",
+      "location": "room",
+      "camera": {
+        "shot": "close",
+        "move": "push",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "idle",
+          "face": "surprised",
+          "facing": "camera"
+        }
+      ],
+      "transition": "whip",
+      "sfx": [
+        {
+          "name": "pop",
+          "at": 0.5
+        }
+      ],
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "title": {
+        "text": "EVERY PERSON!",
+        "at": 0.3,
+        "position": "bottom",
+        "size": "medium"
+      }
+    },
+    {
+      "start": 72.03,
+      "end": 75.91,
+      "note": "Fantasies they'd never act on. Judgments they'd never voice.",
+      "location": "office",
+      "camera": {
+        "shot": "wide",
+        "move": "dolly-in",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "idle",
+          "face": "smirk",
+          "facing": "camera"
+        }
+      ],
+      "transition": "flash",
+      "title": {
+        "text": "FANTASIES THEY'D NEVER.",
+        "at": 0.4,
+        "position": "bottom",
+        "size": "medium"
+      },
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "props": [
+        {
+          "type": "sign",
+          "x": -4,
+          "z": 0.5,
+          "scale": 1.2,
+          "lines": [
+            "FANTASIES THEY'D NEVER"
+          ]
+        }
+      ]
+    },
+    {
+      "start": 75.91,
+      "end": 80.66,
+      "note": "Desires they'd never admit. Shame they carry like a second skin.",
+      "location": "park",
+      "camera": {
+        "shot": "medium",
+        "move": "static",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "idle",
+          "face": "neutral",
+          "facing": "camera"
+        }
+      ],
+      "crowd": {
+        "count": 12,
+        "area": [
+          -6,
+          -3,
+          6,
+          -0.5
+        ],
+        "action": "idle",
+        "face": "neutral",
+        "facing": "away",
+        "seed": 51
+      },
+      "sfx": [
+        {
+          "name": "ding",
+          "at": 0.5
+        }
+      ],
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "title": {
+        "text": "DESIRES THEY'D!",
+        "at": 0.3,
+        "position": "bottom",
+        "size": "medium"
+      }
+    },
+    {
+      "start": 80.66,
+      "end": 85.41,
+      "note": "[pause]\n\nAnd now... you hear ALL of it. Simultaneously. Without filters.",
+      "location": "stage",
+      "camera": {
+        "shot": "close",
+        "move": "pan-right",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "think",
+          "face": "happy",
+          "facing": "camera"
+        }
+      ],
+      "transition": "fade",
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "props": [
+        {
+          "type": "clock",
+          "x": 3,
+          "z": 1,
+          "scale": 1.5,
+          "color": "#FFD700"
+        },
+        {
+          "type": "screen",
+          "x": 0,
+          "z": 2,
+          "scale": 1.5,
+          "lines": [
+            "PRIVACY",
+            "STATUS:",
+            "BREACHED"
+          ],
+          "progress": {
+            "label": "PRIVACY",
+            "from": 100,
+            "to": 0
+          }
+        }
+      ]
+    },
+    {
+      "start": 85.41,
+      "end": 90.59,
+      "note": "Without an off switch. [long pause]\n\nThe coffee shop becomes a cacophony.",
+      "location": "hospital",
+      "camera": {
+        "shot": "wide",
+        "move": "orbit",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "talk",
+          "face": "grin",
+          "facing": "camera"
+        }
+      ],
+      "transition": "whip",
+      "title": {
+        "text": "WITHOUT AN OFF.",
+        "at": 0.4,
+        "position": "bottom",
+        "size": "medium"
+      },
+      "sfx": [
+        {
+          "name": "whoosh",
+          "at": 0.5
+        }
+      ],
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "props": [
+        {
+          "type": "clock",
+          "x": 3,
+          "z": 1,
+          "scale": 1.5,
+          "color": "#FFD700"
+        },
+        {
+          "type": "screen",
+          "x": 2,
+          "z": 1,
+          "scale": 1.3,
+          "lines": [
+            "MENTAL",
+            "NOISE:",
+            "OVERLOAD"
+          ],
+          "progress": {
+            "label": "STRESS",
+            "from": 50,
+            "to": 100
+          }
+        },
+        {
+          "type": "sign",
+          "x": -4,
+          "z": 0.5,
+          "scale": 1.2,
+          "lines": [
+            "WITHOUT AN OFF"
+          ]
+        }
+      ]
+    },
+    {
+      "start": 90.59,
+      "end": 94.9,
+      "note": "Hundreds of inner voices screaming at once. The barista's resentment.",
+      "location": "studio",
+      "camera": {
+        "shot": "medium",
+        "move": "push",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "walk",
+          "face": "sad",
+          "facing": "camera"
+        }
+      ],
+      "transition": "flash",
+      "bg": "#1f6f78",
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "props": [
+        {
+          "type": "screen",
+          "x": 2,
+          "z": 1,
+          "scale": 1.3,
+          "lines": [
+            "MENTAL",
+            "NOISE:",
+            "OVERLOAD"
+          ],
+          "progress": {
+            "label": "STRESS",
+            "from": 50,
+            "to": 100
+          }
+        }
+      ]
+    },
+    {
+      "start": 94.9,
+      "end": 97.49,
+      "note": "The businessman's guilt. The teenager's terror.",
+      "location": "plaza",
+      "camera": {
+        "shot": "close",
+        "move": "dolly-in",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "cheer",
+          "face": "scared",
+          "facing": "camera"
+        }
+      ],
+      "crowd": {
+        "count": 12,
+        "area": [
+          -6,
+          -3,
+          6,
+          -0.5
+        ],
+        "action": "idle",
+        "face": "neutral",
+        "facing": "away",
+        "seed": 63
+      },
+      "sfx": [
+        {
+          "name": "glitch",
+          "at": 0.5
+        }
+      ],
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "title": {
+        "text": "THE BUSINESSMAN'S!",
+        "at": 0.3,
+        "position": "bottom",
+        "size": "medium"
+      }
+    },
+    {
+      "start": 97.49,
+      "end": 101.8,
+      "note": "The elderly woman's decades of suppressed resentment. Your head pounds.",
+      "location": "street",
+      "camera": {
+        "shot": "wide",
+        "move": "static",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "scared",
+          "face": "worried",
+          "facing": "camera"
+        }
+      ],
+      "transition": "fade",
+      "title": {
+        "text": "THE ELDERLY WOMAN'S.",
+        "at": 0.4,
+        "position": "bottom",
+        "size": "medium"
+      },
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "props": [
+        {
+          "type": "sign",
+          "x": -4,
+          "z": 0.5,
+          "scale": 1.2,
+          "lines": [
+            "THE ELDERLY WOMAN'S"
+          ]
+        }
+      ]
+    },
+    {
+      "start": 101.8,
+      "end": 108.7,
+      "note": "You can't focus. You can't think your OWN thoughts because everyone else's are drowning them out.",
+      "location": "cafe",
+      "camera": {
+        "shot": "medium",
+        "move": "pan-right",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "idle",
+          "face": "surprised",
+          "facing": "camera"
+        }
+      ],
+      "transition": "whip",
+      "sfx": [
+        {
+          "name": "tick",
+          "at": 0.5
+        }
+      ],
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "props": [
+        {
+          "type": "clock",
+          "x": 3,
+          "z": 1,
+          "scale": 1.5,
+          "color": "#FFD700"
+        }
+      ],
+      "title": {
+        "text": "YOU CAN'T!",
+        "at": 0.3,
+        "position": "bottom",
+        "size": "medium"
+      }
+    },
+    {
+      "start": 108.7,
+      "end": 113.45,
+      "note": "[pause]\n\nYou try to leave. But on the street, it's worse.",
+      "location": "lab",
+      "camera": {
+        "shot": "close",
+        "move": "orbit",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "idle",
+          "face": "smirk",
+          "facing": "camera"
+        }
+      ],
+      "transition": "flash",
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "props": [
+        {
+          "type": "clock",
+          "x": 3,
+          "z": 1,
+          "scale": 1.5,
+          "color": "#FFD700"
+        }
+      ]
+    },
+    {
+      "start": 113.45,
+      "end": 126.39,
+      "note": "The driver in the passing car: \"I should just drive off this bridge.\"\nThe mother with the stroller: \"I don't think I love this baby enough.\"\nThe jogger: \"Three miles.",
+      "location": "room",
+      "camera": {
+        "shot": "wide",
+        "move": "push",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "idle",
+          "face": "neutral",
+          "facing": "camera"
+        }
+      ],
+      "title": {
+        "text": "THE DRIVER IN.",
+        "at": 0.4,
+        "position": "bottom",
+        "size": "medium"
+      },
+      "sfx": [
+        {
+          "name": "heartbeat",
+          "at": 0.5
+        }
+      ],
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "props": [
+        {
+          "type": "clock",
+          "x": 3,
+          "z": 1,
+          "scale": 1.5,
+          "color": "#FFD700"
+        },
+        {
+          "type": "sign",
+          "x": -4,
+          "z": 0.5,
+          "scale": 1.2,
+          "lines": [
+            "THE DRIVER IN"
+          ]
+        }
+      ]
+    },
+    {
+      "start": 126.39,
+      "end": 129.84,
+      "note": "Only three. I'm so fat. I'm so weak.",
+      "location": "office",
+      "camera": {
+        "shot": "medium",
+        "move": "dolly-in",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "think",
+          "face": "happy",
+          "facing": "camera"
+        }
+      ],
+      "transition": "fade",
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      }
+    },
+    {
+      "start": 129.84,
+      "end": 137.18,
+      "note": "Why bother?\"\n\n[pause]\n\nEvery person you pass carries a universe of pain you never asked to witness.",
+      "location": "park",
+      "camera": {
+        "shot": "close",
+        "move": "static",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "talk",
+          "face": "grin",
+          "facing": "camera"
+        }
+      ],
+      "transition": "whip",
+      "sfx": [
+        {
+          "name": "sparkle",
+          "at": 0.5
+        }
+      ],
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "props": [
+        {
+          "type": "clock",
+          "x": 3,
+          "z": 1,
+          "scale": 1.5,
+          "color": "#FFD700"
+        }
+      ],
+      "title": {
+        "text": "WHY BOTHER?\"!",
+        "at": 0.3,
+        "position": "bottom",
+        "size": "medium"
+      }
+    },
+    {
+      "start": 137.18,
+      "end": 141.49,
+      "note": "Privacy isn't just a social construct. It's a survival mechanism.",
+      "location": "stage",
+      "camera": {
+        "shot": "wide",
+        "move": "pan-right",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "walk",
+          "face": "sad",
+          "facing": "camera"
+        }
+      ],
+      "transition": "flash",
+      "title": {
+        "text": "PRIVACY ISN'T JUST.",
+        "at": 0.4,
+        "position": "bottom",
+        "size": "medium"
+      },
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "props": [
+        {
+          "type": "screen",
+          "x": 0,
+          "z": 2,
+          "scale": 1.5,
+          "lines": [
+            "PRIVACY",
+            "STATUS:",
+            "BREACHED"
+          ],
+          "progress": {
+            "label": "PRIVACY",
+            "from": 100,
+            "to": 0
+          }
+        },
+        {
+          "type": "sign",
+          "x": -4,
+          "z": 0.5,
+          "scale": 1.2,
+          "lines": [
+            "PRIVACY ISN'T JUST"
+          ]
+        }
+      ]
+    },
+    {
+      "start": 141.49,
+      "end": 144.94,
+      "note": "The walls between minds exist for a reason.",
+      "location": "hospital",
+      "camera": {
+        "shot": "medium",
+        "move": "orbit",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "cheer",
+          "face": "scared",
+          "facing": "camera"
+        }
+      ],
+      "sfx": [
+        {
+          "name": "pop",
+          "at": 0.5
+        }
+      ],
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "props": [
+        {
+          "type": "clock",
+          "x": 3,
+          "z": 1,
+          "scale": 1.5,
+          "color": "#FFD700"
+        },
+        {
+          "type": "screen",
+          "x": 0,
+          "z": 2,
+          "scale": 1.5,
+          "lines": [
+            "PRIVACY",
+            "STATUS:",
+            "BREACHED"
+          ],
+          "progress": {
+            "label": "PRIVACY",
+            "from": 100,
+            "to": 0
+          }
+        }
+      ],
+      "title": {
+        "text": "THE WALLS!",
+        "at": 0.3,
+        "position": "bottom",
+        "size": "medium"
+      }
+    },
+    {
+      "start": 144.94,
+      "end": 147.96,
+      "note": "[short pause]\n\nBecause thoughts are not actions.",
+      "location": "studio",
+      "camera": {
+        "shot": "close",
+        "move": "push",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "scared",
+          "face": "worried",
+          "facing": "camera"
+        }
+      ],
+      "transition": "fade",
+      "bg": "#1f6f78",
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "props": [
+        {
+          "type": "clock",
+          "x": 3,
+          "z": 1,
+          "scale": 1.5,
+          "color": "#FFD700"
+        }
+      ]
+    },
+    {
+      "start": 147.96,
+      "end": 152.27,
+      "note": "A fleeting fantasy of violence doesn't make someone a killer.",
+      "location": "plaza",
+      "camera": {
+        "shot": "wide",
+        "move": "dolly-in",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "idle",
+          "face": "surprised",
+          "facing": "camera"
+        }
+      ],
+      "transition": "whip",
+      "title": {
+        "text": "A FLEETING FANTASY.",
+        "at": 0.4,
+        "position": "bottom",
+        "size": "medium"
+      },
+      "sfx": [
+        {
+          "name": "ding",
+          "at": 0.5
+        }
+      ],
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "props": [
+        {
+          "type": "sign",
+          "x": -4,
+          "z": 0.5,
+          "scale": 1.2,
+          "lines": [
+            "A FLEETING FANTASY"
+          ]
+        }
+      ]
+    },
+    {
+      "start": 152.27,
+      "end": 156.58,
+      "note": "A moment of doubt doesn't mean they don't love you.",
+      "location": "street",
+      "camera": {
+        "shot": "medium",
+        "move": "static",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "idle",
+          "face": "smirk",
+          "facing": "camera"
+        }
+      ],
+      "transition": "flash",
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "props": [
+        {
+          "type": "clock",
+          "x": 3,
+          "z": 1,
+          "scale": 1.5,
+          "color": "#FFD700"
+        }
+      ]
+    },
+    {
+      "start": 156.58,
+      "end": 161.33,
+      "note": "A secret shame doesn't define their character. But when you KNOW...",
+      "location": "cafe",
+      "camera": {
+        "shot": "close",
+        "move": "pan-right",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "idle",
+          "face": "neutral",
+          "facing": "camera"
+        }
+      ],
+      "sfx": [
+        {
+          "name": "whoosh",
+          "at": 0.5
+        }
+      ],
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "props": [
+        {
+          "type": "screen",
+          "x": 0,
+          "z": 2,
+          "scale": 1.5,
+          "lines": [
+            "PRIVACY",
+            "STATUS:",
+            "BREACHED"
+          ],
+          "progress": {
+            "label": "PRIVACY",
+            "from": 100,
+            "to": 0
+          }
+        }
+      ],
+      "title": {
+        "text": "A SECRET!",
+        "at": 0.3,
+        "position": "bottom",
+        "size": "medium"
+      }
+    },
+    {
+      "start": 161.33,
+      "end": 165.21,
+      "note": "when you HEAR it all... the context is lost.",
+      "location": "lab",
+      "camera": {
+        "shot": "wide",
+        "move": "orbit",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "think",
+          "face": "happy",
+          "facing": "camera"
+        }
+      ],
+      "transition": "fade",
+      "title": {
+        "text": "WHEN YOU HEAR.",
+        "at": 0.4,
+        "position": "bottom",
+        "size": "medium"
+      },
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "props": [
+        {
+          "type": "sign",
+          "x": -4,
+          "z": 0.5,
+          "scale": 1.2,
+          "lines": [
+            "WHEN YOU HEAR"
+          ]
+        }
+      ]
+    },
+    {
+      "start": 165.21,
+      "end": 169.96,
+      "note": "The nuance is gone. You just have the raw, ugly data.",
+      "location": "room",
+      "camera": {
+        "shot": "medium",
+        "move": "push",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "talk",
+          "face": "grin",
+          "facing": "camera"
+        }
+      ],
+      "transition": "whip",
+      "sfx": [
+        {
+          "name": "glitch",
+          "at": 0.5
+        }
+      ],
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "title": {
+        "text": "THE NUANCE!",
+        "at": 0.3,
+        "position": "bottom",
+        "size": "medium"
+      }
+    },
+    {
+      "start": 169.96,
+      "end": 196.71,
+      "note": "[pause]\n\nYour partner thinks: \"He's gained weight.\" — You hear: \"He's disgusting.\"\nYour friend thinks: \"I'm jealous of her promotion.\" — You hear: \"She doesn't deserve it.\"\nYour boss thinks: \"Maybe I'm not cut out for this.\" — You hear: \"I'm a fraud.\"\n\n[pause]\n\nThe intimacy that makes relationships beautiful — the mystery, the trust, the choice to be vulnerable — evaporates.",
+      "location": "office",
+      "camera": {
+        "shot": "close",
+        "move": "dolly-in",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "walk",
+          "face": "sad",
+          "facing": "camera"
+        }
+      ],
+      "transition": "flash",
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "props": [
+        {
+          "type": "clock",
+          "x": 3,
+          "z": 1,
+          "scale": 1.5,
+          "color": "#FFD700"
+        },
+        {
+          "type": "screen",
+          "x": -2,
+          "z": 1.5,
+          "scale": 1.3,
+          "lines": [
+            "CLARITY",
+            "LEVEL:",
+            "MAXIMUM"
+          ],
+          "progress": {
+            "label": "PEACE",
+            "from": 0,
+            "to": 100
+          }
+        },
+        {
+          "type": "trophy",
+          "x": 0,
+          "z": 1,
+          "scale": 1.5,
+          "color": "#FFD700"
+        }
+      ]
+    },
+    {
+      "start": 196.71,
+      "end": 201.46,
+      "note": "Because there's no CHOICE anymore. No slow reveal. No earned trust.",
+      "location": "park",
+      "camera": {
+        "shot": "wide",
+        "move": "static",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "cheer",
+          "face": "scared",
+          "facing": "camera"
+        }
+      ],
+      "crowd": {
+        "count": 12,
+        "area": [
+          -6,
+          -3,
+          6,
+          -0.5
+        ],
+        "action": "idle",
+        "face": "neutral",
+        "facing": "away",
+        "seed": 111
+      },
+      "title": {
+        "text": "BECAUSE THERE'S NO.",
+        "at": 0.4,
+        "position": "bottom",
+        "size": "medium"
+      },
+      "sfx": [
+        {
+          "name": "tick",
+          "at": 0.5
+        }
+      ],
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "props": [
+        {
+          "type": "trophy",
+          "x": 0,
+          "z": 1,
+          "scale": 1.5,
+          "color": "#FFD700"
+        },
+        {
+          "type": "sign",
+          "x": -4,
+          "z": 0.5,
+          "scale": 1.2,
+          "lines": [
+            "BECAUSE THERE'S NO"
+          ]
+        }
+      ]
+    },
+    {
+      "start": 201.46,
+      "end": 204.91,
+      "note": "Just... exposure. [long pause]\n\nAnd the worst part?",
+      "location": "stage",
+      "camera": {
+        "shot": "medium",
+        "move": "pan-right",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "scared",
+          "face": "worried",
+          "facing": "camera"
+        }
+      ],
+      "transition": "fade",
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "props": [
+        {
+          "type": "clock",
+          "x": 3,
+          "z": 1,
+          "scale": 1.5,
+          "color": "#FFD700"
+        }
+      ]
+    },
+    {
+      "start": 204.91,
+      "end": 212.25,
+      "note": "You can't unhear it. [pause]\n\nThat terrible thought your mother had about you when you were five?",
+      "location": "hospital",
+      "camera": {
+        "shot": "close",
+        "move": "orbit",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "idle",
+          "face": "surprised",
+          "facing": "camera"
+        }
+      ],
+      "transition": "whip",
+      "sfx": [
+        {
+          "name": "heartbeat",
+          "at": 0.5
+        }
+      ],
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "props": [
+        {
+          "type": "clock",
+          "x": 3,
+          "z": 1,
+          "scale": 1.5,
+          "color": "#FFD700"
+        }
+      ],
+      "title": {
+        "text": "YOU CAN'T!",
+        "at": 0.3,
+        "position": "bottom",
+        "size": "medium"
+      }
+    },
+    {
+      "start": 212.25,
+      "end": 215.27,
+      "note": "You hear it now. At her funeral.",
+      "location": "studio",
+      "camera": {
+        "shot": "wide",
+        "move": "push",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "idle",
+          "face": "smirk",
+          "facing": "camera"
+        }
+      ],
+      "transition": "flash",
+      "title": {
+        "text": "YOU HEAR IT.",
+        "at": 0.4,
+        "position": "bottom",
+        "size": "medium"
+      },
+      "bg": "#1f6f78",
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "props": [
+        {
+          "type": "sign",
+          "x": -4,
+          "z": 0.5,
+          "scale": 1.2,
+          "lines": [
+            "YOU HEAR IT"
+          ]
+        }
+      ]
+    },
+    {
+      "start": 215.27,
+      "end": 219.58,
+      "note": "That cruel joke your best friend made in his head?",
+      "location": "plaza",
+      "camera": {
+        "shot": "medium",
+        "move": "dolly-in",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "idle",
+          "face": "neutral",
+          "facing": "camera"
+        }
+      ],
+      "crowd": {
+        "count": 12,
+        "area": [
+          -6,
+          -3,
+          6,
+          -0.5
+        ],
+        "action": "idle",
+        "face": "neutral",
+        "facing": "away",
+        "seed": 123
+      },
+      "sfx": [
+        {
+          "name": "sparkle",
+          "at": 0.5
+        }
+      ],
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "title": {
+        "text": "THAT CRUEL!",
+        "at": 0.3,
+        "position": "bottom",
+        "size": "medium"
+      }
+    },
+    {
+      "start": 219.58,
+      "end": 222.17,
+      "note": "You hear it at his wedding.",
+      "location": "street",
+      "camera": {
+        "shot": "close",
+        "move": "static",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "think",
+          "face": "happy",
+          "facing": "camera"
+        }
+      ],
+      "transition": "fade",
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      }
+    },
+    {
+      "start": 222.17,
+      "end": 226.48,
+      "note": "That moment of doubt your child had about loving you?",
+      "location": "cafe",
+      "camera": {
+        "shot": "wide",
+        "move": "pan-right",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "talk",
+          "face": "grin",
+          "facing": "camera"
+        }
+      ],
+      "transition": "whip",
+      "title": {
+        "text": "THAT MOMENT OF.",
+        "at": 0.4,
+        "position": "bottom",
+        "size": "medium"
+      },
+      "sfx": [
+        {
+          "name": "pop",
+          "at": 0.5
+        }
+      ],
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "props": [
+        {
+          "type": "clock",
+          "x": 3,
+          "z": 1,
+          "scale": 1.5,
+          "color": "#FFD700"
+        },
+        {
+          "type": "sign",
+          "x": -4,
+          "z": 0.5,
+          "scale": 1.2,
+          "lines": [
+            "THAT MOMENT OF"
+          ]
+        }
+      ]
+    },
+    {
+      "start": 226.48,
+      "end": 229.07,
+      "note": "You hear it on their birthday.",
+      "location": "lab",
+      "camera": {
+        "shot": "medium",
+        "move": "orbit",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "walk",
+          "face": "sad",
+          "facing": "camera"
+        }
+      ],
+      "transition": "flash",
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      }
+    },
+    {
+      "start": 229.07,
+      "end": 232.09,
+      "note": "[long pause]\n\nYou learn to fake it.",
+      "location": "room",
+      "camera": {
+        "shot": "close",
+        "move": "push",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "cheer",
+          "face": "scared",
+          "facing": "camera"
+        }
+      ],
+      "sfx": [
+        {
+          "name": "ding",
+          "at": 0.5
+        }
+      ],
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "props": [
+        {
+          "type": "clock",
+          "x": 3,
+          "z": 1,
+          "scale": 1.5,
+          "color": "#FFD700"
+        }
+      ],
+      "title": {
+        "text": "[LONG PAUSE]!",
+        "at": 0.3,
+        "position": "bottom",
+        "size": "medium"
+      }
+    },
+    {
+      "start": 232.09,
+      "end": 235.54,
+      "note": "To smile when you hear the ugly thoughts.",
+      "location": "office",
+      "camera": {
+        "shot": "wide",
+        "move": "dolly-in",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "scared",
+          "face": "worried",
+          "facing": "camera"
+        }
+      ],
+      "transition": "fade",
+      "title": {
+        "text": "TO SMILE WHEN.",
+        "at": 0.4,
+        "position": "bottom",
+        "size": "medium"
+      },
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "props": [
+        {
+          "type": "clock",
+          "x": 3,
+          "z": 1,
+          "scale": 1.5,
+          "color": "#FFD700"
+        },
+        {
+          "type": "sign",
+          "x": -4,
+          "z": 0.5,
+          "scale": 1.2,
+          "lines": [
+            "TO SMILE WHEN"
+          ]
+        }
+      ]
+    },
+    {
+      "start": 235.54,
+      "end": 242.88,
+      "note": "To pretend you don't know. To build walls inside your own mind to protect yourself from theirs.",
+      "location": "park",
+      "camera": {
+        "shot": "medium",
+        "move": "static",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "idle",
+          "face": "surprised",
+          "facing": "camera"
+        }
+      ],
+      "transition": "whip",
+      "sfx": [
+        {
+          "name": "whoosh",
+          "at": 0.5
+        }
+      ],
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "props": [
+        {
+          "type": "clock",
+          "x": 3,
+          "z": 1,
+          "scale": 1.5,
+          "color": "#FFD700"
+        },
+        {
+          "type": "screen",
+          "x": 0,
+          "z": 2,
+          "scale": 1.5,
+          "lines": [
+            "PRIVACY",
+            "STATUS:",
+            "BREACHED"
+          ],
+          "progress": {
+            "label": "PRIVACY",
+            "from": 100,
+            "to": 0
+          }
+        }
+      ],
+      "title": {
+        "text": "TO PRETEND!",
+        "at": 0.3,
+        "position": "bottom",
+        "size": "medium"
+      }
+    },
+    {
+      "start": 242.88,
+      "end": 245.47,
+      "note": "[pause]\n\nBut sometimes... the walls crack.",
+      "location": "stage",
+      "camera": {
+        "shot": "close",
+        "move": "pan-right",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "idle",
+          "face": "smirk",
+          "facing": "camera"
+        }
+      ],
+      "transition": "flash",
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "props": [
+        {
+          "type": "clock",
+          "x": 3,
+          "z": 1,
+          "scale": 1.5,
+          "color": "#FFD700"
+        },
+        {
+          "type": "screen",
+          "x": 0,
+          "z": 2,
+          "scale": 1.5,
+          "lines": [
+            "PRIVACY",
+            "STATUS:",
+            "BREACHED"
+          ],
+          "progress": {
+            "label": "PRIVACY",
+            "from": 100,
+            "to": 0
+          }
+        }
+      ]
+    },
+    {
+      "start": 245.47,
+      "end": 251.51,
+      "note": "And in those moments of weakness, you hear something you wish you could unhear.",
+      "location": "hospital",
+      "camera": {
+        "shot": "wide",
+        "move": "orbit",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "idle",
+          "face": "neutral",
+          "facing": "camera"
+        }
+      ],
+      "title": {
+        "text": "AND IN THOSE.",
+        "at": 0.4,
+        "position": "bottom",
+        "size": "medium"
+      },
+      "sfx": [
+        {
+          "name": "glitch",
+          "at": 0.5
+        }
+      ],
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "props": [
+        {
+          "type": "clock",
+          "x": 3,
+          "z": 1,
+          "scale": 1.5,
+          "color": "#FFD700"
+        },
+        {
+          "type": "sign",
+          "x": -4,
+          "z": 0.5,
+          "scale": 1.2,
+          "lines": [
+            "AND IN THOSE"
+          ]
+        }
+      ]
+    },
+    {
+      "start": 251.51,
+      "end": 255.39,
+      "note": "A thought of betrayal that was never acted upon.",
+      "location": "studio",
+      "camera": {
+        "shot": "medium",
+        "move": "push",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "think",
+          "face": "happy",
+          "facing": "camera"
+        }
+      ],
+      "transition": "fade",
+      "bg": "#1f6f78",
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "props": [
+        {
+          "type": "clock",
+          "x": 3,
+          "z": 1,
+          "scale": 1.5,
+          "color": "#FFD700"
+        }
+      ]
+    },
+    {
+      "start": 255.39,
+      "end": 258.84,
+      "note": "A moment of cruelty that was only imagined.",
+      "location": "plaza",
+      "camera": {
+        "shot": "close",
+        "move": "dolly-in",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "talk",
+          "face": "grin",
+          "facing": "camera"
+        }
+      ],
+      "transition": "whip",
+      "sfx": [
+        {
+          "name": "tick",
+          "at": 0.5
+        }
+      ],
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "props": [
+        {
+          "type": "clock",
+          "x": 3,
+          "z": 1,
+          "scale": 1.5,
+          "color": "#FFD700"
+        }
+      ],
+      "title": {
+        "text": "A MOMENT!",
+        "at": 0.3,
+        "position": "bottom",
+        "size": "medium"
+      }
+    },
+    {
+      "start": 258.84,
+      "end": 261.43,
+      "note": "A secret that was never told.",
+      "location": "street",
+      "camera": {
+        "shot": "wide",
+        "move": "static",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "walk",
+          "face": "sad",
+          "facing": "camera"
+        }
+      ],
+      "transition": "flash",
+      "title": {
+        "text": "A SECRET THAT.",
+        "at": 0.4,
+        "position": "bottom",
+        "size": "medium"
+      },
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "props": [
+        {
+          "type": "screen",
+          "x": 0,
+          "z": 2,
+          "scale": 1.5,
+          "lines": [
+            "PRIVACY",
+            "STATUS:",
+            "BREACHED"
+          ],
+          "progress": {
+            "label": "PRIVACY",
+            "from": 100,
+            "to": 0
+          }
+        },
+        {
+          "type": "sign",
+          "x": -4,
+          "z": 0.5,
+          "scale": 1.2,
+          "lines": [
+            "A SECRET THAT"
+          ]
+        }
+      ]
+    },
+    {
+      "start": 261.43,
+      "end": 265.74,
+      "note": "[pause]\n\nAnd you realize: the real curse isn't hearing thoughts.",
+      "location": "cafe",
+      "camera": {
+        "shot": "medium",
+        "move": "pan-right",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "cheer",
+          "face": "scared",
+          "facing": "camera"
+        }
+      ],
+      "sfx": [
+        {
+          "name": "heartbeat",
+          "at": 0.5
+        }
+      ],
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "props": [
+        {
+          "type": "clock",
+          "x": 3,
+          "z": 1,
+          "scale": 1.5,
+          "color": "#FFD700"
+        }
+      ],
+      "title": {
+        "text": "[PAUSE] AND!",
+        "at": 0.3,
+        "position": "bottom",
+        "size": "medium"
+      }
+    },
+    {
+      "start": 265.74,
+      "end": 273.08,
+      "note": "The real curse is knowing how much ugliness lives in every human heart — including your own.",
+      "location": "lab",
+      "camera": {
+        "shot": "close",
+        "move": "orbit",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "scared",
+          "face": "worried",
+          "facing": "camera"
+        }
+      ],
+      "transition": "fade",
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "props": [
+        {
+          "type": "screen",
+          "x": -3,
+          "z": 1.5,
+          "scale": 1.3,
+          "lines": [
+            "SUPERPOWER",
+            "ACTIVE",
+            "UNFILTERED"
+          ],
+          "progress": {
+            "label": "POWER",
+            "from": 0,
+            "to": 100
+          }
+        },
+        {
+          "type": "trophy",
+          "x": 0,
+          "z": 1,
+          "scale": 1.5,
+          "color": "#FFD700"
+        }
+      ]
+    },
+    {
+      "start": 273.08,
+      "end": 277.39,
+      "note": "[long pause]\n\nBecause here's the truth: we're all terrible, sometimes.",
+      "location": "room",
+      "camera": {
+        "shot": "wide",
+        "move": "push",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "idle",
+          "face": "surprised",
+          "facing": "camera"
+        }
+      ],
+      "transition": "whip",
+      "title": {
+        "text": "[LONG PAUSE] BECAUSE.",
+        "at": 0.4,
+        "position": "bottom",
+        "size": "medium"
+      },
+      "sfx": [
+        {
+          "name": "sparkle",
+          "at": 0.5
+        }
+      ],
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "props": [
+        {
+          "type": "clock",
+          "x": 3,
+          "z": 1,
+          "scale": 1.5,
+          "color": "#FFD700"
+        },
+        {
+          "type": "sign",
+          "x": -4,
+          "z": 0.5,
+          "scale": 1.2,
+          "lines": [
+            "[LONG PAUSE] BECAUSE"
+          ]
+        }
+      ]
+    },
+    {
+      "start": 277.39,
+      "end": 281.27,
+      "note": "We all have dark thoughts. Shameful desires. Cruel impulses.",
+      "location": "office",
+      "camera": {
+        "shot": "medium",
+        "move": "dolly-in",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "idle",
+          "face": "smirk",
+          "facing": "camera"
+        }
+      ],
+      "transition": "flash",
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "props": [
+        {
+          "type": "clock",
+          "x": 3,
+          "z": 1,
+          "scale": 1.5,
+          "color": "#FFD700"
+        }
+      ]
+    },
+    {
+      "start": 281.27,
+      "end": 285.58,
+      "note": "The difference is... most of us don't act on them.",
+      "location": "park",
+      "camera": {
+        "shot": "close",
+        "move": "static",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "idle",
+          "face": "neutral",
+          "facing": "camera"
+        }
+      ],
+      "crowd": {
+        "count": 12,
+        "area": [
+          -6,
+          -3,
+          6,
+          -0.5
+        ],
+        "action": "idle",
+        "face": "neutral",
+        "facing": "away",
+        "seed": 171
+      },
+      "sfx": [
+        {
+          "name": "pop",
+          "at": 0.5
+        }
+      ],
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "title": {
+        "text": "THE DIFFERENCE!",
+        "at": 0.3,
+        "position": "bottom",
+        "size": "medium"
+      }
+    },
+    {
+      "start": 285.58,
+      "end": 290.33,
+      "note": "Most of us choose to be better than our worst moments.",
+      "location": "stage",
+      "camera": {
+        "shot": "wide",
+        "move": "pan-right",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "think",
+          "face": "happy",
+          "facing": "camera"
+        }
+      ],
+      "transition": "fade",
+      "title": {
+        "text": "MOST OF US.",
+        "at": 0.4,
+        "position": "bottom",
+        "size": "medium"
+      },
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "props": [
+        {
+          "type": "clock",
+          "x": 3,
+          "z": 1,
+          "scale": 1.5,
+          "color": "#FFD700"
+        },
+        {
+          "type": "sign",
+          "x": -4,
+          "z": 0.5,
+          "scale": 1.2,
+          "lines": [
+            "MOST OF US"
+          ]
+        }
+      ]
+    },
+    {
+      "start": 290.33,
+      "end": 294.21,
+      "note": "But when you HEAR the worst moments of everyone...",
+      "location": "hospital",
+      "camera": {
+        "shot": "medium",
+        "move": "orbit",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "talk",
+          "face": "grin",
+          "facing": "camera"
+        }
+      ],
+      "transition": "whip",
+      "sfx": [
+        {
+          "name": "ding",
+          "at": 0.5
+        }
+      ],
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "props": [
+        {
+          "type": "clock",
+          "x": 3,
+          "z": 1,
+          "scale": 1.5,
+          "color": "#FFD700"
+        }
+      ],
+      "title": {
+        "text": "BUT WHEN!",
+        "at": 0.3,
+        "position": "bottom",
+        "size": "medium"
+      }
+    },
+    {
+      "start": 294.21,
+      "end": 298.52,
+      "note": "you lose faith in that choice. [pause]\n\nSo you isolate.",
+      "location": "studio",
+      "camera": {
+        "shot": "close",
+        "move": "push",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "walk",
+          "face": "sad",
+          "facing": "camera"
+        }
+      ],
+      "transition": "flash",
+      "bg": "#1f6f78",
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "props": [
+        {
+          "type": "clock",
+          "x": 3,
+          "z": 1,
+          "scale": 1.5,
+          "color": "#FFD700"
+        },
+        {
+          "type": "trophy",
+          "x": 0,
+          "z": 1,
+          "scale": 1.5,
+          "color": "#FFD700"
+        }
+      ]
+    },
+    {
+      "start": 298.52,
+      "end": 302.83,
+      "note": "You wear noise-canceling headphones that don't work. You avoid crowds.",
+      "location": "plaza",
+      "camera": {
+        "shot": "wide",
+        "move": "dolly-in",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "cheer",
+          "face": "scared",
+          "facing": "camera"
+        }
+      ],
+      "crowd": {
+        "count": 12,
+        "area": [
+          -6,
+          -3,
+          6,
+          -0.5
+        ],
+        "action": "idle",
+        "face": "neutral",
+        "facing": "away",
+        "seed": 183
+      },
+      "title": {
+        "text": "YOU WEAR NOISE-CANCELING.",
+        "at": 0.4,
+        "position": "bottom",
+        "size": "medium"
+      },
+      "sfx": [
+        {
+          "name": "whoosh",
+          "at": 0.5
+        }
+      ],
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "props": [
+        {
+          "type": "screen",
+          "x": 2,
+          "z": 1,
+          "scale": 1.3,
+          "lines": [
+            "MENTAL",
+            "NOISE:",
+            "OVERLOAD"
+          ],
+          "progress": {
+            "label": "STRESS",
+            "from": 50,
+            "to": 100
+          }
+        },
+        {
+          "type": "sign",
+          "x": -4,
+          "z": 0.5,
+          "scale": 1.2,
+          "lines": [
+            "YOU WEAR NOISE-CANCELING"
+          ]
+        }
+      ]
+    },
+    {
+      "start": 302.83,
+      "end": 305.85,
+      "note": "You stop looking people in the eye.",
+      "location": "street",
+      "camera": {
+        "shot": "medium",
+        "move": "static",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "scared",
+          "face": "worried",
+          "facing": "camera"
+        }
+      ],
+      "transition": "fade",
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      }
+    },
+    {
+      "start": 305.85,
+      "end": 309.3,
+      "note": "You become a ghost in your own life.",
+      "location": "cafe",
+      "camera": {
+        "shot": "close",
+        "move": "pan-right",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "idle",
+          "face": "surprised",
+          "facing": "camera"
+        }
+      ],
+      "transition": "whip",
+      "sfx": [
+        {
+          "name": "glitch",
+          "at": 0.5
+        }
+      ],
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "title": {
+        "text": "YOU BECOME!",
+        "at": 0.3,
+        "position": "bottom",
+        "size": "medium"
+      }
+    },
+    {
+      "start": 309.3,
+      "end": 314.05,
+      "note": "[pause]\n\nUntil one day, you meet someone whose mind is... quiet.",
+      "location": "lab",
+      "camera": {
+        "shot": "wide",
+        "move": "orbit",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "idle",
+          "face": "smirk",
+          "facing": "camera"
+        }
+      ],
+      "transition": "flash",
+      "title": {
+        "text": "[PAUSE] UNTIL ONE.",
+        "at": 0.4,
+        "position": "bottom",
+        "size": "medium"
+      },
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "props": [
+        {
+          "type": "clock",
+          "x": 3,
+          "z": 1,
+          "scale": 1.5,
+          "color": "#FFD700"
+        },
+        {
+          "type": "screen",
+          "x": -2,
+          "z": 1.5,
+          "scale": 1.3,
+          "lines": [
+            "CLARITY",
+            "LEVEL:",
+            "MAXIMUM"
+          ],
+          "progress": {
+            "label": "PEACE",
+            "from": 0,
+            "to": 100
+          }
+        },
+        {
+          "type": "sign",
+          "x": -4,
+          "z": 0.5,
+          "scale": 1.2,
+          "lines": [
+            "[PAUSE] UNTIL ONE"
+          ]
+        }
+      ]
+    },
+    {
+      "start": 314.05,
+      "end": 317.07,
+      "note": "Not empty. Not simple. Just... peaceful. Organized.",
+      "location": "room",
+      "camera": {
+        "shot": "medium",
+        "move": "push",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "idle",
+          "face": "neutral",
+          "facing": "camera"
+        }
+      ],
+      "sfx": [
+        {
+          "name": "tick",
+          "at": 0.5
+        }
+      ],
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "props": [
+        {
+          "type": "screen",
+          "x": -2,
+          "z": 1.5,
+          "scale": 1.3,
+          "lines": [
+            "CLARITY",
+            "LEVEL:",
+            "MAXIMUM"
+          ],
+          "progress": {
+            "label": "PEACE",
+            "from": 0,
+            "to": 100
+          }
+        }
+      ],
+      "title": {
+        "text": "NOT EMPTY.!",
+        "at": 0.3,
+        "position": "bottom",
+        "size": "medium"
+      }
+    },
+    {
+      "start": 317.07,
+      "end": 320.95,
+      "note": "They think in complete sentences. They feel without chaos.",
+      "location": "office",
+      "camera": {
+        "shot": "close",
+        "move": "dolly-in",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "think",
+          "face": "happy",
+          "facing": "camera"
+        }
+      ],
+      "transition": "fade",
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "props": [
+        {
+          "type": "clock",
+          "x": 3,
+          "z": 1,
+          "scale": 1.5,
+          "color": "#FFD700"
+        },
+        {
+          "type": "screen",
+          "x": 2,
+          "z": 1,
+          "scale": 1.3,
+          "lines": [
+            "MENTAL",
+            "NOISE:",
+            "OVERLOAD"
+          ],
+          "progress": {
+            "label": "STRESS",
+            "from": 50,
+            "to": 100
+          }
+        }
+      ]
+    },
+    {
+      "start": 320.95,
+      "end": 323.54,
+      "note": "They exist without the constant storm.",
+      "location": "park",
+      "camera": {
+        "shot": "wide",
+        "move": "static",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "talk",
+          "face": "grin",
+          "facing": "camera"
+        }
+      ],
+      "transition": "whip",
+      "title": {
+        "text": "THEY EXIST WITHOUT.",
+        "at": 0.4,
+        "position": "bottom",
+        "size": "medium"
+      },
+      "sfx": [
+        {
+          "name": "heartbeat",
+          "at": 0.5
+        }
+      ],
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "props": [
+        {
+          "type": "screen",
+          "x": 2,
+          "z": 1,
+          "scale": 1.3,
+          "lines": [
+            "MENTAL",
+            "NOISE:",
+            "OVERLOAD"
+          ],
+          "progress": {
+            "label": "STRESS",
+            "from": 50,
+            "to": 100
+          }
+        },
+        {
+          "type": "sign",
+          "x": -4,
+          "z": 0.5,
+          "scale": 1.2,
+          "lines": [
+            "THEY EXIST WITHOUT"
+          ]
+        }
+      ]
+    },
+    {
+      "start": 323.54,
+      "end": 327.85,
+      "note": "And for the first time in years... you can breathe.",
+      "location": "stage",
+      "camera": {
+        "shot": "medium",
+        "move": "pan-right",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "walk",
+          "face": "sad",
+          "facing": "camera"
+        }
+      ],
+      "transition": "flash",
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "props": [
+        {
+          "type": "clock",
+          "x": 3,
+          "z": 1,
+          "scale": 1.5,
+          "color": "#FFD700"
+        }
+      ]
+    },
+    {
+      "start": 327.85,
+      "end": 331.73,
+      "note": "[pause]\n\nYou realize then: the superpower isn't reading minds.",
+      "location": "hospital",
+      "camera": {
+        "shot": "close",
+        "move": "orbit",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "cheer",
+          "face": "scared",
+          "facing": "camera"
+        }
+      ],
+      "sfx": [
+        {
+          "name": "sparkle",
+          "at": 0.5
+        }
+      ],
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "props": [
+        {
+          "type": "clock",
+          "x": 3,
+          "z": 1,
+          "scale": 1.5,
+          "color": "#FFD700"
+        },
+        {
+          "type": "screen",
+          "x": -3,
+          "z": 1.5,
+          "scale": 1.3,
+          "lines": [
+            "SUPERPOWER",
+            "ACTIVE",
+            "UNFILTERED"
+          ],
+          "progress": {
+            "label": "POWER",
+            "from": 0,
+            "to": 100
+          }
+        }
+      ],
+      "title": {
+        "text": "[PAUSE] YOU!",
+        "at": 0.3,
+        "position": "bottom",
+        "size": "medium"
+      }
+    },
+    {
+      "start": 331.73,
+      "end": 336.48,
+      "note": "The superpower is finding someone whose mind you WANT to read.",
+      "location": "studio",
+      "camera": {
+        "shot": "wide",
+        "move": "push",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "scared",
+          "face": "worried",
+          "facing": "camera"
+        }
+      ],
+      "transition": "fade",
+      "title": {
+        "text": "THE SUPERPOWER IS.",
+        "at": 0.4,
+        "position": "bottom",
+        "size": "medium"
+      },
+      "bg": "#1f6f78",
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "props": [
+        {
+          "type": "clock",
+          "x": 3,
+          "z": 1,
+          "scale": 1.5,
+          "color": "#FFD700"
+        },
+        {
+          "type": "screen",
+          "x": -3,
+          "z": 1.5,
+          "scale": 1.3,
+          "lines": [
+            "SUPERPOWER",
+            "ACTIVE",
+            "UNFILTERED"
+          ],
+          "progress": {
+            "label": "POWER",
+            "from": 0,
+            "to": 100
+          }
+        },
+        {
+          "type": "sign",
+          "x": -4,
+          "z": 0.5,
+          "scale": 1.2,
+          "lines": [
+            "THE SUPERPOWER IS"
+          ]
+        }
+      ]
+    },
+    {
+      "start": 336.48,
+      "end": 340.79,
+      "note": "Someone whose chaos matches yours. Someone whose noise becomes music.",
+      "location": "plaza",
+      "camera": {
+        "shot": "medium",
+        "move": "dolly-in",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "idle",
+          "face": "surprised",
+          "facing": "camera"
+        }
+      ],
+      "transition": "whip",
+      "sfx": [
+        {
+          "name": "pop",
+          "at": 0.5
+        }
+      ],
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "props": [
+        {
+          "type": "screen",
+          "x": 2,
+          "z": 1,
+          "scale": 1.3,
+          "lines": [
+            "MENTAL",
+            "NOISE:",
+            "OVERLOAD"
+          ],
+          "progress": {
+            "label": "STRESS",
+            "from": 50,
+            "to": 100
+          }
+        },
+        {
+          "type": "screen",
+          "x": -2,
+          "z": 1.5,
+          "scale": 1.3,
+          "lines": [
+            "CLARITY",
+            "LEVEL:",
+            "MAXIMUM"
+          ],
+          "progress": {
+            "label": "PEACE",
+            "from": 0,
+            "to": 100
+          }
+        }
+      ],
+      "title": {
+        "text": "SOMEONE WHOSE!",
+        "at": 0.3,
+        "position": "bottom",
+        "size": "medium"
+      }
+    },
+    {
+      "start": 340.79,
+      "end": 345.97,
+      "note": "[pause]\n\nAnd you learn: we don't need to read minds to connect.",
+      "location": "street",
+      "camera": {
+        "shot": "close",
+        "move": "static",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "idle",
+          "face": "smirk",
+          "facing": "camera"
+        }
+      ],
+      "transition": "flash",
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "props": [
+        {
+          "type": "clock",
+          "x": 3,
+          "z": 1,
+          "scale": 1.5,
+          "color": "#FFD700"
+        },
+        {
+          "type": "trophy",
+          "x": 0,
+          "z": 1,
+          "scale": 1.5,
+          "color": "#FFD700"
+        }
+      ]
+    },
+    {
+      "start": 345.97,
+      "end": 350.72,
+      "note": "We need to choose to listen. To ask. To be vulnerable.",
+      "location": "cafe",
+      "camera": {
+        "shot": "wide",
+        "move": "pan-right",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "idle",
+          "face": "neutral",
+          "facing": "camera"
+        }
+      ],
+      "title": {
+        "text": "WE NEED TO.",
+        "at": 0.4,
+        "position": "bottom",
+        "size": "medium"
+      },
+      "sfx": [
+        {
+          "name": "ding",
+          "at": 0.5
+        }
+      ],
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "props": [
+        {
+          "type": "trophy",
+          "x": 0,
+          "z": 1,
+          "scale": 1.5,
+          "color": "#FFD700"
+        },
+        {
+          "type": "sign",
+          "x": -4,
+          "z": 0.5,
+          "scale": 1.2,
+          "lines": [
+            "WE NEED TO"
+          ]
+        }
+      ]
+    },
+    {
+      "start": 350.72,
+      "end": 356.76,
+      "note": "To trust that the person across from us is more than their worst thought.",
+      "location": "lab",
+      "camera": {
+        "shot": "medium",
+        "move": "orbit",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "think",
+          "face": "happy",
+          "facing": "camera"
+        }
+      ],
+      "transition": "fade",
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "props": [
+        {
+          "type": "clock",
+          "x": 3,
+          "z": 1,
+          "scale": 1.5,
+          "color": "#FFD700"
+        },
+        {
+          "type": "trophy",
+          "x": 0,
+          "z": 1,
+          "scale": 1.5,
+          "color": "#FFD700"
+        }
+      ]
+    },
+    {
+      "start": 356.76,
+      "end": 361.07,
+      "note": "[long pause]\n\nBecause the walls between minds? They're not prisons.",
+      "location": "room",
+      "camera": {
+        "shot": "close",
+        "move": "push",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "talk",
+          "face": "grin",
+          "facing": "camera"
+        }
+      ],
+      "transition": "whip",
+      "sfx": [
+        {
+          "name": "whoosh",
+          "at": 0.5
+        }
+      ],
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "props": [
+        {
+          "type": "clock",
+          "x": 3,
+          "z": 1,
+          "scale": 1.5,
+          "color": "#FFD700"
+        },
+        {
+          "type": "screen",
+          "x": 0,
+          "z": 2,
+          "scale": 1.5,
+          "lines": [
+            "PRIVACY",
+            "STATUS:",
+            "BREACHED"
+          ],
+          "progress": {
+            "label": "PRIVACY",
+            "from": 100,
+            "to": 0
+          }
+        }
+      ],
+      "title": {
+        "text": "[LONG PAUSE]!",
+        "at": 0.3,
+        "position": "bottom",
+        "size": "medium"
+      }
+    },
+    {
+      "start": 361.07,
+      "end": 363.66,
+      "note": "They're gardens. And what grows there...",
+      "location": "office",
+      "camera": {
+        "shot": "wide",
+        "move": "dolly-in",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "walk",
+          "face": "sad",
+          "facing": "camera"
+        }
+      ],
+      "transition": "flash",
+      "title": {
+        "text": "THEY'RE GARDENS. AND.",
+        "at": 0.4,
+        "position": "bottom",
+        "size": "medium"
+      },
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "props": [
+        {
+          "type": "trophy",
+          "x": 0,
+          "z": 1,
+          "scale": 1.5,
+          "color": "#FFD700"
+        },
+        {
+          "type": "sign",
+          "x": -4,
+          "z": 0.5,
+          "scale": 1.2,
+          "lines": [
+            "THEY'RE GARDENS. AND"
+          ]
+        }
+      ]
+    },
+    {
+      "start": 363.66,
+      "end": 367.97,
+      "note": "that's for each of us to tend. And to share.",
+      "location": "park",
+      "camera": {
+        "shot": "medium",
+        "move": "static",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "cheer",
+          "face": "scared",
+          "facing": "camera"
+        }
+      ],
+      "crowd": {
+        "count": 12,
+        "area": [
+          -6,
+          -3,
+          6,
+          -0.5
+        ],
+        "action": "idle",
+        "face": "neutral",
+        "facing": "away",
+        "seed": 231
+      },
+      "sfx": [
+        {
+          "name": "glitch",
+          "at": 0.5
+        }
+      ],
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "title": {
+        "text": "THAT'S FOR!",
+        "at": 0.3,
+        "position": "bottom",
+        "size": "medium"
+      }
+    },
+    {
+      "start": 367.97,
+      "end": 372.28,
+      "note": "Only when we're ready. Only with those who've earned it.",
+      "location": "stage",
+      "camera": {
+        "shot": "close",
+        "move": "pan-right",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "scared",
+          "face": "worried",
+          "facing": "camera"
+        }
+      ],
+      "transition": "fade",
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "props": [
+        {
+          "type": "clock",
+          "x": 3,
+          "z": 1,
+          "scale": 1.5,
+          "color": "#FFD700"
+        }
+      ]
+    },
+    {
+      "start": 372.28,
+      "end": 375.73,
+      "note": "[soft pause]\n\nTime to take off the headphones.",
+      "location": "hospital",
+      "camera": {
+        "shot": "wide",
+        "move": "orbit",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "idle",
+          "face": "surprised",
+          "facing": "camera"
+        }
+      ],
+      "transition": "whip",
+      "title": {
+        "text": "[SOFT PAUSE] TIME.",
+        "at": 0.4,
+        "position": "bottom",
+        "size": "medium"
+      },
+      "sfx": [
+        {
+          "name": "tick",
+          "at": 0.5
+        }
+      ],
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "props": [
+        {
+          "type": "clock",
+          "x": 3,
+          "z": 1,
+          "scale": 1.5,
+          "color": "#FFD700"
+        },
+        {
+          "type": "sign",
+          "x": -4,
+          "z": 0.5,
+          "scale": 1.2,
+          "lines": [
+            "[SOFT PAUSE] TIME"
+          ]
+        }
+      ]
+    },
+    {
+      "start": 375.73,
+      "end": 379.18,
+      "note": "The coffee shop is just a coffee shop.",
+      "location": "studio",
+      "camera": {
+        "shot": "medium",
+        "move": "push",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "idle",
+          "face": "smirk",
+          "facing": "camera"
+        }
+      ],
+      "transition": "flash",
+      "bg": "#1f6f78",
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      }
+    },
+    {
+      "start": 379.18,
+      "end": 382.63,
+      "note": "The barista's just tired. The businessman's just human.",
+      "location": "plaza",
+      "camera": {
+        "shot": "close",
+        "move": "dolly-in",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "idle",
+          "face": "neutral",
+          "facing": "camera"
+        }
+      ],
+      "crowd": {
+        "count": 12,
+        "area": [
+          -6,
+          -3,
+          6,
+          -0.5
+        ],
+        "action": "idle",
+        "face": "neutral",
+        "facing": "away",
+        "seed": 243
+      },
+      "sfx": [
+        {
+          "name": "heartbeat",
+          "at": 0.5
+        }
+      ],
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "props": [
+        {
+          "type": "trophy",
+          "x": 0,
+          "z": 1,
+          "scale": 1.5,
+          "color": "#FFD700"
+        }
+      ],
+      "title": {
+        "text": "THE BARISTA'S!",
+        "at": 0.3,
+        "position": "bottom",
+        "size": "medium"
+      }
+    },
+    {
+      "start": 382.63,
+      "end": 386.51,
+      "note": "The teenager's just scared. And you? You're just you.",
+      "location": "street",
+      "camera": {
+        "shot": "wide",
+        "move": "static",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "think",
+          "face": "happy",
+          "facing": "camera"
+        }
+      ],
+      "transition": "fade",
+      "title": {
+        "text": "THE TEENAGER'S JUST.",
+        "at": 0.4,
+        "position": "bottom",
+        "size": "medium"
+      },
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "props": [
+        {
+          "type": "sign",
+          "x": -4,
+          "z": 0.5,
+          "scale": 1.2,
+          "lines": [
+            "THE TEENAGER'S JUST"
+          ]
+        }
+      ]
+    },
+    {
+      "start": 386.51,
+      "end": 393.85,
+      "note": "Finally, blessedly, just you. [soft laugh]\n\nThe real mind-reading was the friends we made along the way.",
+      "location": "cafe",
+      "camera": {
+        "shot": "medium",
+        "move": "pan-right",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "talk",
+          "face": "grin",
+          "facing": "camera"
+        }
+      ],
+      "transition": "whip",
+      "sfx": [
+        {
+          "name": "sparkle",
+          "at": 0.5
+        }
+      ],
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "props": [
+        {
+          "type": "clock",
+          "x": 3,
+          "z": 1,
+          "scale": 1.5,
+          "color": "#FFD700"
+        }
+      ],
+      "title": {
+        "text": "FINALLY, BLESSEDLY,!",
+        "at": 0.3,
+        "position": "bottom",
+        "size": "medium"
+      }
+    },
+    {
+      "start": 393.85,
+      "end": 395.67,
+      "note": "[long pause]\n\nThe end.",
+      "location": "lab",
+      "camera": {
+        "shot": "close",
+        "move": "orbit",
+        "target": "hero"
+      },
+      "actors": [
+        {
+          "id": "hero",
+          "x": 0,
+          "z": 0.8,
+          "shirt": "#2bb3a3",
+          "hair": "puff",
+          "hairColor": "#2bb3a3",
+          "print": "dino",
+          "action": "walk",
+          "face": "sad",
+          "facing": "camera"
+        }
+      ],
+      "transition": "flash",
+      "plate": {
+        "text": "STICKMAN LIFE",
+        "at": 0,
+        "position": "top-left"
+      },
+      "props": [
+        {
+          "type": "clock",
+          "x": 3,
+          "z": 1,
+          "scale": 1.5,
+          "color": "#FFD700"
+        }
+      ]
+    }
+  ]
+}

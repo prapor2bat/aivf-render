@@ -26,6 +26,7 @@ import { ZoriVideo, ZORI_F } from "./zori/Video";
 import { LikyVideo, LIKY_F } from "./liky/Video";
 import { MistaVideo, MISTA_F } from "./mista/Video";
 import { CoverSpec, withCover } from "./brand/cover";
+import { StickmanComposition, STICKMAN_F } from "./stickman/Root";
 
 /* Обкладинка серії «Математика простими словами» → епізод 1. */
 export const MATH1_COVER: CoverSpec = { top: "ЩО ТАКЕ", bottom: "ПОХІДНА", pose: "point-right", obj: "assets/fl-abacus.png", badge: "МАТЕМАТИКА ПРОСТИМИ СЛОВАМИ", tone: "night" };
@@ -87,6 +88,7 @@ export const RemotionRoot: React.FC = () => (
     {/* формат «Генерація» (проєкт 025): стокові фото + шар руху, 16:9.
         Дані: studio/src/mista/{audio_meta,images-plan}.json, асети public/mista/. */}
     <Composition id="Mista" component={MistaVideo} durationInFrames={MISTA_F} fps={30} width={1280} height={720} />
+    <StickmanComposition />
     <CarouselCompositions />
   </>
 );
