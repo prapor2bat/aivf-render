@@ -58,7 +58,8 @@ jobs:
             --scale="$SCALE" \
             --crf="$CRF" \
             --concurrency="$CONCURRENCY" \
-            --gl="$GL"
+            --gl="$GL" \
+            --browser-flags="--use-gl=angle,--enable-unsafe-swiftshader,--disable-gpu"
 
       - name: Upload rendered video
         uses: actions/upload-artifact@v4
