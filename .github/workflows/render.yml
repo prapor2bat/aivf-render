@@ -19,6 +19,10 @@ on:
         description: "Parallel browser tabs (4 vCPU / 16 GB runner; try 2, then 3)"
         required: true
         default: "2"
+      gl:
+        description: "OpenGL renderer (angle for Three.js/WebGL, swiftshader for software)"
+        required: true
+        default: "angle"
 
 jobs:
   render:
@@ -46,13 +50,15 @@ jobs:
           SCALE: ${{ inputs.scale }}
           CRF: ${{ inputs.crf }}
           CONCURRENCY: ${{ inputs.concurrency }}
+          GL: ${{ inputs.gl }}
         run: |
           mkdir -p out
           time npx remotion render "$COMPOSITION" \
             "out/$COMPOSITION.mp4" \
             --scale="$SCALE" \
             --crf="$CRF" \
-            --concurrency="$CONCURRENCY"
+            --concurrency="$CONCURRENCY" \
+            --gl="$GL"
 
       - name: Upload rendered video
         uses: actions/upload-artifact@v4
