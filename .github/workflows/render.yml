@@ -40,7 +40,9 @@ jobs:
           npm --version
 
       - name: Install dependencies
-        run: npm ci 2>&1 | tail -5
+        shell: pwsh
+        run: |
+          npm ci 2>&1 | Select-Object -Last 5
 
       - name: Install Remotion browser (Chrome Headless Shell)
         if: ${{ inputs.composition != 'Stickman' }}
@@ -57,8 +59,8 @@ jobs:
         run: |
           New-Item -ItemType Directory -Force -Path out | Out-Null
           $env:CI = "false"
-          Measure-Command { 
-            npx remotion render "$env:COMPOSITION" "out/$env:COMPOSITION.mp4" --scale="$env:SCALE" --crf="$env:CRF" --concurrency="$env:CONCURRENCY" --gl="$env:GL" 2>&1 | Tee-Object -FilePath "render.log" 
+          Measure-Command {
+            npx remotion render "$env:COMPOSITION" "out/$env:COMPOSITION.mp4" --scale="$env:SCALE" --crf="$env:CRF" --concurrency="$env:CONCURRENCY" --gl="$env:GL" 2>&1 | Tee-Object -FilePath "render.log"
           } | Select-Object TotalMinutes
 
       - name: Upload rendered video
