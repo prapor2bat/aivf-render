@@ -26,22 +26,24 @@ on:
 
 jobs:
   render:
-    runs-on: ubuntu-latest
+    runs-on: ${{ inputs.composition == 'Stickman' && fromJSON('["self-hosted", "Windows", "X64", "stickman"]') || 'ubuntu-latest' }}
     timeout-minutes: 120
 
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: "20"
+      - name: Setup Node.js (self-hosted)
+        if: ${{ inputs.composition == 'Stickman' }}
+        run: |
+          node --version
+          npm --version
 
       - name: Install dependencies
-        run: npm ci
+        run: npm ci 2>&1 | tail -5
 
       - name: Install Remotion browser (Chrome Headless Shell)
+        if: ${{ inputs.composition != 'Stickman' }}
         run: npx remotion browser ensure
 
       - name: Render
@@ -51,19 +53,20 @@ jobs:
           CRF: ${{ inputs.crf }}
           CONCURRENCY: ${{ inputs.concurrency }}
           GL: ${{ inputs.gl }}
+        shell: pwsh
         run: |
-          mkdir -p out
-          time npx remotion render "$COMPOSITION" \
-            "out/$COMPOSITION.mp4" \
-            --scale="$SCALE" \
-            --crf="$CRF" \
-            --concurrency="$CONCURRENCY" \
-            --gl="$GL" \
-            --browser-flags="--use-gl=angle,--enable-unsafe-swiftshader,--disable-gpu"
+          New-Item -ItemType Directory -Force -Path out | Out-Null
+          $env:CI = "false"
+          Measure-Command { 
+            npx remotion render "$env:COMPOSITION" "out/$env:COMPOSITION.mp4" --scale="$env:SCALE" --crf="$env:CRF" --concurrency="$env:CONCURRENCY" --gl="$env:GL" 2>&1 | Tee-Object -FilePath "render.log" 
+          } | Select-Object TotalMinutes
 
       - name: Upload rendered video
         uses: actions/upload-artifact@v4
+        if: always()
         with:
           name: rendered-${{ inputs.composition }}
-          path: out/*.mp4
+          path: |
+            out/*.mp4
+            render.log
           retention-days: 7
